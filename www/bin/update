@@ -1,0 +1,2 @@
+#!/bin/sh
+( cd $HOME/cvs-lugbs && cvs -d :pserver:cvs@cvs.lugbs.linux.it:/var/lib/cvs co lugbs && make )

@@ -1,0 +1,8 @@
+#!/bin/sh
+PT=/var/lib/majordomo/lists
+cd $PT
+cp $PT/lug-annunci $PT/lug-annunci.bak
+cat $PT/lug-annunci $PT/lug $PT/lug-attivisti | sort | uniq > /tmp/lug-annunci.swp
+cp /tmp/lug-annunci.swp $PT/lug-annunci
+rm /tmp/lug-annunci.swp
+chown majordomo.majordomo $PT/lug-annunci

@@ -1,0 +1,68 @@
+#!/bin/sh
+#
+
+# il parametro $1 contiene il path dove fare l'operazione...
+# ci deve essere un file ".listing" prodotto da wget
+# il parametro $2 (se presente) e' il file in cui appendere
+# tutti i comandi di cancellazione.
+#
+
+if [ -z "$1" ]
+then
+   echo Mi serve il path dove fare il confronto...
+   exit 2
+fi
+
+pwd=`pwd`
+
+if [ -n "$2" ]
+then
+   RMFILES=$pwd/$2
+else
+   RMFILES=${1}/.DMF.rmfiles.script
+   if [ -f $RMFILES ]
+   then
+      rm $RMFILES
+   fi
+   touch $RMFILES
+   chmod a+x $RMFILES
+fi
+
+cd $1
+
+if [ ! -f .listing ]
+then
+   echo Cannot find .listing, exiting...
+   exit 1
+fi
+
+echo Starting...
+
+cat .listing | tr -s " " | cut -f9 -d\ >.listing.cut
+echo ".listing" >>.listing.cut
+echo ".listing.cut" >>.listing.cut
+
+listall=`ls -1a`
+
+echo "cd $1" >> $RMFILES
+echo "" >> $RMFILES
+
+for file in $listall
+do
+   grep -q -x -F "$file" .listing.cut
+   status=$?
+   if [ $status != 0 ]
+   then
+      echo "rm $file" >> $RMFILES
+   fi
+done
+
+echo "rm .listing" >> $RMFILES
+echo "cd $pwd" >> $RMFILES
+echo "" >> $RMFILES
+
+#echo "echo \"Ricorda di cancellarmi: rm $RMFILES\"" >>$RMFILES
+#echo "echo \"ed anche di cancellare  rm .listing\"" >>$RMFILES
+
+echo "i files da eliminare sono elencati nel file $RMFILES"
+rm .listing.cut

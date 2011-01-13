@@ -1,0 +1,23 @@
+#!/bin/sh
+# Lo so... questo script \'e orrendo, ma alle 2 di mattina ho avuto qualche problema
+# nel far fare una update incrementale a wmf
+# La riga col sed serve per far funzionare il 
+# parser  con i client di posta che usano from invece che From
+rm -f ~lugbs/public_html/archive/lug/bin*
+#rm -f ~lugbs/public_html/archive/lug-cd/*
+#rm -f ~lugbs/public_html/archive/lug-announce/*
+#rm -f ~lugbs/public_html/archive/lug-press/*
+#rm -f ~lugbs/public_html/archive/lug-eventi/*
+#rm -f ~lugbs/public_html/archive/lug-help/*
+echo "1"
+#cat ~lugbs/archive/lug/* | sed -e "s/^from/From/" | ~lugbs/bin/hypermail -l Lug -d ~lugbs/public_html/archive/lug/  -i -
+echo "2"
+cat ~lugbs/archive/lug-annunci/* | sed -e "s/^from/From/" | /usr/local/bin/hypermail -l Lug-annunci -i - -p -d ~lugbs/public_html/archive/lug-annunci  
+cat ~lugbs/archive/lug-cd/* | sed -e "s/^from/From/" | ~lugbs/bin/hypermail -i - -l lug-cd -p  -d ~lugbs/public_html/archive/lug-cd/ 
+cat ~lugbs/archive/lug-press/* | sed -e "s/^from/From/" | ~lugbs/bin/hypermail -l lug-press -i - -p -d ~lugbs/public_html/archive/lug-press/ 
+cat ~lugbs/archive/lug-eventi/* | sed -e "s/^from/From/" | ~lugbs/bin/hypermail -l Lug-Eventi -i - -p  -d ~lugbs/public_html/archive/lug-eventi/ 
+cat ~lugbs/archive/lug-help/* | sed -e "s/^from/From/" | ~lugbs/bin/hypermail -l lug-help -i - -p -d ~lugbs/public_html/archive/lug-help/ 
+cat ~lugbs/bin/mese-head.html > ~lugbs/public_html/archive/permese.html
+bash ~lugbs/bin/permese.sh >> ~lugbs/public_html/archive/permese.html
+cat ~lugbs/bin/mese-foot.html >> ~lugbs/public_html/archive/permese.html
+cat ~lugbs/public_html/archive/permese.html > ~lugbs/public_html/archive/permese.php

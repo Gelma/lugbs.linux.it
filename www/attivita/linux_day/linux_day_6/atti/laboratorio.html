@@ -1,0 +1,285 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<HTML lang="it">
+<HEAD>
+   <TITLE>Linux nel laboratorio dell'Universit&agrave; Cattolica di Brescia</TITLE> 
+   <META HTTP-EQUIV="Content-Type" content="text/html; charset=iso-8859-1">
+   <META NAME="DC.Language" CONTENT="it">
+   <LINK REV=MADE href="mailto:webmaster@lugbs.linux.it">
+</HEAD>
+<BODY>
+<h1>Linux nel laboratorio didattico dell'Universit&agrave; Cattolica di Brescia</h1>
+
+<font size="-1">Maurizio Paolini, 
+Universit&agrave; Cattolica di Brescia.<br>
+Questa presentazione: 
+http://dmf.unicatt.it/~paolini/linuxday/laboratorio.html</font>
+
+
+<h2>Schema della presentazione</h2>
+
+<ul>
+<li><a href="#intro">Introduzione</a>
+<li><a href="#postazioni">Configurazione delle postazioni di lavoro</a>
+<li><a href="#condivisioni">Condivisioni tra le postazioni</a>
+<li><a href="#internet">Gli utenti del laboratorio e internet</a>
+
+<li><a href="#accounting">Accounting (stampe), quote disco</a>
+<li><a href="#manutenzione">Gestione e manutenzione del laboratorio</a>
+<li><a href="#installazione">Installazione nuove postazioni</a>
+<li><a href="#costi">Costi</a>
+</ul>
+
+<hr>
+
+<h2><a name="intro">Introduzione e descrizione del laboratorio</a></h2>
+
+Il nostro <a href="http://www.bplab.bs.unicatt.it/">laboratorio</a> 
+(Facolt&agrave; di scienze matematiche fisiche e naturali) &egrave;
+composto da 40 postazioni utilizzabili dagli studenti dislocate su
+due locali diversi 
+(vedi <a href="http://www.bplab.bs.unicatt.it/~paolini/labinfo.html">istantanea</a>).
+Le quaranta postazioni sono controllate da un server linux.
+(<code>bpserv.bplab.bs.unicatt.it</code>)
+
+<p>
+
+Il server &egrave; visibile da internet e rimane sempre acceso.  Tra le
+sue funzioni c'&egrave; anche quella di pubblicare le pagine web relative
+al laboratorio.
+
+<p>
+Ciascuna postazione &egrave; invece pensata per il lavoro individuale
+svolto alla console dallo studente, dovrebbe essere <b>spenta</b> quando
+non viene utilizzata da nessuno, in particolare durante l'orario di
+chiusura del laboratorio (come adesso).
+Ha un indirizzo IP (l'indirizzo di rete) privato, cio&egrave; non 
+visibile da internet.  Si &egrave; scelto di non utilizzare la tecnica
+DHCP, ma di assegnare un indirizzo fisso ad ogni postazione (spiegare 
+perch&eacute;).
+
+<ul>
+<li>Provare la connessione via ssh al server; accensione delle postazioni.
+</ul>
+
+<hr>
+
+<h3><a name="postazioni">Configurazione delle postazioni di lavoro</a></h3>
+
+Ogni postazione (un PC IBM-compatibile) permette un cosiddetto
+<i>dual boot</i>, cio&egrave; pu&ograve; essere accesa in due 
+modalit&agrave; completamente differenti e indipendenti, riferite a
+partizioni distinte sul disco fisso della macchina.
+
+All'accensione lo schermo presenta 
+<a href="http://www.bplab.bs.unicatt.it/help/index.html">questa</a>
+videata, dove &egrave; richiesta la selezione della modalit&agrave; di
+lavoro.  In particolare:
+
+<ul>
+<li>Windows (95 o 98).
+<li>Linux
+</ul>
+
+Ciascuna postazione permette quindi di scegliere se operare in ambiente
+Windows di Microsoft o in ambiente Linux.
+
+<hr>
+
+<h3><a name="condivisioni">Condivisioni tra le postazioni</a></h3>
+
+<ul>
+<li><b>Codice utente</b>. Ovvero l'identificazione (utente/password)
+&egrave; comune a tutte le postazioni, e condivisa tra windows e linux.
+In particolare, se un utente cambia la propria password, lo fa per 
+entrambi gli ambienti di lavoro (<b>nota:</b> Questo presuppone che
+anche per l'accesso a windows viene richiesta l'autenticazione; questo
+viene fatto usando l'emulazione "samba" sul server linux di un dominio NT).
+L'accesso tramite autenticazione utente/password &egrave; invece 
+perfettamente normale in ambienti unix (e quindi linux) che sono nativamente
+multiuser.  Per motivi di sicurezza si &egrave; deciso di insistere molto
+sulla creazione di codici di accesso <b>personali</b> piuttosto che
+codici di accesso di gruppo (ad esempio legati ai vari corsi attivati).
+Per l'ambiente linux la condivisione dell'account si basa sul meccanismo
+<b>NIS</b> (aka Yellow Pages), mentre per l'ambiente windows &egrave; il
+solito <b>SAMBA</b> che fa il lavoro.
+
+<li><b>Area dati personale</b>.  La cosiddetta <code>home</code> dell'utente,
+ovvero lo spazio disco a sua disposizione, risiede sul server, e non sulla
+postazione che l'utente sta utilizzando; viene esportata utilizzando
+il cosiddetto <b>NFS</b>.  In questo modo i propri dati sono
+<ol>
+<li>Visibili da tutte le postazioni,
+<li>Protetti rispetto agli altri utenti.
+</ol>
+
+Non solo: l'area dati personale &egrave; anche accessibile dall'ambiente
+Windows, utilizzando le possibilit&agrave; fornite da samba.  L'utente
+accede ai suoi dati mediante l'unit&agrave; logica "U:".
+
+<li><b>Casella di posta elettronica</b>.
+Viene condivisa dalle postazioni accese in ambiente linux, e presentata
+come se fosse presente in locale, permettendo l'utilizzo di tutti i client
+di posta elettronica.  Inoltre il server ha attivi i servizi pop3 e imap
+per poter accedere alla propria posta
+<ul>
+<li>Da windows su una delle postazioni,
+<li>Da casa propria tramite internet.
+</ul>
+
+<li><b>Stampante.</b>
+</ul>
+
+<hr>
+<h3><a name="internet">Gli utenti del laboratorio e internet</a></h3>
+
+<b>Navigazione internet.</b>
+Ogni utente pu&ograve; navigare in internet dalla propria postazione.
+Deve per&ograve; utilizzare il proxy attivo sul server linux (squid);
+questo permette di ottimizzare i trasferimenti di dati da internet
+ed eventualmente di attivare dei filtri di accesso.  Non &egrave;
+invece possibile utilizzare internet direttamente dalle postazioni
+per servizi particolari, come chat, cvs, irc, telnet, ssh.
+E' per&ograve; possibile per un utente effettuare una connessione sul
+server, che invece &egrave; connesso in internet senza limitazioni.
+
+<p>
+
+<b>Pubblicazione su internet.</b>
+Ciascun utente pu&ograve; pubblicare proprie pagine web.  Si sfrutta
+la possibilit&agrave; (automatica per apache) di pubblicare su internet
+il materiale che un utente mette in una propria cartella particolare
+(public_html).  Ad esempio: 
+<a href="http://www.bplab.bs.unicatt.it/~paolini/">questo</a> &egrave; il
+contenuto della mia cartella "public_html" nella mia area dati personale del
+laboratorio.
+
+<p>
+
+<b>Accesso da casa.</b>
+Essendo la propria area dati posizionata sul server, che &egrave; visibile
+da internet, &egrave; possibile accedervi da casa con una connessione
+"ssh".  In particolare &egrave; possibile effettuare trasferimento di dati
+
+<p>
+
+<b>Posta elettronica.</b>
+Ogni utente ha un proprio indirizzo di posta elettronica.  Pu&ograve;
+leggere e spedire posta dalle postazioni, e da casa (webmail). Pu&ograve;
+anche redirigere tutta la posta in arrivo ad un'altro indirizzo di email.
+
+</ul>
+
+<hr>
+
+<h3><a name="accounting">Accounting delle stampe e quote disco</a></h3>
+
+La condivisione della stampante (tramite samba) tra gli ambienti windows
+e Linux permette di conteggiare le stampe fatte da ciascun utente e
+predisporre uno stampato mensile con il risultato.
+
+<p>
+
+Ogni utente ha a disposizione una quota di utilizzo del disco sul server,
+in modo da evitare che qualcuno occupi tutto lo spazio disponibile.
+
+<hr>
+
+<h3><a name="manutenzione">Gestione e manutenzione del laboratorio</a></h3>
+
+Il numero di postazioni (40) rende estremamente delicato il combito di
+gestire e mantenere aggiornato il parco software delle macchine, con la
+complicazione aggiuntiva del doppio ambiente di lavoro.
+
+<p>
+
+Qui per&ograve; l'uso di linux viene in aiuto in modo notevole, in quanto
+&egrave; estremamente naturale in ambiente unix effettuare manutenzione
+remota delle macchine.
+
+<p>
+
+Prima abbiamo visto come accendere le postazioni da remoto.  Quando non
+&egrave; presente nessuno alla console che effettui la scelta dell'ambiente
+di lavoro, la postazione si accende in ambiente linux.  Permette quindi
+l'accesso da remoto con "ssh" (provare!).
+
+<p>
+
+<b>Potenza della shell per il controllo remoto</b>.
+Esempio:
+
+<pre><code>
+$ ssh-add
+$ nums=`seq -w 1 21`
+$ echo $nums
+$ for n in $nums
+$ do
+$ ssh bplab$n 'echo sono la macchina `hostname`'
+$ done
+</code></pre>
+
+<p>
+
+<b>Autenticazione con chiave pubblica/chiave privata</b>.
+Permette di ottenere il massimo della flessibilit&agrave; senza perdere
+nel livello di sicurezza.  Il comando "ssh-add" che precede serviva a
+rendere noto al sistema la mia chiave privata personale, cos&igrave; da
+rendere possibile l'autenticazione per i comandi remoti con "ssh", ed
+anche la possibilit&agrave; di richiedere comandi remoti come utente "root".
+
+<b>Manutenzione dell'ambiente Windows</b>.
+Tramite <i>clonaggio</i> della partizione windows (far partire
+lo script <code>dowinpropagate</code>).
+
+<p>
+
+<b>Note:</b>
+<ul>
+<li>Basato su un semplice trasferimento dati compressi a basso livello, 
+cosa veramente banale da ottenere con linux, esempio qualcosa del tipo: <br>
+<code>cat /dev/hda1 | gzip --fast | nc -l -p 2000</code> <br>
+su una macchina, e <br>
+<code>nc bplab01 2000 | gunzip >/dev/hda1</code> <br>
+su un'altra.
+<li>Propagazione esponenziale: appena ricevuta la partizione aggiornata,
+ciascuna macchina pu&ograve; a sua volta clonare un'altra macchina.
+<li>Personalizzazione della partizione windows.  Tramite un file
+"netconf.reg" che viene salvato prima del clonaggio e ripristinato alla fine
+e contenente i parametri personali di ciascuna postazione (nome, indirizzo ip,
+<b>codice di licenza di windows</b>).
+Il file "netconf.reg" viene eseguito ad ogni boot di windows delle postazioni.
+</ul>
+
+<p>
+
+<b>Altri esempi:</b>
+<pre><code>
+$ ssh root@bplab01 cat /dev/vcs
+$ ssh root@bplab01 /sbin/poweroff
+$ ssh root@bplab01 bootwindmf
+</code></pre>
+
+<hr>
+
+<h3><a name="installazione">Installazione nuove postazioni</a></h3>
+
+E' possibile in modo relativamente semplice con gli stessi strumenti
+utilizzati per il clonaggio della partizione windows.
+
+<p>
+
+<hr>
+
+<h3><a name="costi">Costi</a></h3>
+
+Escludendo il costo dell'hardware (postazioni, server e apparati di rete),
+ed escludendo i costi di licenza <b>del software per windows</b>, il costo
+complessivo della soluzione descritta &egrave; pari a <b>zero</b>!
+
+<p>
+<hr>
+<hr>
+<hr>
+</body>
+</html>

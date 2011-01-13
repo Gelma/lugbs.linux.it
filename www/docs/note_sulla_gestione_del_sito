@@ -1,0 +1,19 @@
+a) un mirror deve *necessariamente* succhiare i sorgenti del sito dal cvs del lug
+b) una volta succhiati gli aggiornamenti deve essere necessariamente eseguito
+   il Make
+c) le eventuali modifiche apportate al sito devono essere necessariamente
+   apportate sui file php
+d) i link alle pagine statiche (dove per pagine statiche si intende tutte
+   le pagine dove non vi sia interattivita` con l'utente, compilazioni
+   di form, ecc) devono puntare agli equivalenti html
+e) i sorgenti php di un file html `statico' che dipenda da informazioni
+   esterne (eg. un file txt da analizzare) devono contenere un commento del
+   tipo
+//depends_on: lista_files_da_cui_dipende
+
+
+n.b: oltre al cvs principale, ne esiste uno che contiene solo i file binari,
+     o comunque tutti quei file sufficientemente grossi da risultare comodo
+     avere in locazioni diverse. le modalita` di accesso solo le solite,
+     l'unico aspetto da tener presente e` il checkout da fare:
+     :pserver:(cvs|USERNAME)@cvs.lugbs.linux.it:/cvsroot co lugbinari 

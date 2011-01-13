@@ -1,0 +1,2119 @@
+RICHARD STALLMAN
+
+IL PROGETTO GNU
+
+
+Nota del traduttore
+
+Ho sbobinato questo testo in inglese dalla videocassetta di una conferenza
+data da Richard Stallman nel dicembre 1997 al centro sociale Cox18 di
+Milano.
+
+Stallman e' l'ideatore del concetto del "free software" ovvero "software
+libero", e in essa lui spiega il perche' e il come della sua etica e la
+messa in pratica di un modo di fare informatica senza sottomettersi alle
+pratiche repressive del commercio.
+
+Nei titoli iniziali della videocassetta, si dice:
+
+"Si e' preferito mantenere la forma della traduzione simultanea e non la
+sottotitolazione, per riportare anche lo spirito di grande simpatia che si
+e' creato tra Stallman e la numerosa platea."
+
+ma, purtroppo, la traduzione simultanea, quando non coglie il senso inteso
+da Stallman, lo travisa del tutto.
+Per riportare lo spirito del movimento del free software ai lettori
+italiani, ho preferito tradurre con cura e con calma il significato piu' o
+meno letterale delle parole di Stallman, lasciando una buona dose della
+maniera americana in cui si esprime.
+Ho lasciato alcuni termini tecnici in quella specie di inglese italianizzato
+che si suole usare nell'informatica italiana. In particolare segnalo:
+
+Copyright: Il concetto del diritto d'autore, e il sistema che ne applica le
+leggi.
+
+Editor: Un programma per la modifica di archivi di testo puro senza
+indicatori di formattazione (corsivo, formato paragrafo ecc.).
+
+Hardware: Tutte le parti di un computer con una forma materiale.
+
+Software: Tutta la struttura di un computer che consiste soltanto in
+informazioni memorizzate, priva di una propria forma fisica.
+
+Nel testo qui in inglese, ho conservato il peso dato a certe parole per far
+risaltare un certo senso, circondando di asterischi la parola in questione,
+*cosi'*.
+Ho tolto le frasi dette a meta', alcuni chiarimenti fra Stallman e il
+traduttore, alcuni commenti della platea ecc., per riportare il coerente
+discorso di Stallman. Ho lasciato le battute inutili...
+Per chi e' in possesso di una copia di questa videocassetta, offro anche la
+prima versione di questo documento: la trascrizione parola-per-parola della
+conferenza, incluse le battute inutili, le frasi spezzate ecc., per chi
+vuole migliorare la propria comprensione dell'inglese americano parlato
+seguendo la videocassetta con il preciso testo davanti, senza traduzione.
+Per richiederlo, mandare posta elettronica a martin@voyanet.org o a
+medialab@voyanet.org
+
+Spero di non avere, anch'io, travisato le parole del profeta...
+
+In fede
+
+Martin Guy,
+presso il FreakNet MediaLab al C.S.A. Auro,
+Catania, Sicilia, aprile 2000.
+
+/* 21 maggio 2000
+   convertito in ASCII standard, effettuate alcune correzioni
+   asbesto, FreakNet MediaLab 
+ */
+
+--- Titoli iniziali ---
+
+Shake edizioni underground presenta
+
+una produzione Gomma's house punk media system
+assemblato da Gomma
+
+RICHARD STALLMAN
+
+IL PROGETTO GNU
+
+Questo video raccoglie integralmente la conferenza di Richard Stallman,
+tenuta a Milano, l'1/12/1997, presso il cs Cox18, e organizzata dalla
+rivista Decoder.
+
+Si e' preferito mantenere la forma della traduzione simultanea e non la
+sottotitolazione, per riportare anche lo spirito di grande simpatia che si
+e' creato tra Stallman e la numerosa platea.
+
+La conferenza di Stallman comincia con il racconto di come, tra la fine
+degli anni Settanta e l'inizio degli anni Ottanta, la condivisione dei
+saperi e delle conoscenze sulla programmazione fini', anche nei templi
+dell'etica hacker, come il laboratorio di intelligenza artificiale del
+Massachussetts Institute of Technology, dove Stallman lavorava.
+
+Tra i giovani ricercatori e gli studenti comincio' a prevalere l'egoismo...
+e questo cattivo esempio si diffuse purtroppo sempre di piu'...
+
+--- discorso ---
+
+His example inspired other people with weak consciences, who began hoarding
+information, instead of cooperating, for personal advantage
+
+Il suo esempio ispiro' altre persone di debole coscienza, che si misero ad
+accaparrare le informazioni, piuttosto che collaborare, allo scopo di
+ottenere un vantaggio personale
+
+and this set off a chain reaction as more and more people said "Nobody's
+going to cooperate with me, so why should I cooperate with anyone else?"
+
+e questo scateno' una reazione a catena, man mano che sempre piu' gente si
+chiedeva: "Nessuno e' disposto a collaborare con me; perche' mai dovrei io
+collaborare con chiunque altro?"
+
+And so, soon very few people wanted to cooperate any more.
+
+E cosi', dopo poco tempo, ben poche persone ebbero voglia di
+collaborare ancora.
+
+And then, to top it all off, the PDP-10 became obsolete.
+
+E poi, per mettere la ciliegia sulla torta, il PDP-10 venne dichiarato
+obsoleto.
+
+All of our shared software was written in PDP-10 assembler language. It was
+useless for any other kind of computer.
+
+Tutto il nostro software codiviso era scritto in linguaggio assembler per il
+PDP-10. Era inutile per qualunque altro tipo di computer.
+
+So at this point in the early 1980's we arrived at a situation where the
+only way to get a modern computer and use it was to start by signing a
+non-disclosure agreement for a proprietary operating system.
+
+Quindi, a questo punto nei primi anni ottanta, giungemmo ad una situazione
+in cui l'unico modo di ottenere un computer moderno e di poterlo usare era
+di cominciare mettendo la firma ad un contratto di non-divulgazione per un
+sistema operativo proprietario.
+
+And so I had to confront the question: What should I do now? Should I
+participate in that way of life or look for an alternative?
+
+E quindi fui costretto ad affrontare la domanda: Cosa dovrei fare ora?
+Dovrei adottare quello stilo di vita, o dovrei cercare un'alternativa?
+
+Well, it was clear that I would be totally unhappy living in that kind of
+world where cooperation is prohibited
+
+Allora, mi fu chiaro che sarei del tutto infelice a vivere in un mondo
+dov'e' proibita la collaborazione
+
+and I would have to begin by doing something that I considered unethical.
+
+e per cominciare avrei dovuto fare una cosa contro la mia etica.
+
+So what was the alternative? One alternative was to leave the field of
+computers
+
+Allora, qual'era l'alternativa? Una era di abbandonare il campo
+dell'informatica.
+
+but I saw that there *was* another possibility.
+
+ma vidi che c'era un'altra possibilita'.
+
+The first software that any cooperating community needs is an operating
+system
+
+Il primo software necessario ad una comunita' collaborativa e' un sistema
+operativo
+
+because if you have applications and no operating system, you can't do
+anything. You can't even run the applications.
+
+perche' se hai dei programmi applicativi ma nessun sistema operativo, non
+puoi fare proprio niente. Non puoi neanche far girare gli applicativi.
+
+But if you have just an operating system, there are many things you can do.
+
+Ma se hai soltanto un sistema operativo, ci sono molte cose che puoi fare.
+
+For example, you can develop programs and run them and debug them.
+
+Per esempio, puoi sviluppare dei programmi, eseguirli e scovarne i bug.
+
+You can edit books and format them and print them.
+
+Puoi preparare dei libri, e formattarli, e stamparli.
+
+You can send mail and receive mail and can transfer information.
+
+Puoi spedire posta, e ricevere posta, e puoi trasferire delle informazioni.
+
+By making it compatible with Unix, we made a large community of people able
+easily to switch to the new system.
+
+Rendendolo compatibile con Unix, abbiamo reso facile, ad una grande
+comunita' di persone, il trasferimento al nuovo sistema.
+
+Well, once I had the design, the next thing I needed was the name,
+
+Allora, stabilito il progetto, la prossima cosa che mi mancava era il nome,
+
+and, of course, hackers always want to find a funny or naughty name.
+
+e, naturalmente, gli hackers vogliono sempre trovare un nome divertente o
+birichino.
+
+So there was a hacker tradition that when you were writing a new program
+compatible with an existing program, you give it a name which says "this new
+program is not the other one".
+
+Allora, c'era una tradizione tra gli hacker per cui, quando si scriveva un
+programma compatibile con un programma esistente, si dava un nome che diceva
+"Questo programma non e' quell'altro".
+
+So, for example, there were many more-or-less compatible editors called
+TECO.
+
+Per esempio, c'erano molti editor, piu' o meno compatibili fra di loro, che
+si chiamavamo TECO.
+
+But then one hacker had a brilliant idea, and he called *his* TECO editor
+"TINT".
+
+Ma poi un'hacker ebbe un'idea geniale, e al *suo* editor stile TECO diede il
+nome "TINT".
+
+"TINT" stood for "TINT Is Not TECO".
+
+"TINT" stava per "TINT Is Not TECO".
+
+So this is a recursive acronym. The "T" at the beginning of "TINT" stands
+for "TINT".
+
+Quindi si tratta di una sigla ricorsive. La "T" iniziale di "TINT" sta per
+"TINT".
+
+So then, after I developed the first EMACS editor, there were many other
+EMACS editors, and most of them were called something-or-other-EMACS.
+
+E poi, dopo che sviluppai il primo editor EMACS, seguirono molti altri
+editor simili ad EMACS, e la maggior parte di essi si chiamavano
+qualcosa-EMACS.
+
+But one of them was called "FINE", for "FINE Is Not EMACS".
+
+Ma uno di loro si chiamava "FINE", che sta per "FINE Is Not EMACS" (FINE Non
+E` EMACS)
+
+And another was called "SINE", for "SINE Is Not EMACS". That's a
+trigonometric function, by the way.
+
+E un'altro si chiamava "SINE", che sta per "SINE Is Not EMACS". Si tratta di
+una funzione trigonometrica, a proposito.
+
+And then there was "EINE": "EINE Is Not EMACS".
+
+E poi ci fu "EINE": "EINE Is Not EMACS"
+
+And then EINE was almost completely rewritten.
+
+E poi EINE fu quasi del tutto riscritto.
+
+And the new version was called ZWEI.
+
+E la nuova versione fu chiamata "ZWEI".
+
+"ZWEI Was EINE Initially".
+
+"ZWEI era EINE inizialmente".
+
+So I looked for a recursive acronym to say that my system is not Unix.
+
+E quindi mi misi a cercare una sigla risorsiva per dire che il mio sistema
+non fosse Unix.
+
+And I discovered that the word "GNU", which people are constantly using for
+jokes because its spelling is so crazy, that *that* would be a recursive
+acronym: "GNU's Not Unix".
+
+E scoprii che la parola "GNU", sulla quale la gente fa di continuo delle
+barzellette perche' la sua ortografia e' talmente pazza, sarebbe una sigla
+ricorsiva: "GNU's Not Unix".
+
+It's a contraction, you know, GNU-apostrophe-S.
+
+E` una contrazione, sai, GNU-apostrofe-S.
+
+Yes, that's why it's three letters, by using a contraction. I could make a
+three-letter recursive acronym instead of a four-letter one.
+
+Si', ecco perche' sono tre lettere, grazie ad una contrazione. Riuscii a
+fare una sigla ricorsiva di tre lettere piuttosto che di quattro.
+
+You see, the dictionary says that the correct pronunciation of that word is
+"noo".
+
+Vedi, il dizionario dice che la pronuncia corretta di quella parola e' "nu".
+
+But why did this happen? Well, the original word was in an African language
+and it's pronounced something like n^oo [Col segno ^ indico una specie di
+clic fatta con un risucchio implosivo al palato morbido. -m]
+
+Ma com'e' successo questo? Allora, la parola originale era in una lingua
+africana, e si pronuncia qualcosa come n^u.
+
+n^oo. It has a click sound. But the British couldn't pronounce that.
+
+N^u. Ha un suono clic. Ma i Britannici non riuscirono a pronunciarlo.
+
+So they could only say "noo".
+
+Riuscirono soltanto a dire "nu".
+
+But then they wrote it with the G to indicate that there was something they
+were leaving out.
+
+Ma poi lo scrissero con la G per indicare che stavano omettendo qualcosa.
+
+And then the people who wrote the dictionaries, they were British too, so
+they put down the spelling G-N-U and they wrote that "noo" was the correct
+pronunciation.
+
+E poi quelli che scrissero i dizionari, erano britannici anche loro, quindi
+misero l'ortografia G-N-U e scrissero che "nu" fosse la pronuncia giusta.
+
+So people are constantly making jokes about that word and there are funny
+songs about that word
+
+Dunque la gente continua a fare delle barzellette su quella parola, e ci
+sono delle canzoncine su quella parola
+
+So it was a very good choice for a funny name.
+
+e quindi era un'ottima scelta per un nome scherzoso.
+
+Well, now I had the name I could start the project.
+
+Ebbene, ora che avevo il nome, potevo iniziare il progetto.
+
+My first idea was to ask for funding from computer manufacturers
+
+La mia prima idea fu quella di chiedere dei finanziamenti ai fabbricanti di
+computer
+
+because there was a reason why they might be interested.
+
+perche' c'era un motivo per cui la faccenda potreva interessare loro.
+
+They, or their customers, were spending millions of dollars a year on
+license fees for Unix.
+
+Loro, o il loro clienti, stavano spendendo miliardi all'anno in licenze
+d'uso di Unix.
+
+So I said to them: "How about if you contribute fifty thousand dollars each
+to this project,
+
+Quindi dissi loro: "Che ne pensate dell'idea di contribuire cinquanta
+milioni ciascuno a questo progetto,
+
+and if we succeed you will save millions every year.
+
+e se ci riusciamo, risparmierete diversi miliardi ogni anno.
+
+And so even if you think the chance is small, the payoff would be so
+tremendous you might as well take the bet.
+
+E quindi, anche se pensate che la possibilita' di riuscita sia minima, il
+premio sarebbe talmente tremendo che tanto vale fare la scommessa.
+
+So, actually, some executives were interested initially, but they never
+followed up on it.
+
+Allora, in verita', alcuni dirigenti erano interessati dapprima, ma non ci
+hanno dato seguito.
+
+So I decided that I would simply start writing the programs myself.
+
+Quindi decisi che avrei cominciato semplicemente a scrivere i programmi io
+stesso.
+
+So I quit my job at MIT.
+
+Quindi mi licenziai dal MIT.
+
+The reason I *had* to quit was that universities sometimes take the programs
+that people have written and sell them to companies.
+
+Il motivo per cui fui costretto a licenziarmi era che le universita' a volte
+prendono i programmi che la gente ha scritto e li vendono alle aziende.
+
+For me, that would have completely spoiled the results.
+
+Per me, questo avrebbe rovinato del tutto i risultati.
+
+So I quit the job and I began writing GNU. This was in January 1984.
+
+Quindi mi licenziai e cominciai a scrivere GNU. Era il gennaio 1984.
+
+The first useful program that I developed, that was useful by itself, was
+GNU EMACS.
+
+Il primo programma utile che sviluppai, che fosse utile da se', era GNU
+EMACS.
+
+This is an extensible programmable text editor.
+
+Si tratta di un editor di testo estensibile e programmabile.
+
+Anyway, so I started that in September, and in early 1985 it was beginning
+to be usable.
+
+Comunque, lo iniziai a settembre, e all'inizio del 1985 comincio' ad essere
+utilizzabile.
+
+So I began distributing it. Of course, I distributed it by anonymous FTP.
+
+Quindi conincai a distribuirlo. Naturalmente, lo distribuii con l'FTP
+anonimo.
+
+But there were many people not on the network who wanted copies too.
+
+Ma c'era parecchia gente non collegata alla rete, che voleva delle copie.
+
+So I announced that I would mail a tape for a hundred and fifty dollars.
+
+Quindi annunciai che avrei spedito un nastro per posta per centocinquanta
+dollari.
+
+So, of course, many people when they hear this in English, they say: "Well,
+how can it be free software if it costs a hundred and fifty dollars?"
+
+Allora, naturalmente, molta gente sentendo questo in inglese, dice: "Beh,
+come fai a dire che sia free software se costa centocinquanta dollari?"
+
+The reason is that in English you can't really distinguish between "libero"
+and "gratuito". They're both "free".
+
+Il motivo e' che, in inglese, non si riesce a distinguere fra "libero" e
+"gratuito". Tutti e due si dicono "free"
+
+There *is* a word "gratis" which means "gratuito",
+
+Esiste una parola "gratis", che significa "gratuito",
+
+but there is no word that means "libero" and nothing else.
+
+ma non esiste alcuna parola che significhi "libero" e nient'altro.
+
+But free software is a matter of freedom, not price.
+
+Ma il free software e' una questione di liberta', non di prezzo.
+
+In English, of course, it doesn't sound like a tautology because the word
+"free" has these two meanings.
+
+In inglese, s'intende, non sembra una tautologia, perche' la parole "free"
+ha questi due significati.
+
+So free software may be gratuito and it may not be in other times.
+
+Quindi il free software puo' essere gratuito, e puo' anche non esserlo in
+altri momenti.
+
+For example, if you get a copy over the network then you're not paying.
+
+Per esempio, se ottieni una copia dalla rete, non stai pagando.
+
+You may pay for the telephone connection, but you're not paying the people
+that you're copying it from.
+
+Puo' darsi che tu paga la connessione telefonica, ma non stai pagando le
+persone dalle quali lo stai copiando.
+
+Or if you go to a friend and say "may I copy this" and you make a copy, then
+you wouldn't pay at all.
+
+Oppure, se vai da un amico e dici "potrei fare una copia di questo" e te ne
+fai una copia, allora non pagaresti affatto.
+
+But if you got the same program on a CDROM you would probably have to pay
+for that
+
+Pero', se dovessi procurare lo stesso programma su un CD-ROM, in tutta
+probabilita' lo dovresti pagare
+
+and this is not a bad thing because the important thing is the freedom.
+
+e cio' non e' male, perche' la cosa importante e' la liberta'.
+
+Free software means that once you have a copy you have the freedom to use it
+in a cooperating and ethical way.
+
+Free software significa che una volta che ne hai una copia, hai la liberta'
+di usarlo in una maniera etica e collaborativa.
+
+Specifically, a program is free software for you if you have three
+particular freedoms that I will now explain.
+
+Specificatamante, un programma viene considerato free software per te se hai
+tre liberta' che ora spieghero'.
+
+Level One freedom is the freedom to help yourself.
+
+Liberta' Livello Uno e' la liberta di aiutare te stesso.
+
+Specifically, the freedom to make changes so that the program will do what
+you need.
+
+Nel particolare, la liberta' di effettuare delle modifiche perche' il
+programma faccia quello di cui hai bisogno.
+
+This is what we couldn't do with the Xerox laserprinter software.
+
+E` proprio questo che non potevamo fare con il software della stampante
+laser della Xerox.
+
+And if you don't have this freedom, that causes you practical trouble
+
+E se non hai questa liberta', cio' ti provoca dei guai pratici
+
+because you're a prisoner of your software.
+
+perche' sei progioniero del tuo software.
+
+But along with this practical problem there is a psycho-social problem
+
+ma assieme a questo problema pratico viene un problema psico-sociale
+
+which is that people become discouraged and demoralised
+
+e cioe', che la gente si scoraggia e si demoralizza
+
+because if you are excited about your work and you want to get a lot of work
+done
+
+perche', se il tuo lavoro ti entusiasma, e se vuoi compiere molto lavoro
+
+and then you get to work and you find out that it's hard to do things
+because somebody is deliberately making it hard
+
+e poi, quando arrivi al lavoro, scopri che risulta difficile fare le cose
+perche' qualcuno te lo sta rendendo difficile apposta [asb]
+
+you're going to start thinking differently. You're going to think "Well,
+they're paying me by the hour and I don't care if I just have to wait here.
+That's *their* money that they're wasting".
+
+allora, comincerai a pensare diversamente.  Comincerai a pensare: "Ebbene,
+mi stanno pagando all'ora, e non me ne frega niente se sono costretto ad
+aspettare qui. I soldi che stanno sprecando sono i loro".
+
+So, for those of us who enjoy being excited about getting work done, that's
+a very unhappy thing.
+
+Quindi, per noi, a cui piace entusiasmarci del lavoro, e' una cosa molto
+triste.
+
+The second level of freedom is the freedom to help your neighbour
+
+Il secondo livello di liberta' e' la liberta' di aiutare il tuo prossimo
+
+by redistributing the software.
+
+ridistribuendo il software.
+
+If you can't do this, you can't live an ethical life because you can't be
+friends with other people who use computers.
+
+Se non puoi fare questo, non puoi condurre una vita etica perche' non puoi
+essere amico con gli altri utenti di computer.
+
+And so basically, this creates practical problems
+
+E quindi, in essenza, questo crea dei problemi pratici
+
+because fewer people use the program.
+
+perche' meno persone fanno uso del programma.
+
+If the owner succeeds in enforcing the rule that you must pay in order to
+use the program
+
+Se il proprietario riesce ad applicare la regola che si debba pagare per
+poter utilizzare il programma
+
+this is a financial disincentive against using the program.
+
+questo e' un disincentivo economico contro l'uso del programma.
+
+Now, it takes the same amount of work to make the program if you have a
+thousand users or a million users. It's the same work.
+
+Ora, ci vuole la stessa quantita' di lavoro per fare il programma se hai
+mille utenti, o se ne hai un milione. La quantita' di lavoro a' la stessa.
+
+So if, instead of a million users, there are only a thousand who are willing
+to pay the money
+
+Quindi se, invece di un milione di utenti, ce ne sono soltanto mille
+disposti a pagare i soldi
+
+that means the other nine hundred and ninety-nine thousand, they're going
+without the program and it's being wasted.
+
+cio' significa che gli altri novecentonovantanovemila vanno senza il
+programma, che viene sprecato.
+
+Now, in other words, the same amount of work is being done but society gets
+less benefit.
+
+Ora, in altre parole, viene effettuata la stessa quantita' di lavoro, ma la
+societa' ne trae meno profitto.
+
+Along with this practical harm to society there is psycho-social harm
+
+Assieme a questo danno pratico alla societa', c'e' un danno psico-sociale
+
+because the foundation of society is good will among people.
+
+perche' la societa' si base sulla buona volonta' fra le gente.
+
+No society can function unless it has this good will.
+
+Nessuna societa' puo' funzionare a meno che abbia questa buona volonta'.
+
+And so what happens when you see the officials saying "Sharing is wrong.
+Sharing is forbidden. Don't help your friends."?
+
+E quindi, cosa succede quando vedi gli ufficiali dire: "Condividere e'
+sbagliato. Condividere e' vietato. Non aiutate i vostri amici."?
+
+If the government says that you can't help your friend
+
+Se il governo dice che non puoi aiutare il tuo amico
+
+then they're making our world ugly.
+
+allora stanno abbrutendo il nostro mondo.
+
+When I was a little child and I started going to school, the teachers told
+us "If you bring candy you have to share it with other people".
+
+Quando ero bambino e cominciai ad andare a scuola, i maestri ci dicevano:
+"Se porti le caramelle, le devi dividere con gli altri".
+
+And now the U.S. goverment has a proposal that children should be taught not
+to share software.
+
+E ora il governo degli Stati Uniti propone che ai bambini si dovrebbe
+insegnare a non dividere il software.
+
+...people who say that this kind of good will is not necessary in society.
+
+...gente che dice che questo tipo di buona volonta' non e' necessaria alla
+...societa'.
+
+For example, there were people who said that if the government told
+everybody what to do then they would work together and it wouldn't depend on
+individual good will.
+
+Ad esempio, c'erano delle persone che dicevano che, se il governo dicesse a
+ciascuna persona quello che doveva fare, allora lavorerebbero assieme e
+tutto non dipenderebbe dalla buona volonta'.
+
+But this didn't work.
+
+Ma cio' non funziono'.
+
+And there are other people who believe that if everybody is selfish and
+greedy,
+
+E ci sono delle altre persone che credono che, se tutti facciamo gli egoisti
+ed i golosi,
+
+they will be forced to help each other in order to get things from each
+other
+
+saremo costretti ad aiutarci a vicenda per ottenere delle cose l'una
+dall'altra
+
+and supposedly the invisible hand will make everything function.
+
+e si suppone che la mano invisibile fara' funzionare tutto.
+
+If you've ever met somebody who will never help you unless he hears "what's
+in it for him", you know that this doesn't work.
+
+Se ti e' mai capitato di incontrare qualcuno che non ti aiuterebbe mai a
+meno di sentire "che ci guadagna lui", saprai che questo non funziona.
+
+So this good will that proprietary software is attacking is crucial to our
+society.
+
+E quindi, questa buona volonta' che viene attaccata dal software
+proprietario e' una cosa cruciale per la nostra societa'.
+
+The third level of freedom is the freedom to help build your community
+
+Il terzo livello di liberta' e' la liberta' di aiutare a costruire la tua
+comunita'
+
+by improving a program and publishing the improved versions so that other
+people can benefit from your work
+
+attraverso il miglioramento di un programma e la pubblicazione delle
+versioni migliorate perche' gli altri possano trarre profitto dal tuo
+lavoro.
+
+This is very important in practice because it helps us get better software.
+
+Questo e' molto importante in pratica perche' ci aiuta ad ottenere del
+software migliore.
+
+When a free program becomes popular, sometimes you get people sending you
+many improvements every day.
+
+Quando un programma libero viene usato da molte persone, talvolta sono in
+molti a mandarti delle migliorie ogni giorno.
+
+This never happens to Microsoft.
+
+Questo non succede mai alla Microsoft.
+
+The point is that nobody has the source code for MicroSoft software
+
+Il punto e' che nessuno ha il codice sorgente dei software della Microsoft
+
+so they *can't* make improvements.
+
+e quindi non possono fare dei miglioramenti.
+
+And besides, if they *did* make improvements, why give them back to
+Microsoft? Microsoft isn't anybody's friend.
+
+E, per altro, se dovessero fare delle migliorie, che motivo ci sarebbe di
+spedirle alla Microsoft? La Microsoft non e' l'amico di nessuno.
+
+I should explain, though, that I'm using Microsoft as one example of many,
+many companies that all do the same thing.
+
+Dovrei spiegare, comunque, che sto usando la Microsoft come esempio di
+molte, moltissime aziende che fanno tutte la stessa cosa.
+
+Many people think of Microsoft as the special enemy, and other companies as
+somehow better.
+
+Molta gente pensa alla Microsoft come nemico particolare, e alle altre
+aziende come, in qualche modo, migliori.
+
+But in fact most software companies treat you exactly the same way Microsoft
+treats you. They give you no freedom.
+
+Ma in realta' la maggioranza delle aziende che producono del software vi
+trattano nella stessa maniera esatta della Microsoft. Non vi danno nessuna
+liberta'.
+
+Microsoft has been more successful at subjugating people than the other
+companies
+
+La Microsoft ha avuto piu' successo nel soggiogare la gente rispetto alle
+altre aziende
+
+but that's not because the other companies aren't trying to do the same
+thing, they just haven't succeeded as much.
+
+ma questo non perche' le altre aziende non stiano cercando di fare la stessa
+cosa; e' soltanto che non ci sono riusciti cosi' bene.
+
+Sometimes a free program gets so many improvements sent in by other people
+that the original author can barely keep up with the contributions,
+
+Talvolta succede che ad un programma libero vengano proposte tante migliorie
+da parte di altre persone che l'autore originale riesca appena a tenere
+testa ai contribuzioni,
+
+so maybe the original author has no time to write improvements himself
+because he's busy merging in the tons of improvements that other people are
+doing.
+
+e puo' darsi che l'autore originale non abbia tempo per scrivere delle
+migliorie lui stesso perche' si trova occupato a fondere le tonnellate di
+migliorie effettuate dall'altra gente.
+
+It's a very nice problem to have.
+
+E` un bellissimo problema da dover affrontare.
+
+Now, if you are not allowed to build your community, of course the community
+suffers in a practical sense
+
+Ora, se non ti e' permesso di costruire la tua comunita', e' naturale che la
+comunita' ne soffra in senso pratico.
+
+but together with that is a psycho-social harm
+
+ma assieme ad esso viene un danno psico-sociale
+
+because the spirit of scientific cooperation is undermined,
+
+perche' lo spirito della collaborazione scientifica ne viene minato, [asb]
+
+the idea that we are all working together to advance humanity's knowledge.
+
+l'idea che stiamo tutti lavorando insieme per l'avanzamento della conoscenza
+umana.
+
+This spirit was once so strong that scientists would cooperate even when
+their countries were at war.
+
+Una volta, questo spirito era talmente forte che gli scienziati
+collaboravano perfino quando i loro paesi erano in guerra fra di loro.
+
+They felt that the advance of human knowledge shouldn't be interrupted by
+wars that were temporary.
+
+Erano del parere che l'avanzamento della conoscenza umana non dovesse essere
+interrotto dalle guerre, che erano temporanee.
+
+But nowadays we live in a state of permanent civil war between the many
+companies that are constantly trying to keep each other in ignorance.
+
+Ma oggigiorno viviamo in uno stato permanente di guerra civile fra le molte
+aziende che cercano costantemente di tenersi in ignoranza l'una dall'altra.
+
+So these are the three levels of freedom that define the term "free
+software".
+
+Quindi questi sono i tre livelli di liberta' che definiscono il termine
+"free software".
+
+A program is free for you in particular if you in particular as a user have
+these three freedoms.
+
+Un programma e' libero per te in particolare se tu in particolare come
+utente hai queste tre liberta'.
+
+We need to define this in regard to a particular user because sometimes one
+program can be free for certain users and non-free for other users.
+
+E' necessario definire questo per quanto riguarda un utente particolare
+perche' talvolta un programma puo' risultare libero per certi utenti e non
+libero per altri utenti.
+
+Consider the window system called X Windows.
+
+Considera il sistema a finestre che si chiama X Windows.
+
+This is not Microsoft Windows. It's a different window system.
+
+Non stiamo parlando di Microsoft Windows. E` un'altro sistema a finestre.
+
+It was developed at M.I.T. and it was released by M.I.T. as free software.
+
+Fu sviluppato all'M.I.T., e fu distribuito dall'M.I.T. come software libero.
+
+However there are many companies that eagerly took the source code, made
+some changes to port it to their system and they released the result as a
+proprietary software product.
+
+Pero', molte aziende presero prontamente il codice sorgente, ne fecero
+alcune modifiche per far si' che funzionasse sul loro sistema, e poi
+rilasciarono il risultato come prodotto software proprietario.
+
+So if you got the version from M.I.T. it was free software
+
+Quindi, se ottenevi la versione dalla M.I.T., era software libero
+
+but if you got one of these modified versions from a company, normally it
+was not free.
+
+ma se avevi una di queste versioni modificate da un'azienda, di solito non
+era libera.
+
+So here we had one program that was free for some users but not free for
+other users.
+
+Quindi, in questo caso, c'era un programma che era libero per certi utenti,
+e non libero per altri.
+
+In fact, for most users it was non-free
+
+Infatti, per la maggior parte degli utenti, non era libero
+
+because most users would get X Windows with the computer,
+
+perche' per la maggior parte degli utenti, X Windows veniva fornito assieme
+al computer,
+
+and the version that they got was a non-free version from the computer
+company,
+
+e la versione fornita era una versione non libera dell'azienda informatica,
+
+and in many cases the free version would not work on that computer.
+
+e in molti casi, la versione libera non funzionava su quel computer.
+
+So these users had no choice at all. For them X Windows was non-free, pure
+and simple.
+
+Quindi questi utenti non avevano nessuna scelta. Per loro, X Windows era del
+tutto non-libero.
+
+Why did the companies do this? Just because no one was stopping them.
+
+Perche' hanno fatto cosi', le aziende? Semplicemente perche' nessuno lo
+impediva loro.
+
+It was their policy never to give users freedom if they could possibly avoid
+it.
+
+Era loro prassi, non dare mai la liberta' agli utenti se lo potevano
+evitare.
+
+So I decided I had better stop them.
+
+Quindi decisi che le dovevo impedire io.
+
+Because my goal in writing GNU software was specifically to give users
+freedom,
+
+Perche' il mio scopo nello scrivere il software GNU era specificatamente di
+dare la liberta' agli utenti,
+
+so I wanted to make sure that each and every user got freedom.
+
+e dunque volevo assicurare che ciascuno degli utenti ottenesse la liberta'.
+
+In order to guarantee freedom for every user I developed a technique called
+"copyleft".
+
+Per garantire la liberta' ad ogni utente, sviluppai una tecnica che si
+chiama "copyleft".
+
+The idea of copyleft says, you have these three levels of freedom. You can
+change and redistribute the software.
+
+Il concetto del copyleft dice che hai questi tre livelli di liberta'. Puoi
+cambiare e ridistribuire il software.
+
+But there is a rule or requirement
+
+Ma c'e una regola, un requisito
+
+which is, when you distribute the software you must also pass along the same
+freedom.
+
+e cioe', quando distribuisci il software, devi anche concedere la stessa
+liberta'.
+
+So along with every copy of the software also comes these three freedoms.
+
+E cosi', assieme ad ogni copia del software, vengono queste tre liberta'.
+
+And therefore everybody who gets the software always gets these freedoms
+through one redistrubution after another back to the original developer. The
+freedoms go along at every step.
+
+E risulta che tutti quelli che ricevono il software ricevono sempre queste
+tre liberta', attraverso una ridistribuzione dopo l'altra, risalendo allo
+sviluppatore originario. Le liberta' lo accompagnano ad ogni passo.
+
+Now, X Windows did not use copyleft,
+
+Ora, X Windows non fece uso di copyleft,
+
+and that's why these companies were able to pass along the software but
+strip away the freedom.
+
+ed e' per questo che queste aziende potevano passare il software ad altri,
+togliendone la liberta'.
+
+Legally speaking, copyleft is implemented using copyright.
+
+In senso legale, il copyleft viene inplementato con il copyright.
+
+But in terms of its purpose and its results you might think of it as the
+opposite of copyright.
+
+Ma per quanto riguarda il suo scopo e i suoi risultati, lo si potrebbe
+pensare come l'opposto del copyright.
+
+In fact, you could think of it as the mirror image of copyright.
+
+Infatti, lo si potrebbe pensare come l'immagine speculare del copyright.
+
+I don't know if everyone knows about left and right, and what they mean.
+
+Non so se tutti sanno di "left" e di "right" e che cosa significano.
+
+So copyright is used by right-wing people for their right-wing goals
+
+Quindi il copyright viene usato da gente di destra per i loro scopi di
+destra,
+
+to subjugate other people and make them pay money,
+
+per soggiogare gli altri e per farli sborsare soldi,
+
+whereas copyleft is used for left-wing purposes
+
+mentre il copyleft viene usato per scopi di sinistra
+
+such as to encourage cooperation and give everybody the same freedom.
+
+per esempio, per incoraggiare la collaborazione e per dare a tutti le stesse
+liberta'.
+
+The specific implementation of copyleft that we use most of the time in the
+GNU project is called the GNU General Public Licence.
+
+La specifica implementazione del copyleft di cui ci serviamo perlopiu' nel
+progetto GNU si chiama "Licenza Pubblica Generale GNU."
+
+You can think of it as a kind of social contract spelling out the freedoms
+that everybody should have,
+
+Lo puoi pensare come una specie di contratto sociale che mette per iscritto
+le liberta' che tutti dovrebbero avere,
+
+and also the restriction that you may not take these freedoms away from
+anybody else.
+
+ed anche la restrizione che non puoi togliere queste liberta' ad un altro.
+
+So you can summarize it by saying "Forbidding is forbidden".
+
+Quindi lo puoi sintetizzare dicendo "E` vietato vietare".
+
+And you need this restriction because otherwise people will start
+restricting other people in other ways.
+
+E abbiamo bisogno di questa restrizione perche' altrimenti la gente si
+metterebbe a restringere altre persone in altri modi.
+
+So when I released GNU EMACS in 1985
+
+Quindi, quando rilasciai GNU EMACS nel 1985
+
+it came with an early version of the General Public Licence
+
+venne accompagnato da una prima versione della Licenza Pubblica Generale
+
+which gave the new software sharing community a way of protecting itself
+from abuse.
+
+che diede alla nuova comunita' per la condivisione del software un modo di
+proteggersi contro gli abusi.
+
+Because the old software sharing community was like a community of pacifists
+
+Perche' la vecchia comunita' per la condivisione del software era come una
+comunita' di pacifisti
+
+confronted with bandits.
+
+alle prese con dei banditi.
+
+The new software sharing community has defences for itself to a certain
+extent
+
+La nuova comunita' per la condivisione del software e' in grado di
+difendersi fino ad un certo punto
+
+and I think that this is the reason why people don't just get discouraged
+and give up.
+
+e penso che sia per questo che la gente non si scoraggia e non lascia
+perdere.
+
+So, as 1985 went on I started receiving more and more orders for tapes
+
+Quindi, mentre il 1985 proseguiva, cominciai a ricevere sempre piu' ordini
+per i nastri
+
+and I started getting a nice income from these tape orders
+
+e cominciai a percepire un bel reddito da questi ordini
+
+and I realised that EMACS was becoming popular.
+
+e mi resi conto che EMACS stesse avendo successo.
+
+So I decided it was time to make another attempt to ask for donations.
+
+Quindi decisi che fosse giunto il momento di fare un ulteriore tentativo di
+chiedere dei finanziamenti.
+
+So we started the Free Software Foundation,
+
+E fondammo la Fondazione per il Free Software,
+
+which is a tax-exempt charity in the United States
+
+che, negli Stati Uniti, e' un'organizzazione di beneficenza esente delle
+tasse
+
+and the idea was that this way people could, or companies could donate money
+and not pay taxes on it.
+
+e l'idea era che in questo modo la gente e le aziende potessero donare soldi
+scalandoli dalle tasse.
+
+And we figured that now people could see that the GNU project was not just
+talk, that we really could produce some useful software.
+
+E pensammo che ora la gente potesse vedere che il progetto GNU non fosse
+fatto solo di parole, ma che potessimo veramente produrre del software
+utile.
+
+But in addition to accepting donations, the foundation also took over the
+selling of tapes,
+
+Ma, oltre ad accettare delle donazioni, la fondazione si occupo' anche della
+vendita' di nastri,
+
+and although we *do* get donations, it turns out that our main source of
+income is selling copies of free software and free books.
+
+e, anche se riceviamo delle donazioni, risulta che la nostra principale
+fonte di reddita e' la vendita di software libero e di libri liberi.
+
+So we sell copies of things, and on every copy it says "You are free to copy
+this".
+
+Dunque noi vendiamo delle copie di varie cose, e su ogni copia c'e' scritto
+"Sei libero di copiare questo".
+
+And this is interesting because many times people have told me a very simple
+economic argument why free software can't work.
+
+E questo e' molto interessante, perche' molte volte la gente mi ha
+raccontato un motivo economico molto semplice per cui il software libero non
+puo' funzionare.
+
+They say "When you sell one copy, that's the only copy you will ever sell
+
+Dicono: "Quando vendi una copia sola, quella sara' l'unica copia che
+venderai mai
+
+because the person who got that copy will start selling copies and charging
+less than you,
+
+perche' la persona che prende quella copia si mettera' a vendere delle copie
+chiedendo meno di quanto chiedi tu,
+
+and then everybody will buy from him instead of from you.
+
+e poi tutti compreranno da lui invece di comprare da te.
+
+And that's why you will never sell anther copy."
+
+Ed ecco perche' non venderai mai un'altra copia."
+
+Well, we keep selling copy after copy after copy.
+
+Ebbene, noi continuiamo a vendere una copia dietro l'altra.
+
+And, yes, other people sell copies for less.
+
+E si', ci sono delle altre persone che vendono delle copie per meno.
+
+Lots of different people sell copies for less,
+
+Molta gente diversa vende delle copie per meno,
+
+and some of them donate part of the money to us but most of them don't.
+
+ed alcuni di loro versano una parte dei soldi a noi ma la maggior parte di
+loro non lo fanno.
+
+And we make absolutely sure that we're charging more than everybody else
+
+E noi assicuriamo che chiediamo piu' di tutti
+
+because, why are we selling them? Only to raise money to develop free
+software.
+
+perche' il motivo per cui le vendiamo e' per racimolare soldi per lo
+sviluppo del software libero.
+
+We don't want to have our staff do a lot of work selling lots of copies and
+bringing in very little money
+
+Non vogliamo che i nostri dipendenti facciano tanto lavoro a vendere tante
+copie per poi riportare ben pochi soldi
+
+so we set the prices higher so that each time we sell a copy we really get
+some money.
+
+quindi abbiamo alzato i prezzi per far si' che ogni volta che vendiamo una
+copia ne ricaviamo un bel po' di soldi.
+
+And we still sell copies.
+
+E continuiamo a vendere delle copie.
+
+So that simple economic argument isn't true.
+
+Dunque quel semplice motivo economico non e' vero.
+
+Well I should explain, it's approximately true,
+
+Allora, dovrei precisare, e' quasi vero,
+
+but the difference between "approximately true" and "true" is often a very
+important one.
+
+ma la differenza fra "quasi vero" e "vero", spesso ha molta importanza.
+
+You know, a geologist could say that people die almost immediately after
+they're born,
+
+Lo sai, un geologo potrebbe dire che la gente muore quasi subito dopo la
+nascita,
+
+you know, less that a century usually.
+
+sai, dopo meno di un secolo, di solito.
+
+So most users don't buy from us.
+
+E quindi la maggioranza degli utenti non compra da noi.
+
+I don't know what fraction of users have bought from us. Maybe it's one in
+ten thousand,
+
+Non so quale proporzione degli utenti abbia comprato da noi. Forse si tratta
+di uno in diecimila,
+
+but we still support several programmers this way.
+
+ma riusciamo cionondimeno a pagare gli stipendi a diversi programmatori in
+questo modo.
+
+And I can tell you one thing. If I had continued selling the tapes of EMACS
+myself personally
+
+E vi posso dire una cosa. Se avessi continuato a vendere i nastri di EMACS
+io stesso,
+
+I would have become a millionaire
+
+sarei diventato miliardario
+
+from selling free software.
+
+dalla vendita del software libero.
+
+I didn't do that because, for me, the main goal was not to get as much
+money. There are two issues. One is, first of all, I shouldn't be doing
+unethical things.
+
+Non l'ho fatto perche', per me, lo scopo principale non era di fare piu'
+soldi possibile. Ci sono due questioni. Il primo e', prima di tutto, non
+dovrei fare delle cose non etiche.
+
+And I was happy to sell copies of EMACS because that was ethical when I made
+money.
+
+Ed ero contento di vendere delle copie di EMACS perche' fu una cosa etica
+quando guadagnavo dei soldi.
+
+But making money is okay if you do it ethically, but it's not the highest
+goal of life
+
+Guadagnare dei soldi va bene se lo fai in una maniera etica, ma non e' lo
+scopo piu' elevato della vita
+
+and I had a greater ambition than simply to make a lot of money for myself
+in an ethical way
+
+ed avevo un'ambizione maggiore rispetto al semplice guadagno di molti soldi
+per me stesso in una maniera etica
+
+because GNU EMACS was a good program, but it was not a whole operating
+system.
+
+perche' GNU EMACS era un buon programma, ma non era un intero sistema
+operativo.
+
+So we needed lots more software to achieve the ethical goal of creating an
+alternative, so that you could reject proprietary software.
+
+Quindi avevamo bisogno di molto software in piu' per raggiungere
+l'obbiettivo etico di creare un'alternativa, perche' si potesse rinunciare
+al software proprietario.
+
+In order to head for that goal, the most important thing was to hire more
+programmers and get more people involved in writing the new system.
+
+Per potersi dirigere verso quell'obbiettivo, la cosa piu' importante era di
+ingaggiare piu' programmatori e di coinvolgere piu' persone nella scrittura
+del nuovo sistema.
+
+And I found other ways to make a living. For example, sometimes people would
+pay me to make an improvement in some free software.
+
+E scoprii altri modi di guadagnarmi da vivere. Per esempio, talvolta delle
+persone mi pagavano per apportare una miglioria ad un software libero.
+
+Or I was payed to teach classes about how the free software works.
+
+O fui pagato per tenere delle conferenze [asb] sul funzionamento del
+software libero.
+
+Of course when I got paid to make an improvement, that improvement was free
+software too
+
+Naturalmente, quando mi pagavano per fare una miglioria, quella miglioria
+era software libero, anch'essa
+
+so if I thought that improvement was really useful, I would put it into the
+main version and everyone would get it.
+
+e se mi sembrava che quella miglioria era davvero utile, la mettevo nella
+versione principale perche' tutti la ricevessero.
+
+And when I taught people, of course, I didn't make them promise to keep it a
+secret. They could tell anybody what I taught them.
+
+E quando insegnavo alle persone, naturalmente, non constrinsi loro a
+promettere di tenerlo segreto. Loro potevano dire a chiunque cio' che io gli
+insegnavo.
+
+So I was being paid for the work I did, but the work was not based on
+subjugating anyone else.
+
+Quindi fui pagato per il lavoro svolto da me, ma il lavoro non si basava sul
+soggiogare altri.
+
+When the Free Software Foundation had enough money to pay a programmer
+
+Quando la Fondazione per il Software Libero ebbe abbastanza soldi per pagare
+un programmatore
+
+I had to decide whether it should pay me.
+
+dovevo decidere se dovesse pagare me o no
+
+But I was making a living on the side successfully and I decided that it
+would be stupid to spend our money paying Stallman
+
+Ma io stavo avendo successo a guadagnarmi da vivere in altri modi e decisi
+che sarebbe stato da stupidi spendere i nostri soldi per pagare Stallman
+
+because I knew that it would be a waste of money because I knew I could get
+Stallman to work on this project for nothing,
+
+perche' sapevo che sarebbe stato uno spreco di soldi, perche' sapevo che
+sarei riuscito a convincere Stallman a lavorare sul progetto gratuitamente,
+
+so it was better to hire somebody else.
+
+e quindi sarebbe stato meglio assumere qualcun'altro.
+
+Well, over the years, we gradually filled in the gaps in the design of the
+GNU system.
+
+Allora, nel corso degli anni, riempimmo a poco a poco le lacune nel progetto
+per il sistema GNU.
+
+In some cases we found programs that were written elsewhere which were
+useful in the system and would fill a gap.
+
+In alcuni casi, trovammo dei programmi scritti altrove che erano utili nel
+sistema e che riempivano una lacuna.
+
+For example we use the X Windows System.
+
+Ad esempio, utilizziamo il sistema a finestre "X Windows".
+
+X Windows was not written *for* the GNU project,
+
+X Windows non fu scritto appositamente per il progetto GNU,
+
+so it's not GNU software,
+
+e quindi non e' software GNU,
+
+but it's part of the GNU system because it's free and we decided to use it.
+
+ma fa parte del sistema GNU perche' e' libero e perche' abbiamo deciso di
+usarlo.
+
+After all, making a whole operating system is a very big job. You might as
+well use any existing components that are suitable.
+
+In fin dei conti, la costruzione di un sistema operativo e' un lavoro
+immenso. Tanto vale utilizzare qualunque componente preesistente che sia
+addatta.
+
+But where nothing was available we had to write it.
+
+Ma qualora non ci fosse niente gia' disponibile, l'abbiamo dovuto scrivere.
+
+By the early 1990's we had done everything except the kernel.
+
+Entro i primi anni novanta, avevamo tutto tranne il kernel.
+
+The reason that our kernel was not finished is partly that we were using a
+very unusual and complicated design,
+
+Il motivo per cui il nostro kernel non fosse finito era, in primo luogo,
+perche' il nostro disegno era molto insolito e complesso,
+
+it's a design that is also very powerful,
+
+un disegno che, per l'altro, e' anche molto potente,
+
+but in addition we had to wait because one component we wanted to use had
+export control placed on it by the US government.
+
+ma anche perche' fummo costretti ad aspettare perche' su uno dei componenti
+che volevamo utilizzare furono imposte delle restrizioni sull'esportazione
+dal governo degli U.S.A.
+
+The GNU project is meant to be for everyone, for all parts of the world, not
+just for one country.
+
+Il progetto GNU e' inteso per tutti, per tutte le parti del mondo, e non
+soltanto per un paese.
+
+So before we could really decide to use that component we had to wait until
+the export control was removed.
+
+Dunque, prima di poterci veramente decidere di usare quella componente,
+dovevamo aspettare finche' la restrizione sull'esportazione fosse tolta.
+
+In any case, while we were still working on the kernel, another free kernel
+was developed,
+
+In ogni caso, mentre continuavamo a lavorare sul kernel, fu sviluppato un
+altro kernel libero,
+
+and this free kernel is called Linux.
+
+e questo kernel libero si chiama Linux.
+
+So by putting together Linux with the GNU system which had no kernel, it was
+possible to make a complete free operating system.
+
+Quindi, mettendo insieme Linux e il sistema GNU, che era sprovvisto di un
+kernel, fu possibile fare un sistema operativo libero completo.
+
+So these Linux-based variant GNU systems are in widespread use today,
+
+E queste varianti del sistemi GNU, basato su Linux, sono di uso diffuso al
+giorno d'oggi.
+
+To make it clearer, these are variants of the GNU system. They are variants
+because they are based on Linux as the kernel.
+
+Per rendere l'idea piu' chiara, queste sono delle varianti del sistema GNU.
+Sono delle varianti perche' si basano su Linux come kernel.
+
+So this means that the initial goal of a free Unix-like operating system has
+been achieved,
+
+Questo significa che l'obbiettivo iniziale di un sistema libero simile a
+Unix e' stato raggiunto,
+
+and I'm using a Linux-based GNU system on *this* computer,
+
+e sto usando un sistema GNU basato su Linux su questo computer qui,
+
+and on this computer all the software is free.
+
+e su questo computer, tutto quanto il software e' libero.
+
+And I hope that you too will use Linux-based GNU systems and reject the
+world of software incatenante.
+
+E spero che anche voi userete dei sistemi GNU basati su Linux, e che
+rinuncerete al mondo del software incatenante.
+
+But there's still a lot of work that needs to be done.
+
+Ma ci rimane ancora molto lavoro da fare.
+
+Right now, the GNU system is like Unix,
+
+Ora come ora, il sistema GNU e' come Unix,
+
+which means it's as easy to learn and as easy to use as Unix,
+
+il che' significa che e' facile da imparare e facile da usare quanto lo e'
+Unix,
+
+which means that it's good for hackers, but other users often find it too
+complicated.
+
+il che' significa che va bene per gli hackers, ma altri utenti, spesso, lo
+trovano troppo complesso.
+
+Well, free software shouldn't just be for hackers, it should be for
+everyone.
+
+Ebbene, il software libero non dovrebbe essere soltanto per gli hackers,
+dovrebbe essere per tutti.
+
+So we have projects now working on graphical user interfaces so that GNU
+systems *will* be accessible to everyone.
+
+Quindi abbiamo dei progetti che stanno lavorando sulle interfacce grafiche
+per utenti perche' i sistemi GNU siamo realmente accessibili a tutti.
+
+We also need application programs,
+
+Abbiamo anche bisogno di programmi applicativi,
+
+because, well, the operating system is the *first* thing you need, but once
+you have *that* it's time for the rest.
+
+perche', vedi, il sistema operativo e' la prima cosa di cui hai bisogno, ma
+una volta che ce l'hai, e' ora per il resto. [ech!]
+
+We should aim to provide a good free application for every job that many
+users want to do.
+
+Dovremo mirare a fornire un buon applicativo per ogni compito che molti
+utenti vogliono svolgere.
+
+There are already a few good free applications.
+
+Ci sono gia' alcuni applicativi liberi di buona qualita'.
+
+For example, there are free relational database systems,
+
+Per esempio, ci sono dei liberi sistemi per la gestione di basi dati
+relazionali,
+
+there is a good free replacement for PhotoShop
+
+c'e' un buon sostituto libero per PhotoShop
+
+which is the GNU Image Manipulation Program, also known as the GIMP.
+
+e cioe' il Programma GNU per la Manipolazione d'Immagini, conosciuta anche
+come "GIMP".
+
+Do you know what "gimp" means? Ok good.
+
+Sapete cosa vuol dire "gimp"? Ah, bene.
+
+And, people are working on web browsers,
+
+Ed altri stanno lavorando su dei browser web,
+
+personal finance computing programs,
+
+programmi per i calcoli finanziari [asb] personali,
+
+and we have a free program that we use to take purchasing orders over the
+phone,
+
+ed abbiamo un programma libero di cui ci serviamo per prendere degli ordini
+per telefono,
+
+and we print out the shipping charts, we print out our financial reports
+from this program.
+
+e stampiamo le bolle di consegna, stampiamo i nostri bollettini statistici
+economici con questo programma.
+
+There are a couple of free spreadsheets.
+
+Ci sono un paio di fogli di calcolo liberi.
+
+They're not the best spreadsheets, I have to admit,
+
+Non sono fra i migliori fogli di calcolo, devo ammettere,
+
+so they need a lot of improvement.
+
+dunque hanno bisogno di molti miglioramenti.
+
+We also need programs to emulate other operating systems,
+
+Abbiamo bisogno pure di programmi che emulano altri sistemi operativi,
+
+for example Microsoft Windows,
+
+ad esempio Microsoft Windows,
+
+so that people can run on a free system the programs that they have
+developed for Microsoft Windows,
+
+perche' la gente possa far girare su un sistema libero i programmi che hanno
+sviluppato per Microsoft Windows,
+
+and people are developing these emulators too.
+
+e delle persone stanno sviluppando anche questi emulatori.
+
+So free software seems to be marching on and we have proved that we can
+develop a wide range of software without restricting its use.
+
+Dunque sembra che il software libero stia continuando a fare progressi, e
+abbiamo dimostrato che siamo in grado di sviluppare una vasta gamma di
+software senza imporre restrizioni sul suo uso.
+
+Meanwhile, what is the rest of the world doing?
+
+Intanto, che cosa sta facendo il resto del mondo?
+
+I'm told that just recently Microsoft and the other subjugating software
+companies convinced the Italian government to pass new stricter laws against
+copying software.
+
+Mi hanno detto che di recente la Microsoft e le altre aziende soggioganti
+del software hanno convinto il governo italiano a passare leggi nuove, piu'
+stringenti, contro la duplicazione del software.
+
+(Interprete: Mi viene detto che la Microsoft e le altre aziende schiaviste
+del software hanno convinto il governo italiano a passare leggi piu` pesanti
+contro la pirateria informatica)
+
+No, I didn't say piracy, illegal copying of software.
+
+No, non ho detto "pirateria", la duplicazione illegale del software.
+
+They like to call this copying "piracy".
+
+A loro piace chiamare "pirateria", questa duplicazione.
+
+What does it means when the government says that helping your neighbour is
+piracy?
+
+Cosa vuol dire, quando il governo dice che una mano d'aiuto per il tuo
+vicino sia pirateria?
+
+It means that the government has been bought by these companies.
+
+Vuol dire che il governo e' stato comperato da queste aziende.
+
+And that it's acting in the interest of the owners rather than the interest
+of the public.
+
+e che sta agendo nell'interesse dei proprietari piuttosto che nel pubblico
+interesse.
+
+All around the world the owners of information are trying to pay the
+legislators to give them more power.
+
+Tutt'attorno al globo, i proprietari dell'informazione stanno cercando di
+pagare i legislatori per concedere loro piu' potere.
+
+And the ones who have been paid the most are president Clinton and
+vice-president Gore,
+
+E coloro che sono stati pagati piu' di tutti sono il presidente Clinton e il
+vice'presidente Gore,
+
+because their mission is to push for treaties that will call upon all
+countries to give more power to the owners of information.
+
+
+perche la loro missione e' quella di promuovere trattati richiedendo a tutti
+i paesi di dare piu' potere ai proprietari dell'informazione.
+
+The Clinton administration has proposed laws for the United States which
+spell out the system that the owners want to impose.
+
+L'amministrazione Clinton ha proposto delle leggi valide entro gli Stati
+Uniti che descrivono il sistema che i proprietari vorrebbero imporre.
+
+They want to absolutely block all forbidden copying,
+
+Vogliono bloccare del tutto la duplicazione vietata,
+
+and they're proposing a system very much like the one that the Soviet Union
+used to block forbidden copying.
+
+e stanno proponendo un sistema molto simile a quello usato dall'Unione
+Sovietica per bloccare la duplicazione vietata.
+
+For example, in the Soviet Union, every copier had a guard.
+
+Per esempio, nell'Unione Sovietica, ogni fotocopiatrice era fornita di una
+guardia.
+
+The guard's job was to make sure that nobody used the copier for illegal
+copying.
+
+Il compito della guardia era di assicurare che nessuno usasse la copiatrice
+per fare delle copie illegali.
+
+The Clinton administration is proposing that every computer should be
+required to support the guards programmed into the actual documents and
+programs themselves.
+
+La giunta di Clinton sta proponendo che ogni computer sia richiesto di
+supportare le guardie programmate proprio all'interno dei documenti ed i
+programmi stessi. [asb]
+
+And of course they want it to be a crime for you to turn off these guards.
+
+E, naturalmente, vogliono che la disattivazione di queste guardie sia un
+reato.
+
+(Una voce: Are we talking about hardware?)
+
+(A voice: Stiamo parlando di hardware?)
+
+Yes, the hardware or software, typically software.
+
+Si', sia hardware sia software, di solito software.
+
+Not a human guard but a robot guard.
+
+Non una guardia umana, ma una guardia robot.
+
+And of course anything that you would provide that would help people figure
+out how to turn off these guards, that would be a crime also.
+
+E naturalmente, qualunque cosa tu possa fornire che aiutasse la gente a
+capire come disattivare queste guardie, anche quella sarebbe un reato.
+
+Of course in the Soviet Union they asked people to be informers, to tell on
+anybody who was doing forbidden copying.
+
+Nell'Unione Sovietica chiesero alla gente di fare l'informatore, di
+denunciare chiunque stesse facendo della duplicazione vietata.
+
+The owners are doing the same thing.
+
+I proprietari stanno facendo la stessa cosa.
+
+And of course they use propaganda. For example, when they say that copying
+is piracy, that's the owners' propaganda.
+
+E naturalmente, fanno uso di propaganda. Per esempio, quando dicono che la
+duplicazione e' pirateria, si tratta di propaganda dei proprietari.
+
+They also use indoctrination of children,
+
+In piu', fanno uso dell'indottrinazione di bambini,
+
+as I explained earlier.
+
+come spiegai poc'anzi.
+
+That plan comes from the Clinton administration document proposing their new
+plan for controlling information.
+
+Quel progetto proviene dal documento dell'amministrazione Clinton, che
+propone il loro nuovo progetto per avere il controllo sull'informazione.
+
+What can we do about this? We need to organise the users of information to
+stand up for the freedom to copy.
+
+Che cosa possiamo fare a proposito? Dobbiamo organizzare gli utenti
+dell'informazione in modo che difendano la liberta' di duplicare.
+
+I should explain something about the history of copyright.
+
+Dovrei fornire qualche spiegazione sulla storia del copyright.
+
+Copyright began along with the printing press.
+
+Il copyright nacque assieme alla stampa tipografica.
+
+Because the printing press created a world in which the only efficient way
+to make copies of books was by mass production.
+
+Perche' la pressa creo' un mondo in cui l'unico metodo efficiente di creare
+delle copie di libri fu la produzione su grande scala.
+
+Actually, it was no harder to make an individual copy than it was in the
+ancient world. You could still do it with a pen.
+
+In realta', non divento' piu' difficile fare una copia individuale di un
+libro rispetto a prima nel mondo antico. La potevi tuttora fare con una
+penna.
+
+But compared with printing, printing was much easier.
+
+Ma quando la metti a confronto con la stampa, quest'ultima risulto' molto
+piu' facile.
+
+and as printing became cheaper nobody would copy books by hand.
+
+e man mano che il prezzo della stampa si abbassava, nessuno avrebbe copiato
+un libro a mano.
+
+So when copyright law said that you're forbidden to make copies of a book,
+this restriction really only affected authors and publishers.
+
+Quindi, quando la legge sul copyright diceva che era vietato copiare un
+libro, questa restrizione influenzava soltanto gli autori e le case
+editrici.
+
+If you were an ordinary reader and you did not own a printing press, it was
+an irrelevant question: "Are you permitted to copy this book or not?". You
+*couldn't* copy it.
+
+Al lettore comune, non aveva di un torchio per stampare, non ebbe rilevanza
+chiedere se fosse lecito o no copiare un libro. Non lo potevi copiare
+affatto.
+
+So in effect copyright is a system where the readers give up a freedom that
+they can't use,
+
+Quindi, in effetti, il copyright e' un sistema in cui i lettori rinunciano
+ad una liberta' che non sono in grado di usare.
+
+and in exchange they get more books available in the bookstore,
+
+e in cambio, ottengono che le librerie siano piene di libri,
+
+which is a good thing.
+
+il che' e' una cosa buona.
+
+So in general copyright was uncontroversial in the age of the printing
+press.
+
+E quindi, in generale, il copyright non provoco' controversie nell'eta'
+della pressa.
+
+However, nowadays, the freedom to make copies yourself is becoming a useful
+freedom,
+
+Oggi, invece, la liberta' di farsi delle copie sta diventando una liberta'
+utile.
+
+because we're not in the age of the printing press any more, at least not
+completely.
+
+perche' non stiamo piu' nell'eta' della pressa, almeno, non del tutto.
+
+In the age of the computer and the network, technology creates a situation
+more like the ancient world,
+
+Nell'eta' del computer e della rete, la tecnologia crea una situazione piu'
+simile a quella del mondo antico,
+
+where any reader can also copy a book,
+
+in cui qualunque lettore puo' copiare un libro,
+
+and making one copy is a feasible way of copying.
+
+e la produzione di una copia singola e' un modo praticabile di copiare.
+
+So to make a copy for your friend becomes a useful practical thing to do,
+
+E dunque, la possibilita' di fare una copia per un amico diventa una cosa
+utile e pratica da fare,
+
+and thus the freedom we gave up cheerfully because we couldn't use it, now
+we can use.
+
+e quindi quella liberta', alla quale rinunciemmo cosi' allegramente perche'
+non la potevamo utilizzare, ora la possiamo utilizzare.
+
+And therefore what should we do? We should refuse to give up all of this
+freedom, we should keep at least part of it for ourselves.
+
+E allora, che cosa dovremmo fare? Ci dovremmo rifiutare di rinunciare a
+tutta questa liberta'; dovremo tenerne almeno una parte per noi.
+
+In other words, copyright systems, legal systems should be modified to
+reduce the amount of restriction placed on ordinary readers and users.
+
+In altre parole, si dovrebbero modificare i sistemi di copyright, i sistemi
+legali, per ridurre le restrizioni incombenti sui lettori e sugli utenti
+ordinari.
+
+Perhaps there should still be some kind of copyright.
+
+Forse ci vuole qualche tipo di copyright.
+
+It might be acceptable to have copyright covering only commercial
+distribution,
+
+Potrebbe andare bene se il copyright si applicasse soltanto alle
+distribuzioni commerciali,
+
+or organized, systematic distribution,
+
+o alle distribuzioni organizzate e sistematiche
+
+but making a copy now and then for your friends should be permitted and
+encouraged,
+
+ma il fare una copia ogni tanto per gli amici dovrebbe essere permessa ed
+incoraggiata,
+
+because, after all, the only justification for copyright is to give all of
+us more things to read and enjoy.
+
+perche', alla fine, l'unica giustificazione del copyright e di dare a tutti
+noi piu' cose da leggere e di cui godere.
+
+It makes no sense for us to subject ourselves to painful and
+society-attacking restrictions just to have a few additional books in the
+bookstore.
+
+Non ha senso se ci sottomettiamo a delle restrizioni dolorose e dannose per
+la societa' solo per aver qualche libro in piu' nelle librerie.
+
+A copyright system that only covers commercial distribution should be enough
+to keep the bookstores full of books.
+
+Un sistema di copyright che copra soltanto la distribuzione commerciale
+dovrebbe bastare a tenere piene di libri le librarie.
+
+What's more, nowadays, at least in the US, books are usually in print for
+just a few years.
+
+Perdipiu', oggigiorno, almeno negli US, i libri rimangono in stampa per
+pochi anni.
+
+[Stallman interpola la folla:] Is that true in Italy too? Yes, they say yes,
+it's true in Italy too.
+
+E` vero, questo, anche in Italia? Si', dicono di si', vale anche per
+l'Italia.
+
+So this means that if copyright lasted just, say, ten years after a book is
+published, that would be sufficient to keep the bookstores full of books,
+
+Cio' implica che, se il copyright dovesse durare soltanto, per dire, dieci
+anni dopo la prima pubblicazione di un libro, basterebbe lo stesso a tenere
+piene di libri le librerie,
+
+and if a certain amount of copyright is sufficient to keep the bookstores
+full of books, any additional restriction has to be wrong.
+
+e se una certa' quantita' di copyright e' sufficiente a tenere le librerie
+piene di libri, segue che qualunque restrizione in piu' deve per forza
+essere errata.
+
+I once, by the way, I was on a panel with some science fiction writers where
+I proposed this kind of ten-year copyright,
+
+Una volta, fra parentesi, diedi una conferenza assieme ad alcuni scrittori
+di fantascienza in cui proposi questa specie di copyright decenne,
+
+and one of the authors said "That's no good at all. Ten years is horrible,
+it should be five years."
+
+ed uno degli autori disse "Quello non va per niente bene. Dieci anni sono
+atroci, dovrebbe durare per cinque anni."
+
+So you shouldn't even believe that authors will be opposed to this change.
+It's the copyright industry, it's the companies that own information that
+are opposed to shorter copyright.
+
+Quindi non dovresti neanche credere che gli autori si opporranno a questo
+cambiamento. E` l'industria del copyright, le aziende proprietarie
+dell'informazione, che si oppongono a copyright di minore durata.
+
+In fact they want copyright to last even longer.
+
+Infatti, vorebbero che il copyright durasse ancora di piu'.
+
+Right now, in most countries, copyright for a work made by a company lasts
+for seventy-five years,
+
+Proprio adesso, nella maggior parte dei paesi, i diritti su un'opera tenuti
+da un'azienda durano settantacinque anni,
+
+which is a very, very long time.
+
+che e' un periodo molto, ma molto lungo.
+
+It's hard to believe that any company plans seventy-five years ahead
+
+E` difficile da credere che ci sia un'azienda in esistenza che pianifica
+fino a settantacinque anni in avanti.
+
+but nonetheless, the information companies in the U.S. say that that's not
+long enough.
+
+ma, cio' nonostante, le aziende dell'informazione negli U.S.A. dicono che
+non basta.
+
+They want it extended to 95 years.
+
+La vogliono vedere estesa fino a novantacinque anni.
+
+In fact they've proposed a law to do this,
+
+Di fatti, hanno una proposta di legge per fare cio',
+
+and not only that, they want to make it retroactive.
+
+e non solo, la vogliono fatta in modo retroattivo.
+
+Apparently they want to create more incentive for people in the 1920's to
+write more books.
+
+Pare che vogliano creare degli incentivi perche' la gente negli anni venti
+scriva piu' libri.
+
+So it's an interesting point that the U.S. constitution says that copyright
+must last for a limited time,
+
+E` interessante notare che la costituzione degli U.S.A. dice che il
+copyright deve avere una durata limitata nel tempo,
+
+so perpetual copyright would be unconstitutional in the US.
+
+e, quindi, il copyright perpetuo sarebbe anticostituzionale negli SU.
+
+So the copyright industry had a clever idea. If every twenty years they
+lengthen the copyright term by twenty years, in effect they will get
+perpetual copyright on the Installment Plan.
+
+Allora, all'industria del copyright venne un'idea brilliante. Se, ogni
+vent'anni, dovessero allungare la durata del copyright di altri vent'anni,
+in effetti otterrebbero il copyright perpetuo sull'Installment Plan.
+
+(L'interprete spiega: The Installment Plan, se mi ricordo, e` un dramma
+teatrale.)
+
+And in fact, the last time they extended copyright by twenty years was
+twenty years ago.
+
+E, infatti, l'ultima volta che il copyright e' stato esteso di vent'anni era
+vent'anni fa.
+
+A large part of the motivation for this is that Disney is afraid that the
+character Mickey Mouse will enter the public domain.
+
+Uno dei moventi di questo e' che la Disney teme che il personaggio Topolino
+possa entrare nel pubblico dominio pubblico.
+
+You have to put Disney in your list along with Microsoft.
+
+Dovete aggiungere la Disney al vostro elenco, assieme alla Microsoft.
+
+Well, I'm talking about a proposed law in the U.S., but certainly they're
+going to do it in every country.
+
+Ebbene, sto parlando di una proposta di legge negli U.S.A., ma e' cosa certa
+che la faranno in tutti i paesi.
+
+So in every country people who use books, people who use information have to
+start organizing and politically demanding less copyright restrictions:
+shorter copyright, not longer copyright.
+
+Dunque la gente di ogni paese che fa uso di libri, la gente che fa uso
+dell'informazione, deve cominciare ad organizzarsi ed a richiedere in modo
+politico che ci siano copyright meno repressivi: termini piu' brevi di
+copyright, non piu' lunghi.
+
+And when somebody says that copying for your friends is piracy, you have to
+say "No, it's not piracy".
+
+E quando qualcuno dice che una copia per un amico sia pirateria, dovete dire
+"No, non e' pirateria".
+
+I call it "sharing with your neighbour".
+
+Io lo chiamo "Dividere le cose con il prossimo".
+
+And I hope that if you use computers that you will use free software
+
+E spero che, se fai uso di computer, vi servirete di software libero
+
+and "just say no" to software incatenante.
+
+e "dite no semplicemente" al software incatenante.
+
+Well, that's all I'm going to say, so now it's time for you to ask
+questions... or leave.
+
+Ebbene, non diro' di piu', e dunque e' giunta l'ora di fare delle domande...
+o di andarsene.
+
+Oh but I forgot one thing. There is one thing I should do first (si mette a
+cercare sotto il banco...) I want to introduce my friend Sant Ignuzio...
+
+Ah, ma mi sono dimenticato di una cosa. C'e' una cosa che dovrei fare prima
+(...) Vi voglio fare conoscere un mio amico, Sant'Ignuzio...
+
+(Riappare con un piatto da un disco fisso sulla testa)
+
+I am Saint Ignuzius from the church of Emacs. I should explain that being a
+saint in the church of Emacs is not the same as in the catholic church.
+
+Sono Sant'Ignuzius della chiesa di Emacs. Dovrei spiegare che fare il santo
+nella chiesa di Emacs non e' la stessa cosa come nella chiesa cattolica.
+
+Fortunately, it has nothing to do with celibacy.
+
+Per fortuna, non c'entra il celibato.
+
+Instead, being a saint in the church of emacs is a matter of avoiding the
+profane contact with software incatenante.
+
+La santita' nella chiesa di Emacs si tratta, invece, di evitare il contatto
+profano con il software incatenante.
+
+And so we have to use ["lead"? -NdT] a pure life using only free software.
+
+E quindi dobbiamo condurre una vita pura servendoci esclusivamente di
+software libero.
+
+I bless your computer, my child.
+
+Benedico il tuo computer, figlio mio.
+
+-- Titolo --
+
+THE END
+
+traduzioni di Syd MigX
+
+(C)opyleft ShaKe 1999
+www4.iol.it/decoder
+
+============

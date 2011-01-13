@@ -1,0 +1,122 @@
+BODY {
+  color: black;
+  background: silver;
+  font-family: Helvetica, Arial, sans-serif;
+}
+A {
+  text-decoration: underline;
+}
+
+A:link {
+ color: blue;
+ background: inherit;
+}
+
+A:visited {
+ color: blue;
+ background: inherit;
+}
+
+A:active {
+ color: red;
+ background: inherit;
+}
+
+A:hover {
+  text-decoration: none;
+}
+
+DT {
+  border-style: ridge;
+  border-width: thin;        /* sets border width on all sides */
+  border-color: black;
+  background-color: inherit;
+  color: #880000;
+  padding: 3px;
+  margin-top: 2em;
+}
+
+DD {
+  margin-top: 4px;
+}
+
+H1 {
+  color: gray;
+}
+
+H1.cent {
+  text-align: center;
+}
+
+h3 {
+  color: #008800;
+}
+
+H4.allegato {
+  text-align: center;
+  font-weight: bold;
+  font-size: larger;
+  background-color: gray;
+  color: white;
+}
+
+
+H4.programma {
+  text-align: left;
+  font-weight: bold;
+  margin-top: 0px;
+  margin-bottom: 2px;
+  background-color: green;
+  color: white;
+}
+
+
+PRE.email {
+  color: inherit;
+  background-color: inherit;
+  font-family: monospace;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 6px;
+}	
+
+DIV.programma {
+  color: inherit;
+  margin-top: 0px;
+  padding-top: 0px;
+  padding-bottom: 6px;
+  border-color: green;
+  border-width: 2px;
+  border-style: solid;
+}
+
+PRE.allegato {
+  color: inherit;
+  padding: 5px;
+  background-color: inherit;
+  font-family: monospace;
+  border-color: blue;
+  border-width: 1px;
+  border-style: solid;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 6px;
+}	
+
+.relatore {
+	font-style: italic;
+	color: #008888;
+}
+
+dt.programma {
+	border-top: 0px; 
+	border-left: 0px;
+	border-right: 0px;
+	border-bottom: 1px solid #ddd;
+}
+
+dd.programma {
+	border-left: 5px dotted #ddd;
+	margin-left: 1em;
+	padding-left: 1em;
+}

@@ -1,0 +1,11 @@
+#!/bin/sh
+
+list=*.rpm
+for file in $list
+do
+   outst=`rpm --checksig --nopgp $file`
+   if [ $? != "0" ]
+   then
+      echo $outst
+   fi
+done

@@ -1,0 +1,3 @@
+#!/bin/bash
+(cd ~lugbs/cvs-lugbs/lugbs &&
+tar cvO $(find . -not -name "*CVS*" -type f) | tar xvf - -C ~lugbs/public_html)

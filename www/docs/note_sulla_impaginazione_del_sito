@@ -1,0 +1,19 @@
+Il codice HTML delle pagine deve descrivere solamente
+ la struttura dei documenti, non l'aspetto. 
+Le informazioni sull'impaginazione devono essere fornite
+ tramite CSS conformanti alla versione 2.0 dello standard.
+
+Lo stile in lugbs.css e' incapsulato da tutte le pagine;
+ e' possibile per una pagina definire dei tags locali ma
+ questo e' -per ovvi motivi- altamente sconsigliato.
+
+Le opzioni align=, valing=, etc. sono da evitare per le
+ pagine nuove sebbene ammesse da HTML 4.01 transitional.
+ Questo per due motivi:
+  1. loro inutilita' alla luce dei CSS
+  2. prospettiva di un possibile futuro aggiornamento del
+      sito a HTML 4.01 strict.
+
+Chiaramente, sono aborriti tags del tipo <FONT>.
+
+

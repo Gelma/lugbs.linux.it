@@ -1,0 +1,316 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<HTML lang="it">
+<HEAD>
+   <TITLE>Software Educativo</TITLE>
+   <META HTTP-EQUIV="Content-Type" content="text/html; charset=iso-8859-1">
+   <META NAME="DC.Language" CONTENT="it">
+   <LINK REV=MADE href="mailto:webmaster@lugbs.linux.it">
+</HEAD>
+<BODY>
+<h1>Software educativo</h1>
+
+<font size="-1">Maurizio Paolini, Universit&agrave; Cattolica di Brescia <br>
+URL di questa presentazione: 
+http://dmf.unicatt.it/~paolini/linuxday/educational.html
+</font>
+
+
+<h2>Schema della presentazione</h2>
+
+<ol>
+<li><a href="#intro">Introduzione</a>
+<li><a href="#kdeedu">Kdeedu</a>
+<li><a href="#kstars">Kstars</a>
+<li><a href="#kalzium">Kalzium</a>
+<li><a href="#kgeo">Kgeo</a>
+<li><a href="#rigacompasso">Costruzioni con riga e compasso</a>
+<li><a href="#wulff">Aggiunta di features particolari</a>
+<li><a href="#autore">E l'autore?</a>
+<li><a href="#kig">kig: il circolo virtuoso del software libero</a>
+<li><a href="#scuole">E le Scuole?</a>
+<li><a href="#fine">Nota finale</a>
+</ol>
+
+
+<hr>
+<hr>
+
+
+
+<h2><a name="intro">Introduzione</a></h2>
+
+Alcuni progetti per lo sviluppo di software educativo 
+stanno prendendo vita, insieme ad altri che esistono
+da molto tempo:
+
+<ul>
+<li>Progetto <a href="http://www.seul.org/edu/">SEUL</a>,
+<a href="http://richtech.ca/seul/">Existing software</a>,
+<a href="http://casestudy.seul.org/">CaseStudies</a>.
+
+<li><a href="http://freshmeat.net/articles/view/533/">Linux in Education: 
+Two Years Later</a> (Articolo su freshmeat dell'agosto scorso).
+
+<li><a href="http://www.schoolforge.net/">Schoolforge</a>
+
+<li><a href="http://wiki.debian.net/DebianEdu">DebianEdu</a>
+
+<li><a href="http://edu.kde.org/">KDE Edutainment project</a>
+</ul>
+
+E' un ambito in cui c'e' molta vivacita' proprio in questi ultimi
+mesi, quindi e' un buon momento per entrare attivamente a fare parte
+di uno di tali progetti con proposte, suggerimenti, correzioni, ecc.
+
+<hr>
+
+<h2><a name="kdeedu">Il progetto</a> <b>KDE-edu</b></h2>
+ <ul>
+ <li>Astronomy: <a href="http://edu.kde.org/kstars/">KStars</a> (desktop
+planetarium).
+ <li>Chemistry: <a href="http://edu.kde.org/kalzium/">Kalzium</a> (tavola
+periodica degli elementi).
+ <li>Games:...
+ <li>Languages:...
+ <li>Mathematics: <a href="http://edu.kde.org/kgeo/">KGeo</a> (geometria
+interattiva, stile <a href="http://www-cabri.imag.fr/">Cabri 
+G&eacute;om&egrave;tre</a>).
+ <li>Miscellaneous:...
+ <li>In planning:...
+ </ul>
+
+<hr>
+
+<h2><a name="kstars">Esempio interattivo con kstars:</a></h2>
+ <ul>
+ <li>Scelta della localita'.
+ <li>Zoom (tasto centrale del mouse e movimento verso l'alto) e spostamento
+nella volta celeste.
+ <li>Eliminazione stelle, 
+ <li>Toggle "deep sky objects (galassie, quasar, ...)
+ <li>eliminazione linee di costellazione.
+ <li>eliminazione linea di orizzonte.
+ <li>cerca "giove"
+ <li>togli il lucchetto "insegui oggetto".
+ <li>accelera il tempo a 5 mins.
+ <li>esci da kstars.
+ </ul>
+
+<hr>
+
+<h2><a name="kalzium">Esempio interattivo con kalzium:</a></h2>
+ <ul>
+ <li>Attivazione programma (comando "kalzium").
+ <li><b>Nota</b>: la questione della localizzazione.  Uno dei punti
+che vengono portati a sfavore del software libero &egrave; che essendo
+scritto da 'hackers' non si preoccupa di questioni spicciole come 
+una interfaccia grafica gradevole e semplice da utilizzare e la localizzazione
+per le varie lingue.  Nulla di piu' falso!  <br>
+Come funziona la localizzazione
+di un programma?
+  <ol>
+  <li>Il programmatore deve seguire delle linee-guida nel costruire un
+      programma "internazionalizzabile".
+  <li>Il team di localizzazione e' del tutto indipendente dal programmatore.
+  </ol>
+Ad esempio, la localizzazione di kalzium (incompleta) per l'italiano &egrave; 
+stata predisposta da me appositamente per questa presentazione.  
+Nulla mi impedisce di proporre la mia localizzazione al team di kde per
+l'inclusione ufficiale.
+ <li>Click su "Carbone", notare la tabella in italiano.
+ <li><b>Nota su autori e licenza:</b> Click su "Aiuto->Informazioni su".
+ L'autore del prodotto &egrave; in bella evidenza, e il copyright del
+ prodotto &egrave; suo.
+ Accordo di licenza "GNU GENERAL PUBLIC LICENCE":  software libero, con
+ sorgenti disponibili, modificabili, ecc.
+ <li>Click si "Acid behaviour->State of matter".
+ <li>Click su "timeline" (controllare che sia selezionato "Complete" e non
+"Mendeleev").
+ <li>Esci da kalzium.
+ </ul>
+
+<hr>
+
+<h2><a name="kgeo">Esempio interattivo con kgeo:</a></h2>
+
+ <ul>
+ <li>Attivazione programma (a linea di comando o da men&ugrave;).
+ <li>Provare una semplice costruzione:
+  <ol>
+  <li>due punti sull'asse x
+  <li>una retta inclinata sul lato sinistro
+  <li>un punto vincolato sulla retta
+  <li>esempio di spostamento degli oggetti grafici
+  <li>semiretta dal punto B per il punto vincolato
+  <li>perpendicolare alla semiretta per A.
+  <li>intersezione tra rette.
+  <li>luogo dei punti (traccia accesa).
+ </ul>
+
+  <hr>
+
+  <h3><a name="rigacompasso">Costruzioni con riga e compasso: bisettrice 
+di un angolo</a></h3>
+
+ <ul>
+  <li>Una semiretta.
+  <li>Un'altra semiretta uscente dallo stesso punto.
+  <li>Cerchio centrato sul vertice dell'angolo.
+  <li>Intersezione tra cerchio e retta... NON C'E'!
+ </ul>
+
+La prima reazione &egrave;: aspetto la prossima release del programma e
+magari trovo anche la funzione di intersezione tra cerchi e rette.
+
+<p>
+
+Ma si tratta di software libero: ho a disposizione i sorgenti, perch&egrave;
+non provare ad aggiungere di persona tale funzione?
+
+<p>
+
+Effettivamente la cosa ha funzionato: il risultato &egrave; il programma
+"kgeo.pao".
+
+(Ripetere la costruzione precedente con il programma "kgeo.pao")
+ <ul>
+  <li>Intersezione tra cerchio e retta,
+  <li>Primo cerchio,
+  <li>Secondo cerchio,
+  <li>Retta radicale tra i due cerchi.
+ </ul>
+
+Il risultato della modifica &egrave; a sua volta protetto dalla licenza
+GPL (carattere virale della GPL):  non posso utilizzare la versione di
+kgeo da me modificata come fosse un programma proprietario; devo fornire
+assieme al programma anche i sorgenti e non posso impedire che ne vengano
+fatte copie, ecc.
+
+<p>
+
+Nel caso specifico ho predisposto una pagina web contenente le mie
+"patch" (cosa sono le patch?) da applicare a kgeo per ottenere le nuove
+funzionalit&agrave;.  In questo modo chiunque pu&ograve; trarre vantaggio
+dal mio lavoro:  scarica i sorgenti di kgeo, scarica e applica le mie
+patch, compila tutto... (non &egrave; cos&igrave; difficile come pu&ograve;
+sembrare).
+
+<hr>
+
+<h3><a name="wulff">Altro vantaggio: aggiunta di features molto
+particolari</a></h3> 
+
+Pu&ograve; a volte succedere di aver bisogno di una estensione 
+molto particolare di un qualche programma.  Nel mondo del software
+commerciale, le possibili soluzioni in tal caso sono essenzialmente due:
+
+<ol>
+<li><i>Forget it!</i>
+<li>Contattare il fornitore del prodotto, commissionargli l'estensione,
+pagarlo fior di quattrini, per poi constatare che il lavoro fatto in 
+realt&agrave; non corrisponde a quello che si voleva :-(
+<li>---&gt; economia malata.
+</ol>
+
+Non cos&igrave; nel caso di software libero: l'aggiunta me la posso
+fare da me (se ne ho le capacit&agrave;) o posso trovare qualcuno che
+lo sa fare, senza essere vincolato al produttore del programma, e
+riuscendo cos&igrave; a sfruttare il meccanismo della concorrenza.
+
+<p>
+
+<b>Esempio:</b> kgeo.wulff
+
+<hr>
+
+<h3><a name="autore">E l'autore?</a></h3> 
+
+Naturalmente ho provato a contattare l'autore (Marc Bartsch) proponendogli
+di includere le mie patch nella versione ufficiale.  La risposta &egrave;
+stata positiva, ma poi di fatto la cosa non &egrave; stata fatta.  Nessuno
+pu&ograve; costringere l'autore a includere patch di terzi...
+
+<p>
+
+Tutto ci&ograve; succedeva durante la primavera scorsa.  Nulla da fare?
+
+<p>
+
+Succede per&ograve; che una persona (Dominique Devriese), anche lei
+interessata a migliorie su kgeo, non ricevendo un grande supporto 
+dall'autore di kgeo ha deciso di partire con un progetto nuovo: "Kig"
+(K Interactive geometry), che verr&agrave; incluso ufficialmente in
+kde-edu a partire dalla versione 3.2, ma gia utilizzabile scaricando
+i sorgenti 
+(<a href="ftp://ftp.kde.org/pub/kde/stable/apps/KDE3.x/math/">ftp.kde.org/pub/kde/stable/apps/KDE3.x/math/</a>).
+
+<hr>
+
+<h2><a name="kig">KIG, ovvero il circolo virtuoso del software libero</a></h2>
+
+L'autrice di kig si &egrave; dimostrata molto interessata all'inclusione
+delle patch sull'intersezione tra rette e cerchi, e in effetti ha
+convertito lei stessa le patch e le ha incluse in KIG, quindi ora la
+versione ufficiale di KIG comprende anche tali features.
+<b>Morale:</b> chiunque pu&ograve; utilizzare le modifiche apportate in
+un programma GPL, a patto che il risultato sia ancora GPL.
+
+<p>
+
+<ul>
+<li>Provare a costruire la bisettrice con KIG.
+</ul>
+
+<p>
+
+<b>Localizzazione</b>. 
+Essendo KIG un programma non ancora ufficialmente incluso in kde,
+non esiste ancora un progetto di localizzazione ufficiale; naturalmente 
+per&ograve; non &egrave; un problema costruire una localizzazione per 
+l'italiano.
+
+<p>
+
+<b>Soddisfazione di ampliare un programma:</b> In modo analogo a quanto
+fatto per KGEO, ho provato ad introdurre nuove opzioni in KIG; questo
+ha portato ad una stretta interazione con l'autore di KIG con scambio di
+suggerimenti nelle due direzioni, e il risultato &egrave; sostanzialmente
+la formazione spontanea di un team di sviluppo.  Ora KIG ha tutta una serie
+di strumenti per la gestione delle coniche, risultato di un collegamento
+spontaneo tra competenze diverse.
+
+<hr>
+
+<h2><a name="scuole">E le Scuole?</a></h2>
+
+Sono a tutti gli effetti gli utilizzatori ideali del software libero,
+poich&egrave; in tal modo rendono possibile la creazione spontanea di
+competenze, permettono di far leva sull'entusiasmo dei giovani quando
+hanno la possibilit&agrave; di creare qualcosa che prima non esisteva,
+possono inserirsi in progetti a partire da cose "semplici" come
+<ul>
+<li>testing, suggerimenti didattici
+<li>localizzazione per l'italiano
+<li>creazione di manualistica in italiano
+</ul>
+Ma potendo giungere anche a interagire con i sorgenti dei programmi
+<ul>
+<li>risoluzione di bachi,
+<li>introduzione di nuove features,
+<li>condivisione con gli autori e con altri utilizzatori. 
+</ul>
+
+<hr>
+
+<h2><a name="fine">Nota finale</a></h2>
+
+L'autrice di KIG &egrave; ora studentessa del primo anno di Computer Science;
+questo significa che il grosso di KIG lo ha scritto quando era ancora
+studentessa di una scuola secondaria:  come dire che voi potete avere
+tra i vostri studenti delle competenze insospettate.
+
+<br>
+<p>
+<hr>
+</body>
+</html>

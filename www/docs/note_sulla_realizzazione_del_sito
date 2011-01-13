@@ -1,0 +1,56 @@
+Tosto che la modifica del sito e` aperta a chiunque, i seguenti
+punti sono conditio sine qua non per poter apportare modifiche al
+sito.
+
+1. Compatibilita' con gli standard HTML e CSS: le pagine devono superare
+   i test del w3c in entrambi i casi...
+2. Fruibilita' con diversi tipi di browser: essenzialmente le pagine devono
+   essere chiare e ben leggibili sia con browser testuali (lynx/links/w3m/w3)
+   che con browser grafici (Mozilla, amaya, konqueror e possibilmente
+    pure mosaic).
+   La leggibilita' sotto netscape sarebbe opportuna (ma i CSS possono
+   seguire la DTD standard... se l'implementazione del browser non va bene,
+   pazienza)...
+   [Nota: se le pagine sono standard, sta al browser renderizzarle nel
+   modo migliore... e' bene pero' seguire anche le guidelines per la
+    "accessibility"... usare la DTD `strict' aiuta]
+3. Liberta': la compressione usata per le "gif" e' protetta da brevetto
+   negli USA... noi siamo in europa e la cosa non ci riguarda, fortunatamente...
+   ciononostante suggerirei di evitare questo formato "proprietario".
+3. Snellezza: non tutti hanno una ADSL a casa e alcuni si ostinano ad usare
+   browser grafici... una immagine ".png" da 12 Mb come sfondo NON e'
+   una buona idea! Inoltre, la grafica deve guidare ed aiutare, non
+   sopravanzare il contenuto.
+4. Semplicita': java e javascript sono "standard de facto"; sono
+   supportati da mozilla e, essendo incapsulati in commenti, non alterano la
+   validita' delle pagine. Ciononostante il loro utilizzo rende la fruizione
+   di una pagina web estremamente complicata senza alcun effettivo vantaggio.
+   Bachi nelle JVM rendono java estremamente instabile oltre che un rischio
+   per la sicurezza: just say no!
+   Qualora si presenti una situazione in cui l'impiego di codice javascript
+   sia INDISPENSABILE (al momento non me ne viene in mente nessuna, ma...),
+   allora si puo' considerare se e come ridefinire le condizioni al contorno. :)
+   [ad es. eliminando la pagina]
+   Non credo ci sia bisogno di dire che flash e' considerato abominevole.
+   [the perpetrator will be terminated with extreme prejudice]
+5. Chiarezza: il codice html formattato deve essere leggibile anche da editor:
+   le linee possono contenere al piu' 75 caratteri e l'identazione deve
+   essere "razionale". Non c'e' bisogno di usare uno stile uniforme
+   per quest'ultima, ma io suggerisco OTBS, cioe' lo stile K&R:
+   tabulazione di 4 caratteri per ogni sottolivello.
+6. Amichevolezza: no cookies, please. Una altra cosa che e' bene evitare sono
+   animazioni o simili (non potendo usare le "gif" molte cose vengono sistemate
+   da se', pero' e' sempre bene ribadire). Gia' che sono sull'argomento:
+   le immagini dovrebbero essere testate sia in truecolor sia con un display
+   indexed (256 colori o scala di grigio). Dubito che un test a 16 colori
+   sia INDISPENSABILE... potrebbe pero' essere opportuno ugualmente vedere
+   che la cosa non renda la pagina orribile [nota: il framebuffer VGA e'
+   a 16 colori ed esiste un browser che si appoggia sulla DirectFB, per cui
+   non e' una situazione tanto assurda]
+7. Uniformita': le pagine dovrebbero avere tutte un "tocco" comune: usare
+   php o un altro preprocessore in questo caso aiuta non poco come pure
+   sfruttare appieno i CSS... il problema non e' banale soprattutto quando
+   alcune delle pagine stesse sono generate da programmi esterni, ma si
+   tratta di una cosa da considerare seriamente.
+
+Attendo suggerimenti.
