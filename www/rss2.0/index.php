@@ -5,7 +5,7 @@ $Id: rss2writer.class.php,v 1.1 2006/07/24 21:14:12 cvsuser Exp $
 
 RSS2Writer a php class to generate in a simple way RSS 2.0 feeds
 by Maurizio Giunti (http://www.mauriziogiunti.it)
-             	
+
 
 This software is distributed under the LGPL license:
 
@@ -28,7 +28,7 @@ Although it is in no way required by the GNU Library General
 Public License, it is the author's desire that software designed
 around this library remain public as per the intent of the GPL.  The
 author did not license this software under the GPL but rather the
-LGPL so as to give others more freedom in how this software is used. 
+LGPL so as to give others more freedom in how this software is used.
 
 
 
@@ -42,7 +42,7 @@ class RSS2Item {
   var $title;
   var $link;
   var $description;
-  
+
   // Optional items
   var $author;
   var $category;
@@ -51,20 +51,20 @@ class RSS2Item {
   var $guid;
   var $pubDate;
 //  var $source;
-  
-  
-function RSS2Item($sTitle,$slink,$sDescription) 
+
+
+function RSS2Item($sTitle,$slink,$sDescription)
 {
   $this->title=$sTitle;
   $this->link=$slink;
   $this->description=$sDescription;
-  
+
   $this->author='';
   $this->category='';
   $this->comments='';
   //$this->enclosure='';   not yet supported
   $this->guid='';
-  $this->pubDate='';  
+  $this->pubDate='';
   //$this->source=''; not yet supported
 }
 
@@ -101,27 +101,27 @@ function getAsString()
 {
   $ret='';
   $ret.="<item>\n";
-  
+
   $ret.='<title>'.encodexmlchars($this->title).'</title>'."\n";
   $ret.='<link>'.encodexmlchars($this->link).'</link>'."\n";
   $ret.='<description>'.encodexmlchars($this->description).'</description>'."\n";
   if($this->author!='') {
-    $ret.='<author>'.encodexmlchars($this->author).'</author>'."\n";  
+    $ret.='<author>'.encodexmlchars($this->author).'</author>'."\n";
   }
   if($this->category!='') {
-    $ret.='<category>'.encodexmlchars($this->category).'</category>'."\n";  
+    $ret.='<category>'.encodexmlchars($this->category).'</category>'."\n";
   }
   if($this->comments!='') {
-    $ret.='<comments>'.encodexmlchars($this->comments).'</comments>'."\n";  
+    $ret.='<comments>'.encodexmlchars($this->comments).'</comments>'."\n";
   }
   if($this->guid!='') {
-    $ret.='<guid>'.encodexmlchars($this->guid).'</guid>'."\n";  
+    $ret.='<guid>'.encodexmlchars($this->guid).'</guid>'."\n";
   }
   if($this->pubDate!='') {
-    $ret.='<pubDate>'.encodexmlchars($this->pubDate).'</pubDate>'."\n";  
+    $ret.='<pubDate>'.encodexmlchars($this->pubDate).'</pubDate>'."\n";
   }
-  
-  
+
+
   $ret.="</item>\n";
   return $ret;
 }
@@ -155,7 +155,7 @@ class RSS2Writer {
 //  var $textinput;
 //  var $skipHours
 //  var $skipDays
-  
+
   // Items list
   var $items;
 
@@ -188,23 +188,23 @@ function RSS2Writer($sTitle,$sLink,$sDescription)
 }
 
 
-function setLanguage($sLanguage) 
-{ 
+function setLanguage($sLanguage)
+{
   $this->language=$sLanguage;
 }
 
-function setCopyright($sCopyright) 
-{ 
+function setCopyright($sCopyright)
+{
   $this->copyright=$sCopyright;
 }
 
-function setManagingEditor($sEmail,$sName) 
-{ 
+function setManagingEditor($sEmail,$sName)
+{
   $this->managingEditor="$sEmail ($sName)";
 }
 
-function setWebMaster($sEmail,$sName) 
-{ 
+function setWebMaster($sEmail,$sName)
+{
   $this->webMaster="$sEmail ($sName)";
 }
 
@@ -243,7 +243,7 @@ function setTtl($sTtl)
 
 
 
-function setImage($url,$title,$link,$width,$height) 
+function setImage($url,$title,$link,$width,$height)
 {
   $img['url']=$url;
   $img['title']=$title;
@@ -270,56 +270,56 @@ function getHeaderAsString()
   $ret.='<link>'.encodexmlchars($this->link).'</link>'."\n";
   $ret.='<description>'.encodexmlchars($this->description).'</description>'."\n";
   if($this->language!='') {
-    $ret.='<language>'.encodexmlchars($this->language).'</language>'."\n";  
+    $ret.='<language>'.encodexmlchars($this->language).'</language>'."\n";
   }
   if($this->copyright!='') {
-    $ret.='<copyright>'.encodexmlchars($this->copyright).'</copyright>'."\n";  
+    $ret.='<copyright>'.encodexmlchars($this->copyright).'</copyright>'."\n";
   }
 
   if($this->managingEditor !='') {
-    $ret.='<managingEditor>'.encodexmlchars($this->managingEditor).'</managingEditor>'."\n";  
+    $ret.='<managingEditor>'.encodexmlchars($this->managingEditor).'</managingEditor>'."\n";
   }
   if($this->webMaster !='') {
-    $ret.='<webMaster>'.encodexmlchars($this->webMaster).'</webMaster>'."\n";  
+    $ret.='<webMaster>'.encodexmlchars($this->webMaster).'</webMaster>'."\n";
   }
   if($this->pubDate !='') {
-    $ret.='<pubDate>'.encodexmlchars($this->pubDate).'</pubDate>'."\n";  
+    $ret.='<pubDate>'.encodexmlchars($this->pubDate).'</pubDate>'."\n";
   }
   if($this->lastBuildDate !='') {
-    $ret.='<lastBuildDate>'.encodexmlchars($this->lastBuildDate).'</lastBuildDate>'."\n";  
+    $ret.='<lastBuildDate>'.encodexmlchars($this->lastBuildDate).'</lastBuildDate>'."\n";
   }
   if($this->category !='') {
-    $ret.='<category>'.encodexmlchars($this->category).'</category>'."\n";  
+    $ret.='<category>'.encodexmlchars($this->category).'</category>'."\n";
   }
   if($this->generator !='') {
-    $ret.='<generator>'.encodexmlchars($this->generator).'</generator>'."\n";  
-  }  
+    $ret.='<generator>'.encodexmlchars($this->generator).'</generator>'."\n";
+  }
   if($this->docs !='') {
-    $ret.='<docs>'.encodexmlchars($this->docs).'</docs>'."\n";  
+    $ret.='<docs>'.encodexmlchars($this->docs).'</docs>'."\n";
   }
   if($this->ttl !='') {
-    $ret.='<ttl>'.encodexmlchars($this->ttl).'</ttl>'."\n";  
+    $ret.='<ttl>'.encodexmlchars($this->ttl).'</ttl>'."\n";
   }
-  
-  
+
+
   // Feed image
   if(count($this->image)>0) {
     $img=$this->image;
     $ret.='<image>'."\n";
-    $ret.='<url>'.encodexmlchars($img['url']).'</url>'."\n";  
-    $ret.='<title>'.encodexmlchars($img['title']).'</title>'."\n";  
-    $ret.='<link>'.encodexmlchars($img['link']).'</link>'."\n";  
+    $ret.='<url>'.encodexmlchars($img['url']).'</url>'."\n";
+    $ret.='<title>'.encodexmlchars($img['title']).'</title>'."\n";
+    $ret.='<link>'.encodexmlchars($img['link']).'</link>'."\n";
     if($img['width']>0) {
-      $ret.='<width>'.encodexmlchars($img['width']).'</width>'."\n";  
+      $ret.='<width>'.encodexmlchars($img['width']).'</width>'."\n";
     }
     if($img['height']>0) {
-      $ret.='<height>'.encodexmlchars($img['height']).'</height>'."\n";  
+      $ret.='<height>'.encodexmlchars($img['height']).'</height>'."\n";
     }
-    
-    
+
+
     $ret.='</image>'."\n";
   }
-  
+
   return $ret;
 }
 
@@ -335,14 +335,14 @@ function getAsString()
 {
   $ret='';
   $ret.=$this->getHeaderAsString();
-  
+
   // Items
   foreach($this->items as $item) {
     $ret.=$item->getAsString();
   }
-  
+
   $ret.=$this->getFooterAsString();
-  
+
   return $ret;
 }
 
@@ -350,14 +350,14 @@ function getAsString()
 
 function doPrint()
 {
-  
+
   print $this->getHeaderAsString();
-  
+
   // Items
   foreach($this->items as $item) {
      print $item->getAsString();
   }
-  
+
   print $this->getFooterAsString();
 }
 
