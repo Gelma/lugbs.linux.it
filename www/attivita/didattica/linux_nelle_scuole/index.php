@@ -52,6 +52,6 @@ innescare la discussione nella
 possa essere gi&agrave; un'ottima giustificazione per i nostri sforzi...
 <p><font color="red">Gli incontri delle stagioni precedenti</font>
 <p>Descrizioni e temi degli incontri precedenti (annate 2009-2010) si possono trovare 
-<a href="/attivita/didattica/linux_nelle_scuole/2009">qui</a>
+<a href="/attivita/didattica/linux_nelle_scuole/2009">qui</a>.
 
 <?php include($_SERVER["DOCUMENT_ROOT"].'/includes/footer.inc'); ?>

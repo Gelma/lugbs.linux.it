@@ -1,6 +1,6 @@
 <?php	$titolo='LugBS &raquo; Attivit&agrave; &raquo; Didattica &raquo; Linux nelle Scuole';
 	include($_SERVER["DOCUMENT_ROOT"].'/includes/header.inc'); ?>
-<h3 align="center">Linux nelle scuole - 2009 - 2010</h3>
+<h3 align="center">Linux nelle scuole - 2009/2010</h3>
 <p><font color="red">Di cosa si tratta?</font>
 <p>Grazie alle donazioni di hardware, accorse via via nel tempo e
 <a href="mailto:didattica@lugbs.linux.it">sempre ben accette</a>,
