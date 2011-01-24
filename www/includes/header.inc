@@ -22,6 +22,7 @@ var pageTracker = _gat._getTracker("UA-3626063-1");
 pageTracker._initData();
 pageTracker._trackPageview();
 </script>
+<!-- <a href="http://lugbs.linux.it/plugins/bond.php">select</a> -->
 <BODY VLINK="blue" BGCOLOR="silver" TEXT="black" LINK="blue" ALINK="red">
 <table width="100%" cellpadding="25">
  <tr>
