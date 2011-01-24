@@ -14,10 +14,10 @@ if(isset($_REQUEST['req_submit'])){
 <ul>'.$errorstring.'</ul>';
   }else{
     print '<h3 align="center">Iscrizione al Nono Linux Day</h3>
-<p>Grazie per averci segnalato la tua partecipazione. Questi 
+<p>Grazie per averci segnalato la tua partecipazione. Questi
 sono i dati che hai inserito:
 ';
-    
+
     $body='
 Ciao, ho intenzione di partecipare al Nono Linux Day.
 Questi sono i miei dati:
@@ -31,10 +31,10 @@ Eventuale commento:
 
 '.$_REQUEST['req_commenti'].'
 
--- 
+--
 Iscrizione web al Nono Linux Day
 ';
-    mail("lug-eventi@lugbs.linux.it",'richiesta iscrizione linux day',$body);
+    #mail("lug-eventi@lugbs.linux.it",'richiesta iscrizione linux day',$body);
     print '<div style="border: 1px solid gray; margin-left: 20px;"><pre>'.$body.'</pre></div>';
     include_once($_SERVER['DOCUMENT_ROOT'] . '/includes/footer.inc');
     exit();
