@@ -1,0 +1,25 @@
+Scuola 2010-11
+
+darfo3
+Gio. 31 Marzo|Alle ore 20:30, presso la scuola elementare di <a href="http://montecchio.lugbs.linux.it/">Montecchio</a>, si svolge il terzo incontro relativo al progetto <a href="/attivita/didattica/linux_nelle_scuole/">Linux nelle Scuole</a> - Darfo. Il tema della serata &egrave; l'analisi di spunti per la didattica con software libero.
+
+bs5
+Gio. 24 Marzo|Alle ore 20:30, presso l'<a href="http://scuolanazareth.lugbs.linux.it/">Istituto Santa Maria di Nazareth</a> di Brescia, si svolge il quinto incontro relativo al progetto <a href="/attivita/didattica/linux_nelle_scuole/">Linux nelle Scuole</a> - Brescia. Il tema della serata &egrave; la presentazione di alcuni programmi didattici.
+
+bs4
+Gio. 24 Febbraio|Alle ore 20:30, presso l'<a href="http://scuolanazareth.lugbs.linux.it/">Istituto Santa Maria di Nazareth</a> di Brescia, si svolge il quarto incontro relativo al progetto <a href="/attivita/didattica/linux_nelle_scuole/">Linux nelle Scuole</a> - Brescia. Il tema della serata &egrave; l'installazione di nuovi programmi in Ubuntu.
+
+darfo2
+Gio. 20 Gennaio|Alle ore 20:30, presso la scuola elementare di <a href="http://montecchio.lugbs.linux.it/">Montecchio</a>, si svolge il secondo incontro relativo al progetto <a href="/attivita/didattica/linux_nelle_scuole/">Linux nelle Scuole</a> - Darfo. Il tema della serata &egrave; l'approfondimento dell'utilizzo e della configurazione della WiiLD.
+
+bs3
+Gio. 13 Gennaio|Alle ore 20:30, presso l'<a href="http://scuolanazareth.lugbs.linux.it/">Istituto Santa Maria di Nazareth</a> di Brescia, si svolge il terzo incontro relativo al progetto <a href="/attivita/didattica/linux_nelle_scuole/">Linux nelle Scuole</a> - Brescia. Il tema della serata &egrave; la configurazione di Ubuntu dopo l'installazione.
+
+bs2
+Gio. 16 Dicembre|Alle ore 20:30, presso l'<a href="http://scuolanazareth.lugbs.linux.it/">Istituto Santa Maria di Nazareth</a> di Brescia, si svolge il secondo incontro relativo al progetto <a href="/attivita/didattica/linux_nelle_scuole/">Linux nelle Scuole</a> - Brescia. Il tema della serata &egrave; l'installazione di Ubuntu.
+
+darfo1
+Gio. 11 Novembre|Alle ore 20:30, presso la scuola elementare di <a href="http://montecchio.lugbs.linux.it/">Montecchio</a>, si svolge il primo incontro relativo al nuovo ciclo del progetto <a href="/attivita/didattica/linux_nelle_scuole/">Linux nelle Scuole</a> - Darfo. Il tema della serata &egrave; l'approfondimento dell'utilizzo di Wordpress per la creazione di un blog di classe.
+
+bs1
+Gio. 4 Novembre|Alle ore 20:30, presso l'<a href="http://scuolanazareth.lugbs.linux.it/">Istituto Santa Maria di Nazareth</a> di Brescia, si svolge il primo incontro relativo al nuovo ciclo del progetto <a href="/attivita/didattica/linux_nelle_scuole/">Linux nelle Scuole</a> - Brescia. Il tema della serata &egrave; l'introduzione del progetto e la definizione degli argomenti da trattare durante l'anno.
