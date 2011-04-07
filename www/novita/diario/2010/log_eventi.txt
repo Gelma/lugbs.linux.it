@@ -1,4 +1,7 @@
 Mar. 21 Dicembre|Alle ore 14:30, presso l'<a href="http://www.accademiabellearti.bg.it/">Accademia Carrara di Belle Arti</a>, <a href="http://www.ualuba.org">Ualuba</a> organizza un incontro dal titolo <i>Just Digital Society</i>. Il relatore &egrave; <a href="http://it.wikipedia.org/wiki/Richard_Stallman">Richard Stallman</a>. Tutti i <a href="http://www.ualuba.org/?p=1564&lang=itt">dettagli.</a>
+Gio. 16 Dicembre|Alle ore 20:30, presso l'<a href="http://scuolanazareth.lugbs.linux.it/">Istituto Santa Maria di Nazareth</a> di Brescia, si svolge il secondo incontro relativo al progetto <a href="/attivita/didattica/linux_nelle_scuole/">Linux nelle Scuole</a> - Brescia. Il tema della serata &egrave; l'installazione di Ubuntu.
+Gio. 11 Novembre|Alle ore 20:30, presso la scuola elementare di <a href="http://montecchio.lugbs.linux.it/">Montecchio</a>, si svolge il primo incontro relativo al nuovo ciclo del progetto <a href="/attivita/didattica/linux_nelle_scuole/">Linux nelle Scuole</a> - Darfo. Il tema della serata &egrave; l'approfondimento dell'utilizzo di Wordpress per la creazione di un blog di classe.
+Gio. 4 Novembre|Alle ore 20:30, presso l'<a href="http://scuolanazareth.lugbs.linux.it/">Istituto Santa Maria di Nazareth</a> di Brescia, si svolge il primo incontro relativo al nuovo ciclo del progetto <a href="/attivita/didattica/linux_nelle_scuole/">Linux nelle Scuole</a> - Brescia. Il tema della serata &egrave; l'introduzione del progetto e la definizione degli argomenti da trattare durante l'anno.
 Dom. 31 Ottobre|Alle ore 15 alle 20, presso il <a href="http://www.centromarcolini.it/">Centro Sociale Sportivo Padre Ottorino Marcolini</a>, il gruppo <a href="http://www.gussago5stelle.it/">Gussago 5 Stelle</a> organizza un install fest. L'incontro &egrave; gratuito e aperto a tutti. Per motivi logistici &egrave; gradita una segnalazione di partecipazione all'indirizzo <a href="mailto:installfest@lugbs.linux.it">installfest@lugbs.linux.it</a>.
 Mer. 27 Ottobre|Alle ore 20:15, presso l'<a href="http://www.itiscastelli.it/">istituto ITIS Castelli</a> (sito in <a href="http://tinyurl.com/yg7c3eg">via Cantore, 9 a Brescia</a>), si svolge l'ottavo incontro monotematico di approfondimento per utenti <b>non</b> alle prime armi. Il tema della serata &egrave; <i>Il fenomeno emergente dei frameworks web per lo sviluppo di applicazioni per dispositivi mobile; alternative a confronto</i>. La partecipazione &egrave; gratuita e aperta a tutti. Per maggiori informazioni si pu&ograve; scrivere a <a href="mailto:alessandro.cinelli@lugbs.linux.it">alessandro.cinelli@lugbs.linux.it</a>.
 Sab. 23 Ottobre|Il LugBS aderisce al <a href="http://www.linuxday.it/">Linux Day Nazionale</a>. Tutti i dettagli nell'<a href="/attivita/linux_day/linux_day_14/">apposita sezione</a>.
@@ -31,3 +34,10 @@ Gio. 11 Febbraio|Alle ore 20:30, presso la scuola elementare di <a href="http://
 Gio. 28 Gennaio|Alle ore 20:30, presso la scuola elementare di <a href="http://montecchio.lugbs.linux.it/">Montecchio</a>, si svolge il decimo incontro relativo al progetto <a href="/attivita/didattica/linux_nelle_scuole/">Linux nelle Scuole</a>. La serata verte sulla configurazione dei servizi web.
 Gio. 14 Gennaio|Alle ore 20:30, presso la scuola elementare di <a href="http://montecchio.lugbs.linux.it/">Montecchio</a>, si svolge il nono incontro relativo al progetto <a href="/attivita/didattica/linux_nelle_scuole/">Linux nelle Scuole</a>. La serata verte sull'installazione delle applicazioni.
 Ven. 1 Gennaio|L'archivio degli eventi per l'anno 2009 &egrave; disponibile nella sezione <a href="/novita/diario/2009/">Diario</a>.
+
+
+
+
+
+
+
