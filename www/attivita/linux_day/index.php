@@ -23,7 +23,7 @@ fino ad oggi &egrave; facilmente riassumibile con lo specchietto qui sotto:
 <tr>
  <td><b>data</b></td><td><b>tema</b></td>
 </tr>
-<tr> <td>29/10/2011</td><td><p><a href="linux_day_15/">Linux Day Nazionale</a></td> </tr>
+<tr> <td>22/10/2011</td><td><p><a href="linux_day_15/">Linux Day Nazionale</a></td> </tr>
 <tr> <td>23/10/2010</td><td><p><a href="linux_day_14/">Linux Day Nazionale</a></td> </tr>
 <tr> <td>24/10/2009</td><td><p><a href="linux_day_13/">Linux Day Nazionale</a></td> </tr>
 <tr> <td>25/10/2008</td><td><p><a href="linux_day_12/">Linux Day Nazionale</a></td> </tr>

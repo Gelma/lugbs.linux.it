@@ -1,4 +1,4 @@
-<?php   $titolo='LugBS &raquo; Attivit&agrave; &raquo; Linux Day &raquo; Quattordicesima edizione';
+<?php   $titolo='LugBS &raquo; Attivit&agrave; &raquo; Linux Day &raquo; Quindicesima edizione';
         include($_SERVER["DOCUMENT_ROOT"].'/includes/header.inc'); 
 
 function talk($ora,$email,$oratore,$titolo){
@@ -13,7 +13,7 @@ function talk($ora,$email,$oratore,$titolo){
 <dd>
 <p>Nell'ambito della <a href="http://www.linuxday.it/">Giornata Nazionale di Linux e del Software Libero</a>, promossa da
 <a href="http://www.linux.it/">ILS</a>, il LugBS organizza il suo quindicesimo Linux Day. La manifestazione ha luogo
-Sabato 29 Ottobre 2011.
+Sabato 22 Ottobre 2011.
 </dd>
 
 <dt>Iscrizione</dt>
