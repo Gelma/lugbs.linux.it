@@ -7,45 +7,64 @@ function talk($ora,$email,$oratore,$titolo){
 }
 ?>
 
-<H3 align="center">Quindicesimo Linux Day: Linux Day Nazionale</H3>
+<H3 align="center">Sedicesimo Linux Day: Linux &egrave; la fine del mondo!</H3>
 
 <dt>Data e Luogo</dt>
 <dd>
-<p>Nell'ambito della <a href="http://www.linuxday.it/">Giornata Nazionale di Linux e del Software Libero</a>, promossa da
-<a href="http://www.linux.it/">ILS</a>, il LugBS organizza il suo quindicesimo Linux Day. La manifestazione ha luogo
-Sabato 22 Ottobre 2011.
+Nell'ambito della
+<a href="http://www.linuxday.it/">Giornata Nazionale di Linux e del Software Libero</a>,
+promossa da
+<a href="http://www.linux.it/">ILS</a>,
+il LugBS organizza il suo quindicesimo Linux Day.
+La manifestazione ha luogo <b>Sabato 20 Ottobre 2012</b> presso
+l'<a href="http://www.itiscastelli.it/">Istituto ITIS Castelli</a>
+(sito in <a href="http://g.co/maps/fs9fz">via Cantore, 9 a Brescia</a>).
 </dd>
 
-<dt>Iscrizione</dt>
+<dt>Partecipazione</dt>
 <dd>
-<p>L'incontro &egrave; completamente libero, gratuito e aperto a tutti.
+L'incontro &egrave; completamente libero, gratuito e aperto a tutti.
 </dd>
 
 <dt>Programma</dt>
 <dd>
-<p>Dice che senso ha preoccuparsi ora del prossimo Linux Day? La macchina organizzativa,
-che non muove n&eacute; riceve danari e che si base totalmente sul contributo volontario
-dei singoli in termini di tempo/impegno, necessita di tempi piuttosto lunghi.
-Il Linux Day &egrave; come il salame: si mangia in un attimo, ma la stagionatura richiede
-mesi.
+La giornata si articola in due momenti:
+<ul>
+<li>mattino: incontri specifici per gli insegnanti
+</ul>
+<p>L'incontro, grazie alla sezione bresciana di <a href="http://brescia.noidimathesis.it">Mathesis</a>, &egrave; valido per
+l'aggiornamento dei docenti: &egrave; possibile richiedere l'esonero dal
+sevizio e viene rilasciato un attestato di partecipazione. Per ragioni
+organizzative, e perch&eacute; l'incontro mattutino &egrave; a numero chiuso, &egrave;
+necessario iscriversi scrivendo a <a href="mailto:linuxday@lugbs.linux.it">linuxday@lugbs.linux.it</a>.
+
+<li>dalle 14 alle 18: stand tematici ove chiedere informazioni e
+provare con mano i software presentati (programmi didattici, soluzioni per le
+scuole, multimedia, giochi, configurazione dei servizi, ecc.). Sono
+presenti postazioni liberamente utilizzabili. &Egrave; inoltre possibile
+portare il proprio PC per essere aiutati dai membri del LUG
+nell'installazione di Linux, o nella risoluzione dei problemi riscontrati.
+</ul>
+
 </dd>
 
 <dt>Contatti</dt>
 <dd>
-<p>Per qualsiasi richiesta di informazioni si pu&ograve; contattare l'organizzazione scrivendo all'indirizzo
+er qualsiasi richiesta di informazioni si pu&ograve; contattare l'organizzazione scrivendo all'indirizzo
 <a href="mailto:linuxday@lugbs.linux.it">linuxday@lugbs.linux.it</a>, oppure telefonando ad
 <a href="mailto:andrea.gelmini@lugbs.linux.it">Andrea Gelmini</a> al numero 328/7296628.
 </dd>
 
 <dt>Aggiornamenti</dt>
 <dd>
-<p>Per restare aggiornati sull'organizzazione dell'evento &egrave; sufficiente mandare una mail a
-<a href="mailto:fatemisapere@lugbs.linux.it">fatemisapere@lugbs.linux.it</a>.
+Per restare aggiornati sull'organizzazione dell'evento &egrave; sufficiente mandare una mail a
+<a href="mailto:fatemisapere@lugbs.linux.it">fatemisapere@lugbs.linux.it</a>, oppure seguirne
+la relativa <a href="https://www.facebook.com/groups/150529464715/">pagina Facebook</a>.
 </dd>
 
 <dt>Per gli smanettoni in ascolto...</dt>
 <dd>
-<p>Una mano in pi&ugrave; e nel LugBS, e durante il Linux Day, &egrave; sempre gradita.<br>
+Una mano in pi&ugrave; e nel LugBS, e durante il Linux Day, &egrave; sempre gradita.<br>
 &Egrave; sufficiente la voglia di sbattersi un po', non servono incredibili competenze
 tecnologiche, per offrire un aiuto ai curiosi e ai neofiti che si presentano durante
 le manifestazioni pubbliche.<br>
