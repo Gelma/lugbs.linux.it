@@ -34,10 +34,3 @@ Gio. 11 Febbraio|Alle ore 20:30, presso la scuola elementare di <a href="http://
 Gio. 28 Gennaio|Alle ore 20:30, presso la scuola elementare di <a href="http://montecchio.lugbs.linux.it/">Montecchio</a>, si svolge il decimo incontro relativo al progetto <a href="/attivita/didattica/linux_nelle_scuole/">Linux nelle Scuole</a>. La serata verte sulla configurazione dei servizi web.
 Gio. 14 Gennaio|Alle ore 20:30, presso la scuola elementare di <a href="http://montecchio.lugbs.linux.it/">Montecchio</a>, si svolge il nono incontro relativo al progetto <a href="/attivita/didattica/linux_nelle_scuole/">Linux nelle Scuole</a>. La serata verte sull'installazione delle applicazioni.
 Ven. 1 Gennaio|L'archivio degli eventi per l'anno 2009 &egrave; disponibile nella sezione <a href="/novita/diario/2009/">Diario</a>.
-
-
-
-
-
-
-
