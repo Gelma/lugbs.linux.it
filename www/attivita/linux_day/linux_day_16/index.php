@@ -16,7 +16,7 @@ Nell'ambito della
 promossa da
 <a href="http://www.linux.it/">ILS</a>,
 il LugBS organizza il suo sedicesimo Linux Day.
-La manifestazione ha luogo <b>Sabato 20 Ottobre 2012</b> presso
+La manifestazione ha luogo <b>Sabato 27 Ottobre 2012</b> presso
 l'<a href="http://www.itiscastelli.it/">Istituto ITIS Castelli</a>
 (sito in <a href="http://g.co/maps/fs9fz">via Cantore, 9 a Brescia</a>).
 </dd>
