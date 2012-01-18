@@ -28,24 +28,7 @@ L'incontro &egrave; completamente libero, gratuito e aperto a tutti.
 
 <dt>Programma</dt>
 <dd>
-La giornata si articola in due momenti:
-<ul>
-<li>mattino: incontri specifici per gli insegnanti
-</ul>
-<p>L'incontro, grazie alla sezione bresciana di <a href="http://brescia.noidimathesis.it">Mathesis</a>, &egrave; valido per
-l'aggiornamento dei docenti: &egrave; possibile richiedere l'esonero dal
-sevizio e viene rilasciato un attestato di partecipazione. Per ragioni
-organizzative, e perch&eacute; l'incontro mattutino &egrave; a numero chiuso, &egrave;
-necessario iscriversi scrivendo a <a href="mailto:linuxday@lugbs.linux.it">linuxday@lugbs.linux.it</a>.
-
-<li>dalle 14 alle 18: stand tematici ove chiedere informazioni e
-provare con mano i software presentati (programmi didattici, soluzioni per le
-scuole, multimedia, giochi, configurazione dei servizi, ecc.). Sono
-presenti postazioni liberamente utilizzabili. &Egrave; inoltre possibile
-portare il proprio PC per essere aiutati dai membri del LUG
-nell'installazione di Linux, o nella risoluzione dei problemi riscontrati.
-</ul>
-
+In via di definizione
 </dd>
 
 <dt>Contatti</dt>
