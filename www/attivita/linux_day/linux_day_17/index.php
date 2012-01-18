@@ -7,7 +7,7 @@ function talk($ora,$email,$oratore,$titolo){
 }
 ?>
 
-<H3 align="center">Sedicesimo Linux Day: Linux &egrave; la fine del mondo!</H3>
+<H3 align="center">Diciassettesimo Linux Day: Il Software Libero nella Piccola e Media Impresa</H3>
 
 <dt>Data e Luogo</dt>
 <dd>
@@ -15,8 +15,8 @@ Nell'ambito della
 <a href="http://www.linuxday.it/">Giornata Nazionale di Linux e del Software Libero</a>,
 promossa da
 <a href="http://www.linux.it/">ILS</a>,
-il LugBS organizza il suo sedicesimo Linux Day.
-La manifestazione ha luogo <b>Sabato 20 Ottobre 2012</b> presso
+il LugBS organizza il suo diciassettesimo Linux Day.
+La manifestazione ha luogo <b>Sabato 27 Ottobre 2012</b> presso
 l'<a href="http://www.itiscastelli.it/">Istituto ITIS Castelli</a>
 (sito in <a href="http://g.co/maps/fs9fz">via Cantore, 9 a Brescia</a>).
 </dd>
@@ -28,24 +28,7 @@ L'incontro &egrave; completamente libero, gratuito e aperto a tutti.
 
 <dt>Programma</dt>
 <dd>
-La giornata si articola in due momenti:
-<ul>
-<li>mattino: incontri specifici per gli insegnanti
-</ul>
-<p>L'incontro, grazie alla sezione bresciana di <a href="http://brescia.noidimathesis.it">Mathesis</a>, &egrave; valido per
-l'aggiornamento dei docenti: &egrave; possibile richiedere l'esonero dal
-sevizio e viene rilasciato un attestato di partecipazione. Per ragioni
-organizzative, e perch&eacute; l'incontro mattutino &egrave; a numero chiuso, &egrave;
-necessario iscriversi scrivendo a <a href="mailto:linuxday@lugbs.linux.it">linuxday@lugbs.linux.it</a>.
-
-<li>dalle 14 alle 18: stand tematici ove chiedere informazioni e
-provare con mano i software presentati (programmi didattici, soluzioni per le
-scuole, multimedia, giochi, configurazione dei servizi, ecc.). Sono
-presenti postazioni liberamente utilizzabili. &Egrave; inoltre possibile
-portare il proprio PC per essere aiutati dai membri del LUG
-nell'installazione di Linux, o nella risoluzione dei problemi riscontrati.
-</ul>
-
+In via di definizione.
 </dd>
 
 <dt>Contatti</dt>
