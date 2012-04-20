@@ -15,7 +15,7 @@ nazionale di linux e del software libero</a> promossa da
 di Brescia, organizza il suo
 settimo Linux Day. La manifestazione avr&agrave; luogo Sabato 29 novembre 2003
 dalle 14:00 alle 18:00 circa presso
-l'<a href="http://www.itiscastelli.org/">Istituto Castelli</a>.
+l'<a href="http://www.itiscastelli.it/">Istituto Castelli</a>.
 </dd>
 
 <dt>Iscrizione</dt>

@@ -22,7 +22,7 @@ Nazionale di Linux e del Software Libero</a> promossa da
 di Brescia, organizza il suo
 decimo Linux Day. La manifestazione avr&agrave; luogo Sabato 27 novembre 2004
 dalle 14:30 alle 18:00 circa presso
-l'<a href="http://www.itiscastelli.org/">Istituto Castelli</a>.
+l'<a href="http://www.itiscastelli.it/">Istituto Castelli</a>.
 </dd>
 
 <dt>Iscrizione</dt>

@@ -1,7 +1,7 @@
 <?php include("../../../includes/header.inc"); ?>
 <h3 align="center">11/06/99 - Come utilizzare Linux per uso personale</h3>
 <hr align="LEFT" size="1" noshade>
-<h2 align="center"><a href="index.html">Programma della giornata</a></h2>
+<h2 align="center"><a href="index.php">Programma della giornata</a></h2>
 <p><font color="red"><b>Il futuro di Linux (Andrea Mauro)</b></font>
 <p>Questo intervento conclusivo cercher&agrave; di delineare quali
 potrebbero essere le linee evolutive del mondo GNU/Linux.

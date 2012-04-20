@@ -5,7 +5,7 @@ include("../../../includes/header.inc");
 print"<H3 align=center>Diario del LugBS - 2006</H3>";
 print'<TABLE align=center cellpadding=5 cellspacing=0 width="85%">';
         $file = 'log_eventi.txt';
-        $feventi = file($file); 
+        $feventi = file($file);
         while (list ($riga,$evento) = each ($feventi)) {
                 $campi = explode("|",$evento);
                 print"<TR>

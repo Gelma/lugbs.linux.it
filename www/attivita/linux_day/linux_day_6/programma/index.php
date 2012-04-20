@@ -5,9 +5,9 @@
 <p>Data: sabato 23 novembre 14:00 - 18:00
 <p>Luogo: IPSIA Moretto di Brescia
 <p>Organizzazione: a cura del
-<a href="http://www.lugbs.it">Linux User Group di Brescia</a>,
+<a href="http://lugbs.linux.it">Linux User Group di Brescia</a>,
 con il patrocinio
-<a href="http://www.ipsiamoretto.com/">dell'IPSIA Moretto di Brescia</a>,
+dell'IPSIA Moretto di Brescia,
 <a href="http://www.bs.unicatt.it/brescia.html">dell'Università Cattolica di Brescia</a>
 e dell'Associazione culturale
 <a href="http://www.lacorteweb.it/">La Corte</a>.

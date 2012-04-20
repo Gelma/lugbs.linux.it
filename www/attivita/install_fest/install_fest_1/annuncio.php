@@ -22,7 +22,7 @@ luogo!!!!! ***<br>
 
 Ci troviamo Sabato 20 aprile ore 14 presso L'istituto Moretto<br>
 (Via Apollonio, 21 - Brescia)
-<a href="http://www.ipsiamoretto.com/strada.htm">http://www.ipsiamoretto.com/strada.htm</a><br>
+<br>
 
 *********************************************************************<br>
 <p>Per chi non sapesse cosa &egrave; un install fest, &egrave;
@@ -50,10 +50,7 @@ portarsi a<br>
 almeno<br>
 &nbsp; &nbsp;installare Windows)<br>
 5) Lettura del documento "Da DOS a Linux" reperibile
-all'indirizzo<br>
-<p><a href=
-"http://www.ibiblio.org/pub/Linux/docs/HOWTO/translations/italian/DOS-to-Linux-HOWTO">
-http://www.ibiblio.org/pub/Linux/docs/HOWTO/translations/italian/DOS-to-Linux-HOWTO</a><br>
+su <br> <a href="http://www.ibiblio.org/">ibiblio.org/</a>.<br>
 <p>Questo &egrave; il modulo da compilare ed inviare a
 <a href="mailto:morriz@lugbs.linux.it">morriz@lugbs.linux.it</a> per<br>
 l'ammissione. L'indirizzo rimane a disposizione anche per

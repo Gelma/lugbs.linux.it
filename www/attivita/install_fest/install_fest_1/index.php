@@ -26,7 +26,7 @@ Questi sono i  prerequisiti che i partecipanti devono avere:
    casa il sistema operativo
 <li>Minima conoscenza dei sistemi operativi (in soldoni: saper almeno
    installare Windows)
-<li>Lettura del documento <a href="http://www.ibiblio.org/pub/Linux/docs/HOWTO/translations/italian/DOS-to-Linux-HOWTO">Da DOS a Linux</a>
+<li>Lettura del documento Da DOS a Linux
 </ol>
 
 <p>

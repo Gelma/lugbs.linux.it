@@ -7,10 +7,6 @@ function talk($ora,$email,$oratore,$titolo){
 ?>
 
 <P align="center">
-<A HREF="http://www.linuxday.it/">
-<IMG alt="Logo LinuxDay 2007"
-     src="http://www.linuxday.it/images/log0ld2k7.gif">
-</A>
 </P>
 <H3 align="center">Undicesimo Linux Day: Linux Day Nazionale</H3>
 
@@ -21,7 +17,7 @@ Nazionale di Linux e del Software Libero</a>, promossa da
 <a href="http://www.linux.it/">ILS</a>, il LugBS organizza il suo
 undicesimo Linux Day. La manifestazione avr&agrave; luogo Sabato 27 Ottobre 2007
 dalle 14:00 alle 18:00 circa presso
-il <a href="http://maps.google.it/maps?q=via+voltolino+14+collebeato+brescia+italia&f=q&hl=it&ie=UTF8&z=16&iwloc=addr&om=1">Salone La Serra</a> di Collebeato (BS). Il giorno precedente, Venerd&igrave; 26 Ottobre 2007, si svolge la manifestazione gemella organizzata dal <a href="http://wiki.yoda2000.net/doku.php?id=linux_day_2007">Linux User Group di Ingegneria.</a>
+il <a href="http://maps.google.it/maps?q=via+voltolino+14+collebeato+brescia+italia&f=q&hl=it&ie=UTF8&z=16&iwloc=addr&om=1">Salone La Serra</a> di Collebeato (BS). Il giorno precedente, Venerd&igrave; 26 Ottobre 2007, si svolge la manifestazione gemella organizzata dal Linux User Group di Ingegneria.
 </dd>
 
 <dt>Iscrizione</dt>

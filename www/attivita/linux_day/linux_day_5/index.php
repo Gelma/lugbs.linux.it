@@ -19,12 +19,10 @@ partecipante (l'iscrizione è comunque gratuita).
 Per informazioni logistiche: <br>
         Segreteria del Dipartimento di Matematica e Fisica <br>
         Telefono: 030-2406702 <br>
-        Email:
- <a href="mailto:segr.dmf@bs.unicatt.it">segr.dmf@bs.unicatt.it</a> <br>
 <p>
 Per informazioni sul LUG della provincia di Brescia
 (in particolare per partecipare alle attività) è possibile consultare
-il sito del lugBS: <a href="http://www.lugbs.it"> http://www.lugbs.it</a>
+il sito del lugBS: <a href="http://lugbs.linux.it">http://lugbs.linux.it</a>
 <p>
 Saluti a tutti.
 <p>
@@ -37,20 +35,20 @@ Il Comitato Organizzatore del Linux Day
     Linux: Capirlo e usarlo
 
     Sabato 31/03/2001 - 9:00-12:30
- 
+
     9:00 Apertura dei lavori
     9:05 Introduzione
        - Introduzione sul Software libero e sull' "Open Source"
          (<a href="mailto:andrea.gelmini@lugbs.linux.it">Andrea Gelmini</a>)
     9:45 Approfondimento
-       - <a href="linuxwindows.html">Interazione e compatibilità tra Linux e Windows</a>
+       - <a href="linuxwindows.php">Interazione e compatibilità tra Linux e Windows</a>
          (<a href="mailto:andrea.mauro@lugbs.linux.it">Andrea Mauro</a>)
        - Giochi
          (<a href="mailto:marco.ghidinelli@lugbs.linux.it">Marco Ghidinelli</a>)
     10:30 Pausa caffè e/o domande
 
     10:45 Approfondimento
-       - <a href="grafica.html">Grafica con linux</a>
+       - <a href="grafica.php">Grafica con linux</a>
          (<a href="mailto:marco.ghidinelli@lugbs.linux.it">Marco Ghidinelli</a>)
        - Rete: connessione a internet, gestione di una intranet
          (<a href="mailto:carlo.bertoldi@lugbs.linux.it">Carlo Bertoldi</a>)
@@ -66,5 +64,5 @@ Il Comitato Organizzatore del Linux Day
 <hr>
 Il programma &egrave; anche disponibile in <a href="programma_linux_day_5.pdf"> formato PDF</a>
 <hr>
-<a href="note_ld5.html">note per docenti e studenti</a>
+<a href="note_ld5.php">note per docenti e studenti</a>
 <?php include("../../../includes/footer.inc"); ?>
