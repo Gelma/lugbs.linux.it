@@ -21,7 +21,7 @@ Ingegneria.
 <dd>L'incontro &egrave;
 completamente libero, gratuito e aperto a tutti. Per ragioni
 organizzative &egrave; gradita una pre-iscrizione, inviando una
-mail a <a href="mailto:lug-eventi@lugbs.it">lug-eventi@lugbs.it</a>.</dd>
+mail a <a href="mailto:lug-eventi@lugbs.linux.it">lug-eventi@lugbs.linux.it</a>.</dd>
 </dl>
 
 <dl>
@@ -36,7 +36,7 @@ all'uso professionale di Linux per funzioni di server.</dd>
 <dd>Se volete
 intervenire ad un prossimo Linux Day in veste di oratori, mandate
 la vostra proposta a <a href=
-"mailto:lug-attivisti@lugbs.it">lug-attivisti@lugbs.it</a>.
+"mailto:lug-attivisti@lugbs.linux.it">lug-attivisti@lugbs.linux.it</a>.
 <br>
 
 &Egrave; diponibile anche la versione PDF <a href="/attivita/linux_day/linux_day_2/programma.pdf">del programma</a>.

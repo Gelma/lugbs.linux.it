@@ -1,7 +1,7 @@
 <?php include("../../../includes/header.inc"); ?>
 <H3 align=center>Interazione e compatibilit&agrave; tra Linux e Windows</H3>
 
-<b>Speaker:</b> <a href="mailto:andrea.mauro@lugbs.it">Andrea Mauro</a>
+<b>Speaker:</b> <a href="mailto:andrea.mauro@lugbs.linux.it">Andrea Mauro</a>
 <p>
 <b>Riassunto:</b>
 <br>

@@ -9,7 +9,7 @@ dell'Universit&agrave; di Brescia, nell'aula N1 (capienza di circa
 <p><font  color="red"><b><i>Iscrizione:</i></b></font>
 L'incontro &egrave; completamente libero, gratuito e aperto
 a tutti. Per ragioni organizzative &egrave; gradita una
-pre-iscrizione, inviando una mail a <a href="mailto:lug-eventi@lugbs.it">lug-eventi@lugbs.it</a>.<br>
+pre-iscrizione, inviando una mail a <a href="mailto:lug-eventi@lugbs.linux.it">lug-eventi@lugbs.linux.it</a>.<br>
 <p><font color="red"><b><i>Target:</i></b></font>
 Questo primo incontro &egrave; prevalentemente indirizzato ai principianti
 di Linux, ai semplici curiosi e a tutti coloro che vogliono approfondire l'argomento.<br>
@@ -35,7 +35,7 @@ Il sistema grafico X/Window<br>
 I Windows Manager<br>
 Gli ambienti integrati KDE e GNOME<br></li>
 <li><b>Office automation con Linux (Michele Bonera)</b><br>
-Panoramica sui prodotti Office per Linux, vantaggi e svantaggi, 
+Panoramica sui prodotti Office per Linux, vantaggi e svantaggi,
 tipi di licenze e funzionalit&agrave;<br>
 Interscambio di dati con altre Suite Office</li>
 <li><b>Linux e i giochi (Marco Ghidinelli)</b><br>

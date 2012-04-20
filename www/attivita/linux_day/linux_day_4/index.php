@@ -18,7 +18,7 @@ dell'Universita' Cattolica di Brescia, via Musei 41.</dd>
 completamente libero, gratuito e aperto a tutti. Per ragioni
 organizzative (e per il limitato numero di posti disponibili)
 &egrave; gradita una pre-iscrizione, inviando una mail a <a href=
-"mailto:lug-eventi@lugbs.it">lug-eventi@lugbs.it</a>.
+"mailto:lug-eventi@lugbs.linux.it">lug-eventi@lugbs.linux.it</a>.
 </dd>
 </dl>
 
@@ -38,7 +38,7 @@ l'argomento.<br>
 Se volete
 intervenire ad un prossimo Linux Day in veste di oratori (o se
 volete semplicamente proporre dei suggerimenti), mandate la vostra
-proposta a <a href="mailto:lug-attivisti@lugbs.it">lug-attivisti@lugbs.it</a>.
+proposta a <a href="mailto:lug-attivisti@lugbs.linux.it">lug-attivisti@lugbs.linux.it</a>.
 
 <h4>Introduzione</h4>
 

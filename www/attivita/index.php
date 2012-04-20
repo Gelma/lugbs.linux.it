@@ -8,7 +8,7 @@ e cooperazione.<br>
 Chi voglia partecipare ad un lavoro gi&agrave; esistente o portare
 un po' di aria nuova all'interno degli attivisti, &egrave; invitato a
 mandare una mail a
-<a href="mailto:lug-attivisti@lugbs.it">lug-attivisti@lugbs.it</a>,
+<a href="mailto:lug-attivisti@lugbs.linux.it">lug-attivisti@lugbs.linux.it</a>,
 comunicando
 le proprie intenzioni o, ancora pi&ugrave; semplicemente, partecipando
 alle birrate o alle cene del gruppo.<br>
