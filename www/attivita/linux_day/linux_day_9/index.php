@@ -10,7 +10,7 @@ al numero di telefono: tre-due-otto-sette-due-nove-sei-sei-due-otto.</dd>
 
 <dt>Data e luogo</dt>
 <dd>L'evento avr&agrave; luogo Sabato 20 Novembre 2004, presso il
-<a href="http://www.secas.bs.it/it/main.asp?tipo=congressi">Centro Congressi</a> di Darfo Boario Terme.
+Centro Congressi di Darfo Boario Terme.
 
 <dt>Target</dt>
 <dd>Neofiti.
@@ -42,7 +42,7 @@ gradita <a href="iscrizione.php">l'iscrizione</a>.
 <dt class="programma">17:00 <span class="relatore"><a href="mailto:bassif@libero.it">Ing. Francesco Bassi</a> (Chief Architect of Supply Chain Management Systems, Henkel Italia)</span></dt>
 <dd class="programma">Strumenti per la programmazione e lo sviluppo.</dd>
 
-<dt class="programma">17:30 <span class="relatore"><a href="mailto:a.occhi@postino.it">Andrea Occhi</a> (Studente della <a href="http://www.unibs.it/atp/page.1010.0.0.0.atp?node=31">Facolt&agrave; di Ingegneria</a> di Brescia)</span></dt>
+<dt class="programma">17:30 <span class="relatore"><a href="mailto:a.occhi@postino.it">Andrea Occhi</a> (Studente della facolt&agrave; di Ingegneria di Brescia)</span></dt>
 <dd class="programma">Linux: utilizzo in oratorio.</dd>
 
 <dt class="programma">18:00 <span class="relatore"><a href="mailto:guglielmo.bondioni@linux.it">Guglielmo Bondioni</a> (Responsabile dei Sistemi Linux per FastWeb)</span></dt>

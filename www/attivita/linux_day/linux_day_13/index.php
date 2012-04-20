@@ -8,10 +8,6 @@ function talk($ora,$email,$oratore,$titolo){
 ?>
 
 <P align="center">
-<A HREF="http://www.linuxday.it/">
-<IMG alt="Logo LinuxDay 2009"
-     src="http://www.linuxday.it/images/log0ld2k9.gif">
-</A>
 </P>
 <H3 align="center">Tredicesimo Linux Day: Linux Day Nazionale</H3>
 

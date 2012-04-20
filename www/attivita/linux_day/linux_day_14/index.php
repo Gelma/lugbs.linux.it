@@ -8,10 +8,6 @@ function talk($ora,$email,$oratore,$titolo){
 ?>
 
 <P align="center">
-<A HREF="http://www.linuxday.it/">
-<IMG alt="Logo LinuxDay 2010"
-     src="http://www.linuxday.it/images/log0ld2k10.gif">
-</A>
 </P>
 <H3 align="center">Quattordicesimo Linux Day: Linux Day Nazionale</H3>
 
@@ -45,7 +41,7 @@ della scuola. Il programma nel dettaglio consiste delle seguenti sessioni:
 	<li>10:15 - Panoramica sugli strumenti liberi nella didattica (<a href="http://www.ivana.it/">Ivana Sacchi</a>)
 	<li>11:00 - WiiLD: la lavagna digitale libera (<a href="http://lim.lugbs.linux.it/">prof. Matteo Ruffoni</a>)
 	<li>11:30 - Linux in biblioteca, 12 anni di successi: l'esperienza del Sistema Bibliotecario del Vimercatese
-			(<a href="http://sbv.mi.it/">Luca Spada</a>)
+			(Luca Spada)
 	</ul>
 <p> L'incontro, grazie alla
 <a href="http://noidimathesis.it/">sezione bresciana di Mathesis</a>,

@@ -6,7 +6,7 @@ alt="Linux 2 Day"></b></font></p>
 <hr align="LEFT" size="1" noshade>
 <p align="left"><font size="3" face="Arial" color=
 "blue"></font><font size="3" face="Arial" color="blue"><b><a href=
-"index.html">Secondo incontro - Utilizzare Linux come
+"index.php">Secondo incontro - Utilizzare Linux come
 server</a></b></font></p>
 
 <p align="left"><font size="2" face="Arial" color="red"><b><i>I

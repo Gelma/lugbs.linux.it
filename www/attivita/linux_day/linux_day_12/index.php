@@ -7,10 +7,6 @@ function talk($ora,$email,$oratore,$titolo){
 ?>
 
 <P align="center">
-<A HREF="http://www.linuxday.it/">
-<IMG alt="Logo LinuxDay 2008"
-     src="http://www.linuxday.it/images/log0ld2k8.gif">
-</A>
 </P>
 <H3 align="center">Dodicesimo Linux Day: Linux Day Nazionale</H3>
 
@@ -18,7 +14,7 @@ function talk($ora,$email,$oratore,$titolo){
 <dt>Data e Luogo</dt>
 <dd>Nell'ambito della <a href="http://www.linuxday.it/">Giornata Nazionale di Linux e del Software Libero</a>, promossa da
 <a href="http://www.linux.it/">ILS</a>, il LugBS organizza il suo dodicesimo Linux Day. La manifestazione ha luogo
-Sabato 25 Ottobre 2008, dalle 14:00 alle 18:00, presso <a href="http://maps.google.it/maps?f=q&hl=it&q=Via+Caleppe,+13,+25125+Brescia+Brescia,+Lombardia,+Italia&sll=45.932813,10.242779&sspn=0.015491,0.035791&ie=UTF8&cd=1&geocode=FVm2tgIdmcabAA&ll=45.52884,10.210655&spn=0.007802,0.017896&t=h&z=16">l'auditorium</a> della <a href="http://www.bettinzolipascoli.it/">Scuola Media Statale Bettinzoli</a> di Brescia.
+Sabato 25 Ottobre 2008, dalle 14:00 alle 18:00, presso <a href="http://maps.google.it/maps?f=q&hl=it&q=Via+Caleppe,+13,+25125+Brescia+Brescia,+Lombardia,+Italia&sll=45.932813,10.242779&sspn=0.015491,0.035791&ie=UTF8&cd=1&geocode=FVm2tgIdmcabAA&ll=45.52884,10.210655&spn=0.007802,0.017896&t=h&z=16">l'auditorium</a> della Scuola Media Statale Bettinzoli di Brescia.
 </dd>
 
 <dt>Iscrizione</dt>
