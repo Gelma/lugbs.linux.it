@@ -55,7 +55,7 @@ all'indirizzo<br>
 "http://www.ibiblio.org/pub/Linux/docs/HOWTO/translations/italian/DOS-to-Linux-HOWTO">
 http://www.ibiblio.org/pub/Linux/docs/HOWTO/translations/italian/DOS-to-Linux-HOWTO</a><br>
 <p>Questo &egrave; il modulo da compilare ed inviare a
-<a href="mailto:morriz@lugbs.it">morriz@lugbs.it</a> per<br>
+<a href="mailto:morriz@lugbs.linux.it">morriz@lugbs.linux.it</a> per<br>
 l'ammissione. L'indirizzo rimane a disposizione anche per
 eventuali<br>
 chiarimenti.<br>

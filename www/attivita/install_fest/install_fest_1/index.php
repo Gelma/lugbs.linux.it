@@ -11,7 +11,7 @@ personal computer il nostro amato sistema operativo, guidati dai volontari
 del lug.
 </p>
 <p>
-Nota: Nell'aula saranno a disposizione i monitor (quindi vi evitate il peso e   
+Nota: Nell'aula saranno a disposizione i monitor (quindi vi evitate il peso e
 l'ingombro maggiore).
 </p>
 <p>
@@ -30,7 +30,7 @@ Questi sono i  prerequisiti che i partecipanti devono avere:
 </ol>
 
 <p>
-Questo &egrave;  il modulo da compilare ed inviare a <a href="mailto:morriz@lugbs.it">morriz@lugbs.it</a> per
+Questo &egrave;  il modulo da compilare ed inviare a <a href="mailto:morriz@lugbs.linux.it">morriz@lugbs.linux.it</a> per
 l'ammissione. L'indirizzo rimane a disposizione anche per eventuali
 chiarimenti.
 </p>
@@ -54,7 +54,7 @@ HardDisk:
 SchedaGrafica:
 
 * DISTRIBUZIONE *
-Scelta distribuzione: [ ] Debian   [ ] RedHat 7.2    [ ] Mandrake 
+Scelta distribuzione: [ ] Debian   [ ] RedHat 7.2    [ ] Mandrake
 Desktop: [ ] KDE   [ ] Gnome
 </pre>
 

@@ -30,13 +30,13 @@ gradita <a href="iscrizione.php">l'iscrizione</a>.
 <dt class="programma">14:35 <span class="relatore"><a href="mailto:andrea.gelmini@linux.it">Andrea Gelmini</a></span></dt>
 <dd class="programma">Le ragioni del LugBS e del Software Libero</dd>
 
-<dt class="programma">15:30 <span class="relatore"><a href="mailto:maurizio.paolini@lugbs.it">Maurizio Paolini</a> (<a href="http://dmf.unicatt.it/~paolini/">Professore Ordinario di Analisi Numerica)</a></span></dt>
+<dt class="programma">15:30 <span class="relatore"><a href="mailto:maurizio.paolini@lugbs.linux.it">Maurizio Paolini</a> (<a href="http://dmf.unicatt.it/~paolini/">Professore Ordinario di Analisi Numerica)</a></span></dt>
 <dd class="programma"><a href="http://eduknoppix.dmf.unicatt.it/">EduKnoppix</a>: strumenti per la didattica</dd>
 
 <dt class="programma">16:00</dt>
 <dd class="programma">Pausa caff&egrave;</dd>
 
-<dt class="programma">16:30 <span class="relatore"><a href="mailto:alessandro.bonometti@lugbs.it">Alessandro Bonometti</a> (Sviluppatore Software Libero)</span></dt>
+<dt class="programma">16:30 <span class="relatore"><a href="mailto:alessandro.bonometti@lugbs.linux.it">Alessandro Bonometti</a> (Sviluppatore Software Libero)</span></dt>
 <dd class="programma">Strumenti per l'utilizzo personale.</dd>
 
 <dt class="programma">17:00 <span class="relatore"><a href="mailto:bassif@libero.it">Ing. Francesco Bassi</a> (Chief Architect of Supply Chain Management Systems, Henkel Italia)</span></dt>
