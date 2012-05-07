@@ -7,7 +7,7 @@ function talk($ora,$email,$oratore,$titolo){
 }
 ?>
 
-<H3 align="center">Sedicesimo Linux Day: Linux &egrave; la fine del mondo!</H3>
+<H3 align="center">Sedicesimo Linux Day: Il Software Libero nella Piccola e Media Impresa</H3>
 
 <dt>Data e Luogo</dt>
 <dd>
@@ -16,9 +16,7 @@ Nell'ambito della
 promossa da
 <a href="http://www.linux.it/">ILS</a>,
 il LugBS organizza il suo sedicesimo Linux Day.
-La manifestazione ha luogo <b>Sabato 27 Ottobre 2012</b> presso
-l'<a href="http://www.itiscastelli.it/">Istituto ITIS Castelli</a>
-(sito in <a href="http://g.co/maps/fs9fz">via Cantore, 9 a Brescia</a>).
+La manifestazione ha luogo <b>Sabato 27 Ottobre 2012</b> presso il <a href="http://www.musilbrescia.it/minisiti/simil/web/musei-enti/brescia-provincia/sistema-musil/musil_rodengo_saiano/">Musil, Museo dell'industria e del lavoro</a> di Rodengo Saiano.
 </dd>
 
 <dt>Partecipazione</dt>
@@ -28,7 +26,8 @@ L'incontro &egrave; completamente libero, gratuito e aperto a tutti.
 
 <dt>Programma</dt>
 <dd>
-In via di definizione
+In via di definizione. 
+Il tema nazionale è "Il Software Libero nella Piccola e Media Impresa".
 </dd>
 
 <dt>Contatti</dt>
