@@ -6,7 +6,7 @@
 <HTML>
 <HEAD>
 	<TITLE><?php echo "$titolo"?></TITLE> 
-	<META HTTP-EQUIV="Content-Type" content="text/html; charset=iso-8859-1">
+	<META HTTP-EQUIV="Content-Type" content="text/html; charset=utf-8">
 	<META HTTP-EQUIV="Content-Language" CONTENT="it-IT">
 	<META NAME="description" CONTENT="Linux User Group di Brescia - <?php echo "$titolo";?>">
 	<LINK REL="stylesheet" href="/includes/lugbs.css" type="text/css">
