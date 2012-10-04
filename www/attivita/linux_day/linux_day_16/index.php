@@ -1,10 +1,6 @@
 <?php   $titolo='LugBS &raquo; Attivit&agrave; &raquo; Linux Day &raquo; Quindicesima edizione';
         include($_SERVER["DOCUMENT_ROOT"].'/includes/header.inc'); 
 
-function talk($ora,$email,$oratore,$titolo){
-    print "<dt class=\"programma\">$ora <span class=\"relatore\"><a href=\"mailto:$email\">$oratore</a></span></dt>
-           <dd class=\"programma\">$titolo</dd>";
-}
 ?>
 
 <H3 align="center">Sedicesimo Linux Day: Il Software Libero nella Piccola e Media Impresa</H3>
@@ -15,8 +11,8 @@ Nell'ambito della
 <a href="http://www.linuxday.it/">Giornata Nazionale di Linux e del Software Libero</a>,
 promossa da
 <a href="http://www.linux.it/">ILS</a>,
-il LugBS organizza il suo sedicesimo Linux Day.
-La manifestazione ha luogo <b>Sabato 27 Ottobre 2012</b> presso il <a href="http://www.musilbrescia.it/minisiti/simil/web/musei-enti/brescia-provincia/sistema-musil/musil_rodengo_saiano/">Musil, Museo dell'industria e del lavoro</a> di Rodengo Saiano.
+il LugBS organizza il suo sedicesimo Linux Day.<br>
+La manifestazione ha luogo <b>Sabato 27 Ottobre 2012</b> presso il <a href="http://www.musilbrescia.it/minisiti/simil/web/musei-enti/brescia-provincia/sistema-musil/musil_rodengo_saiano/">Musil, Museo dell'industria e del lavoro</a> di Rodengo Saiano (per intenderci, basta parcheggiare all'<a href="http://goo.gl/maps/4VNga">Outlet di Franciacorta</a> e siete sul posto).
 </dd>
 
 <dt>Partecipazione</dt>
@@ -25,9 +21,26 @@ L'incontro &egrave; completamente libero, gratuito e aperto a tutti.
 </dd>
 
 <dt>Programma</dt>
-<dd>
-In via di definizione. 
-Il tema nazionale è "Il Software Libero nella Piccola e Media Impresa".
+La giornata si articola in due momenti:
+<ul>
+<li>lo spazio mattutino, dalle 10 alle 12: sessione riservata a imprenditori e professionisti dove vengono illustrati casi locali di utilizzo di <a href="https://it.wikipedia.org/wiki/Software_libero">Software Libero</a> in ambito lavorativo. La scaletta si compone dei seguenti interventi:
+	<ul>
+	<li>h.10:00 (<a href="mailto:luisa.ravelli@lugbs.linux.it">Luisa Ravelli</a>): benvenuto e presentazione della giornata;
+	<li>h.10:10 (<a href="mailto:marco.manenti@lugbs.linux.it">dott. comm. Marco Manenti</a>): il titolare dell'omonimo studio illustra la quotidiana operativit&agrave;, grazie a soluzioni libere, per il telelavoro e la fonia via Internet; 
+	<li>h.10:30 (<a href="mailto:andrea.occhi@lugbs.linux.it">ing. Andrea Occhi</a>): il responsabile CED di <a href="http://www.confartigianato.bs.it/">Confartigianato Imprese Unione di Brescia</a> illustra i risultati raggiunti negli anni con l'esclusivo utilizzo di Software Libero per i server, le postazioni di lavoro e la rilevazione presenze;
+	<li>h.10:50 (<a href="mailto:francesco.abeni@lugbs.linux.it">Francesco Abeni</a>): il titolare di GiBiLogic offre una panoramica sugli strumenti liberi utilizzati per la gestione dei progetti all'interno della sua attivit&agrave; imprenditoriale;
+	<li>h.11:10 pausa caff&egrave;
+	<li>h.11:30 (<a href="mailto:alessandro.bonometti@lugbs.linux.it">Alessandro Bonometti</a>): programmatore di elite, come ama definirsi, illustra le recenti evoluzioni nelle tecniche di programmazione e gestione dei team di sviluppo;
+	<li>h 11:50 (<a href="mailto:giorgio.pasiniruffoni@lugbs.linux.it">ing. Giorgio Pasini Ruffoni</a>): titolare di Open One Consulting illustra i componenti liberi presenti in diverse soluzioni ERP.
+	</ul>
+<p>A causa del limitato numero di posti &egrave; cortesemente richiesta, per la partecipazione mattutina, una segnalazione in via elettronica (scrivendo una email a <a href="mailto:linuxday@lugbs.linux.it">linuxday@lugbs.linux.it</a>, o telefonica chiamando <a href="mailto:andrea.gelmini@lugbs.linux.it">Andrea Gelmini</a> al 328/7296628.
+
+<li>lo spazio pomeridiano, dalle 14 alle 18: stand monotematici ove chiedere informazioni e
+provare con mano i software presentati sulle postazioni liberamente utilizzabili.
+&Egrave; inoltre possibile portare il proprio PC per essere aiutati dai membri del LUG
+nell'installazione di Linux, o nella risoluzione di problemi incontrati.
+</ul>
+
 </dd>
 
 <dt>Contatti</dt>
