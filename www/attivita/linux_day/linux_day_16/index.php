@@ -5,6 +5,11 @@
 
 <H3 align="center">Sedicesimo Linux Day: Il Software Libero nella Piccola e Media Impresa</H3>
 
+<dt>Propaganda</dt>
+<dd>
+Il <a href="LinuxDayBrescia2012_volantino.pdf">volantino</a> della manifestazione.
+</dd>
+
 <dt>Data e Luogo</dt>
 <dd>
 Nell'ambito della
