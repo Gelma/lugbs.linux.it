@@ -5,13 +5,18 @@
 
 <H3 align="center">Sedicesimo Linux Day: Il Software Libero nella Piccola e Media Impresa</H3>
 
+<dt>Propaganda</dt>
+<dd>
+Il <a href="LinuxDayBrescia2012_volantino.pdf">volantino</a> della manifestazione.
+</dd>
+
 <dt>Data e Luogo</dt>
 <dd>
 Nell'ambito della
 <a href="http://www.linuxday.it/">Giornata Nazionale di Linux e del Software Libero</a>,
 promossa da
 <a href="http://www.linux.it/">ILS</a>,
-il LugBS organizza il suo sedicesimo Linux Day.<br>
+il LugBS organizza il suo sedicesimo Linux Day, con il patrocinio di Regione Lombardia, Musil, Confartigianato, Comune di Rodengo Saiano, Mathesis.<br>
 La manifestazione ha luogo <b>Sabato 27 Ottobre 2012</b> presso il <a href="http://www.musilbrescia.it/minisiti/simil/web/musei-enti/brescia-provincia/sistema-musil/musil_rodengo_saiano/">Musil, Museo dell'industria e del lavoro</a> di Rodengo Saiano (per intenderci, basta parcheggiare all'<a href="http://goo.gl/maps/4VNga">Outlet di Franciacorta</a> e siete sul posto).
 </dd>
 
