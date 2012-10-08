@@ -7,7 +7,7 @@
 
 <dt>Propaganda</dt>
 <dd>
-Il <a href="LinuxDayBrescia2012_volantino.pdf">volantino</a> della manifestazione.
+Il <a href="LinuxDayBrescia2012_volantino.pdf">volantino</a> della manifestazione, anche con il <a href="LinuxDayBrescia2012_programma.pdf">dettaglio del programma</a>.
 </dd>
 
 <dt>Data e Luogo</dt>
