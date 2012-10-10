@@ -1,6 +1,5 @@
-<?php   $titolo='LugBS &raquo; Attivit&agrave; &raquo; Linux Day &raquo; Quindicesima edizione';
-        include($_SERVER["DOCUMENT_ROOT"].'/includes/header.inc'); 
-
+<?php   $titolo='LugBS &raquo; Attivit&agrave; &raquo; Linux Day &raquo; Sedicesima edizione';
+        include($_SERVER["DOCUMENT_ROOT"].'/includes/header.inc');
 ?>
 
 <H3 align="center">Sedicesimo Linux Day: Il Software Libero nella Piccola e Media Impresa</H3>
