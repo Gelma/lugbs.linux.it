@@ -16,3 +16,4 @@ Michele Bonera|Capitano|<a href="mailto:michele.bonera@lugbs.linux.it">michele.b
 Nicola Gatta|Oratore|<a href="mailto:nicola.gatta@lugbs.linux.it">nicola.gatta@lugbs.linux.it</a>
 Rossi Giuseppe|Oratore|<a href="mailto:giuseppe.rossi@lugbs.linux.it">giuseppe.rossi@lugbs.linux.it</a>
 Stefano Pedretti|Oratore|<a href="mailto:stefano.pedretti@lugbs.linux.it">stefano.pedretti@lugbs.linux.it</a>
+Vincenzo Oliviero|Attivista|<a href="mailto:vincenzo.oliviero@lugbs.linux.it">vincenzo.oliviero@lugbs.linux.it</a>
