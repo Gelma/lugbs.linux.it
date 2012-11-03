@@ -1,10 +1,13 @@
+Alberto Botti|Attivista|<a href="mailto:alberto.botti@lugbs.linux.it">alberto.botti@lugbs.linux.it</a>
 Alessandro Bonometti|Oratore|<a href="mailto:alessandro.bonometti@lugbs.linux.it">alessandro.bonometti@lugbs.linux.it</a>
 Alessandro Pezzoli|Oratore|<a href="mailto:alessandro.pezzoli@lugbs.linux.it">alessandro.pezzoli@lugbs.linux.it</a>
-Antonello Facchetti|Oratore|<a href="mailto:antonello.facchetti@lugbs.linux.it">antonello.facchetti@lugbs.linux.it</a>
 Andrea Gelmini|Cialtrone|<a href="mailto:andrea.gelmini@lugbs.linux.it">andrea.gelmini@lugbs.linux.it</a>
 Andrea Occhi|Oratore|<a href="mailto:andrea.occhi@lugbs.linux.it">andrea.occhi@lugbs.linux.it</a>
+Antonello Facchetti|Oratore|<a href="mailto:antonello.facchetti@lugbs.linux.it">antonello.facchetti@lugbs.linux.it</a>
+Bruno Pennati|Attivista|<a href="mailto:bruno.pennati@lugbs.linux.it">bruno.pennati@lugbs.linux.it</a>
 Diego Giardinetto|Oratore|<a href="mailto:diego.giardinetto@lugbs.linux.it">diego.giardinetto@lugbs.linux.it</a>
 Emanuele Bonardi|Responsabile per i progetti relativi alla didattica|<a href="mailto:emanuele.bonardi@lugbs.linux.it">emanuele.bonardi@lugbs.linux.it</a>
+Gabriele Bruno|Attivista|<a href="mailto:gabriele.bruno@lugbs.linux.it">gabriele.bruno@lugbs.linux.it</a>
 Giorgio Pasini Ruffoni|Oratore|<a href="mailto:giorgio.pasiniruffoni@lugbs.linux.it">giorgio.pasiniruffoni@lugbs.linux.it</a>
 Luisa Ravelli|Responsabile per i progetti relativi alla didattica|<a href="mailto:luisa.ravelli@lugbs.linux.it">luisa.ravelli@lugbs.linux.it</a>
 Manfred Caruso|Oratore|<a href="mailto:manfred.caruso@lugbs.linux.it">manfred.caruso@lugbs.linux.it</a>

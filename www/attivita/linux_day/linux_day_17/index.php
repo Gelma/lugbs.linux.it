@@ -7,7 +7,7 @@ function talk($ora,$email,$oratore,$titolo){
 }
 ?>
 
-<H3 align="center">Diciassettesimo Linux Day: Il Software Libero nella Piccola e Media Impresa</H3>
+<H3 align="center">Diciassettesimo Linux Day: tutto da rifare...</H3>
 
 <dt>Data e Luogo</dt>
 <dd>
@@ -16,12 +16,10 @@ Nell'ambito della
 promossa da
 <a href="http://www.linux.it/">ILS</a>,
 il LugBS organizza il suo diciassettesimo Linux Day.
-La manifestazione ha luogo <b>Sabato 27 Ottobre 2013</b> presso
-l'<a href="http://www.itiscastelli.it/">Istituto ITIS Castelli</a>
-(sito in <a href="http://g.co/maps/fs9fz">via Cantore, 9 a Brescia</a>).
+La manifestazione ha luogo <b>Sabato 26 Ottobre 2013</b>. Dove - ancora - non si sa.
 </dd>
 
-<dt>Partecipazione</dt>
+
 <dd>
 L'incontro &egrave; completamente libero, gratuito e aperto a tutti.
 </dd>
@@ -50,7 +48,7 @@ la relativa <a href="https://www.facebook.com/groups/150529464715/">pagina Faceb
 Una mano in pi&ugrave; e nel LugBS, e durante il Linux Day, &egrave; sempre gradita.<br>
 &Egrave; sufficiente la voglia di sbattersi un po', non servono incredibili competenze
 tecnologiche, per offrire un aiuto ai curiosi e ai neofiti che si presentano durante
-le manifestazioni pubbliche.<br>
+le manifestazioni pubbliche, o anche solo per aiutarci nell'allestimento/logistica.<br>
 Se hai voglia di donare un po' del tuo tempo, scrivi a
 <a href="mailto:sbattiamoci@lugbs.linux.it">sbattiamoci@lugbs.linux.it</a>.<br>
 Saremo felici di conoscerti!
