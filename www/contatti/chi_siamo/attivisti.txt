@@ -12,5 +12,6 @@ Giorgio Pasini Ruffoni|Oratore|<a href="mailto:giorgio.pasiniruffoni@lugbs.linux
 Luisa Ravelli|Responsabile per i progetti relativi alla didattica|<a href="mailto:luisa.ravelli@lugbs.linux.it">luisa.ravelli@lugbs.linux.it</a>
 Manfred Caruso|Oratore|<a href="mailto:manfred.caruso@lugbs.linux.it">manfred.caruso@lugbs.linux.it</a>
 Marco Ghidinelli|Oratore|<a href="mailto:marco.ghidinelli@lugbs.linux.it">marco.ghidinelli@lugbs.linux.it</a>
+Nicol&ograve; Crisitini|Attivista|<a href="mailto:nicolo.cristini@lugbs.linux.it">nicolo.cristini@lugbs.linux.it</a>
 Rossi Giuseppe|Oratore|<a href="mailto:giuseppe.rossi@lugbs.linux.it">giuseppe.rossi@lugbs.linux.it</a>
 Vincenzo Oliviero|Attivista|<a href="mailto:vincenzo.oliviero@lugbs.linux.it">vincenzo.oliviero@lugbs.linux.it</a>
