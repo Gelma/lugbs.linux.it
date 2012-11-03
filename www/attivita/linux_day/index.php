@@ -23,6 +23,7 @@ fino ad oggi &egrave; facilmente riassumibile con lo specchietto qui sotto:
 <tr>
  <td><b>data</b></td><td><b>tema</b></td>
 </tr>
+<tr> <td>26/10/2013</td><td><p><a href="linux_day_17/">Linux Day Nazionale: tutto da rifare...</a></td> </tr>
 <tr> <td>27/10/2012</td><td><p><a href="linux_day_16/">Linux Day Nazionale: Il Software Libero nella Piccola e Media Impresa</a></td> </tr>
 <tr> <td>22/10/2011</td><td><p><a href="linux_day_15/">Linux Day Nazionale</a></td> </tr>
 <tr> <td>23/10/2010</td><td><p><a href="linux_day_14/">Linux Day Nazionale</a></td> </tr>
