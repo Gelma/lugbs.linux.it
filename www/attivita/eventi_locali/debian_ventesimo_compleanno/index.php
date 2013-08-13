@@ -30,6 +30,7 @@ L'incontro &egrave; completamente libero, gratuito e aperto a tutti. Sul posto c
 </dd>
 
 <dt>Programma</dt>
+<dd>
 Chiacchiere e stupidaggini. &Egrave; una festa di compleanno. Non facciamo i nerd.
 </dd>
 
