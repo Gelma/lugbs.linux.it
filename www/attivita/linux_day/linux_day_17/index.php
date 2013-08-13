@@ -1,4 +1,4 @@
-<?php   $titolo='LugBS &raquo; Attivit&agrave; &raquo; Linux Day &raquo; Quindicesima edizione';
+<?php   $titolo='LugBS &raquo; Attivit&agrave; &raquo; Linux Day &raquo; Diciassettesima edizione';
         include($_SERVER["DOCUMENT_ROOT"].'/includes/header.inc'); 
 
 function talk($ora,$email,$oratore,$titolo){
@@ -7,7 +7,7 @@ function talk($ora,$email,$oratore,$titolo){
 }
 ?>
 
-<H3 align="center">Diciassettesimo Linux Day: tutto da rifare...</H3>
+<H3 align="center">Diciassettesimo Linux Day: Innovazione. Di tutti. Per tutti.</H3>
 
 <dt>Data e Luogo</dt>
 <dd>
