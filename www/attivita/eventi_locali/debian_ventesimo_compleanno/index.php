@@ -36,7 +36,7 @@ Chiacchiere e stupidaggini. &Egrave; una festa di compleanno. Non facciamo i ner
 
 <dt>Aggiornamenti</dt>
 <dd>
-Oltre alla gi&agrave; citata lista abbiamo anche un prestigioso <a href="http://www.facebook.com/">evento Facebook</a>.
+Oltre alla gi&agrave; citata lista abbiamo anche un prestigioso <a href="https://www.facebook.com/events/544095532305610/">evento Facebook</a>.
 </dd>
 
 </dl>
