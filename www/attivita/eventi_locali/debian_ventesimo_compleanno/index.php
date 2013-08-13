@@ -16,12 +16,12 @@ Venerd&igrave; 16 agosto 2013, dalle 18:30 in poi, saremo gentilmente ospitati d
 </dd>
 
 <dt>Come arrivare</dt>
+<dd>
 La <a href="http://xander-beer.it/">birreria</a> si trova in <a href="http://xander-beer.it/dove-siamo/">via Dalmazia, 23/a</a>.
 Ovviamente a Brescia. Se hai bisogno di informazioni o ti sei perso puoi scrivere ad
-<a href="mailto:andrea.gelmini@lugbs.linux.it">Andrea Gelmini</a>, oppure chiamarlo +39-328-7296628.
+<a href="mailto:andrea.gelmini@lugbs.linux.it">Andrea Gelmini</a>, o chiamarlo al +39-328-7296628.
 Se hai bisogno di un passaggio manda una mail <a href="mailto:lug@lugbs.linux.it">in lista</a>. Probabile che qualcuno possa
 darti uno strappo.
-<dd>
 </dd>
 
 <dt>Partecipazione</dt>
