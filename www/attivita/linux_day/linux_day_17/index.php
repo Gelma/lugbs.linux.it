@@ -75,5 +75,14 @@ Se hai voglia di donare un po' del tuo tempo, scrivi a
 <a href="mailto:sbattiamoci@lugbs.linux.it">sbattiamoci@lugbs.linux.it</a>.<br>
 Saremo felici di conoscerti!
 </dd>
+
+<dt>Nei dintorni...</dt>
+<dd>
+Nella stessa giornata si svolgono <a href="http://www.linuxday.it/">Linux Day per tutta l'Italia</a>.
+In particolare nella nostra provincia sono da segnalare gli eventi di
+<a href="http://www.linuxday.it/13/node/67">Gottolengo</a> e
+<a href="http://www.linuxday.it/13/node/49">Castegnato</a>.
+</dd>
+
 </dl>
 <?php include("../../../includes/footer.inc"); ?>
