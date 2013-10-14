@@ -35,7 +35,7 @@ La giornata si articola in due momenti:
    <li>h.10:10 (<a href="mailto:alessandro.ferrari@lugbs.linux.it">ing. Alessandro Ferrari</a>): <a href="https://it.wikipedia.org/wiki/Software_libero">strumenti liberi</a> per l'analisi delle immagini;
    <li>h.10:30 (<a href="mailto:matteo.tiberti@lugbs.linux.it">dr. in biotecnologie Matteo Tiberti</a>): <a href="https://it.wikipedia.org/wiki/Software_libero">strumenti liberi</a> nella ricerca sulle proteine;
    <li>h.10:40 (<a href="mailto:andrea.gelmini@lugbs.linux.it">cialtrone Andrea Gelmini</a>): <a href="https://it.wikipedia.org/wiki/Software_libero">strumenti liberi</a> nell'automazione industriale;
-   <li>h.10:50 (<a href="mailto:bruno.pennati@lugbs.linux.it">ing. Bruno Pennati</a>): cantinari nello spazio, ovvero <a href="https://it.wikipedia.org/wiki/Software_libero">strumenti liberi</a> nell'avventura aerospaziale;
+   <li>h.10:50 (<a href="mailto:bruno.pennati@lugbs.linux.it">Bruno Pennati</a>): "Cantinari nello spazio", ovvero <a href="https://it.wikipedia.org/wiki/Software_libero">strumenti liberi</a> nell'avventura aerospaziale;
    <li>h.11:10 pausa caff&egrave;
    <li>h.11:30 (<a href="mailto:mattia.pescimoro@lugbs.linux.it">studente Mattia Pescimoro</a>): il cubo magico;
    <li>h.11:50 (<a href="mailto:francesco.abeni@lugbs.linux.it">imprenditore Francesco Abeni</a>): <a href="https://it.wikipedia.org/wiki/Software_libero">strumenti liberi</a> nella gestione aziendale;
