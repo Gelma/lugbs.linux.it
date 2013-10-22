@@ -22,7 +22,7 @@ di Rodengo Saiano (per intenderci, basta parcheggiare all'<a href="http://goo.gl
 </dd>
 
 <dd>
-L'incontro &egrave; completamente libero, gratuito e aperto a tutti.
+L'incontro &egrave; completamente libero, gratuito e aperto a tutti. &Egrave; disponibile il <a href="ProgrammaLinuxDay2013.pdf">programma della giornata</a> e il <a href="VolantinoLinuxDay2013.pdf"</a>volantino</a>.
 </dd>
 
 <dt>Programma</dt>
