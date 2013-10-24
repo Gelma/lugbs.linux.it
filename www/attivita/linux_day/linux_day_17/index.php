@@ -18,7 +18,8 @@ promossa da
 il LugBS organizza il suo diciassettesimo Linux Day.<br>
 La manifestazione ha luogo <b>sabato 26 Ottobre 2013</b> presso il
 <a href="http://www.musilbrescia.it/minisiti/simil/web/musei-enti/brescia-provincia/sistema-musil/musil_rodengo_saiano/">Musil, Museo dell'industria e del lavoro</a>
-di Rodengo Saiano (per intenderci, basta parcheggiare all'<a href="http://goo.gl/maps/4VNga">Outlet di Franciacorta</a> e siete sul posto).
+di Rodengo Saiano (per intenderci, basta parcheggiare all'<a href="http://goo.gl/maps/4VNga">Outlet di Franciacorta</a> e siete sul posto).<br />
+<iframe width="420" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://www.openlinkmap.org/embed.php?id=182984336&type=way" style="border: 1px solid black"></iframe>
 </dd>
 
 <dd>
