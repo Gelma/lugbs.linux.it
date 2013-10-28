@@ -1,13 +1,20 @@
 <?php   $titolo='LugBS &raquo; Attivit&agrave; &raquo; Linux Day &raquo; Diciassettesima edizione';
         include($_SERVER["DOCUMENT_ROOT"].'/includes/header.inc'); 
-
-function talk($ora,$email,$oratore,$titolo){
-    print "<dt class=\"programma\">$ora <span class=\"relatore\"><a href=\"mailto:$email\">$oratore</a></span></dt>
-           <dd class=\"programma\">$titolo</dd>";
-}
 ?>
 
 <H3 align="center">Diciassettesimo Linux Day: Innovazione. Di tutti. Per tutti.</H3>
+
+<dt>Aggiornamento: dopo la giornata</dt>
+<dd>
+Viene reso disponibile il <a href="https://www.youtube.com/watch?v=0ZznFGNVm-4">Time Lapse</a> della giornata, realizzato da <a href="http://lugbs.linux.it/pipermail/lug/2013-October/032471.html">Andrea Occhi.</a>
+Sono inoltre disponibili le slide degli interventi di:
+<a href="Alessandro_Ferrari_ComputerVision.pdf">Ferrari</a>,
+<a href="http://youtu.be/qf6iY1cKbis">Tiberti</a>,
+<a href="Pennati_Spazio.pdf">Pennati</a>,
+<a href="Pescimoro_LedCube.pdf"></a>,
+<a href="Abeni_Strumenti.pdf">Abeni</a>,
+<a href="Acchiappati_Reti.pdf">Acchiappati</a>
+</dd>
 
 <dt>Data e Luogo</dt>
 <dd>
@@ -32,14 +39,14 @@ La giornata si articola in due momenti:
 <ul>
 <li>lo spazio mattutino, dalle 10 alle 12: sessione riservata ai talk. La scaletta si compone dei seguenti interventi:
    <ul>
-   <li>h.10:00 (<a href="mailto:luisa.ravelli@lugbs.linux.it">dr.ssa in economia  Luisa Ravelli</a>): benvenuto e presentazione della giornata;
+   <li>h.10:00 (<a href="mailto:luisa.ravelli@lugbs.linux.it">dr.ssa Luisa Ravelli</a>): benvenuto e presentazione della giornata;
    <li>h.10:10 (<a href="mailto:alessandro.ferrari@lugbs.linux.it">ing. Alessandro Ferrari</a>): <a href="https://it.wikipedia.org/wiki/Software_libero">strumenti liberi</a> per l'analisi delle immagini;
-   <li>h.10:30 (<a href="mailto:matteo.tiberti@lugbs.linux.it">dr. in biotecnologie Matteo Tiberti</a>): <a href="https://it.wikipedia.org/wiki/Software_libero">strumenti liberi</a> nella ricerca sulle proteine;
-   <li>h.10:40 (<a href="mailto:andrea.gelmini@lugbs.linux.it">cialtrone Andrea Gelmini</a>): <a href="https://it.wikipedia.org/wiki/Software_libero">strumenti liberi</a> nell'automazione industriale;
+   <li>h.10:30 (<a href="mailto:matteo.tiberti@lugbs.linux.it">dr. Matteo Tiberti</a>): <a href="https://it.wikipedia.org/wiki/Software_libero">strumenti liberi</a> nella ricerca sulle proteine;
+   <li>h.10:40 (<a href="mailto:andrea.gelmini@lugbs.linux.it">Andrea Gelmini, cialtrone</a>): <a href="https://it.wikipedia.org/wiki/Software_libero">strumenti liberi</a> nell'automazione industriale;
    <li>h.10:50 (<a href="mailto:bruno.pennati@lugbs.linux.it">Bruno Pennati</a>): "Cantinari nello spazio", ovvero <a href="https://it.wikipedia.org/wiki/Software_libero">strumenti liberi</a> nell'avventura aerospaziale;
    <li>h.11:10 pausa caff&egrave;
-   <li>h.11:30 (<a href="mailto:mattia.pescimoro@lugbs.linux.it">studente Mattia Pescimoro</a>): il cubo magico;
-   <li>h.11:50 (<a href="mailto:francesco.abeni@lugbs.linux.it">imprenditore Francesco Abeni</a>): <a href="https://it.wikipedia.org/wiki/Software_libero">strumenti liberi</a> nella gestione aziendale;
+   <li>h.11:30 (<a href="mailto:mattia.pescimoro@lugbs.linux.it">Mattia Pescimoro, studente</a>): il cubo magico;
+   <li>h.11:50 (<a href="mailto:francesco.abeni@lugbs.linux.it">Francesco Abeni, studente</a>): <a href="https://it.wikipedia.org/wiki/Software_libero">strumenti liberi</a> nella gestione aziendale;
    <li>h.12:10 (<a href="mailto:francesco.acchiappati@lugbs.linux.it">Francesco Acchiappati</a>): <a href="https://it.wikipedia.org/wiki/Software_libero">strumenti liberi</a> per la gestione di una rete scolastica.
    </ul>
 <p>A causa del limitato numero di posti &egrave; cortesemente richiesta, per la partecipazione mattutina, una segnalazione in via elettronica (scrivendo una email a <a href="mailto:linuxday@lugbs.linux.it">linuxday@lugbs.linux.it</a>, o telefonica chiamando <a href="mailto:andrea.gelmini@lugbs.linux.it">Andrea Gelmini</a> al 328/7296628.
