@@ -4,6 +4,18 @@
 
 <H3 align="center">Diciassettesimo Linux Day: Innovazione. Di tutti. Per tutti.</H3>
 
+<dt>Aggiornamento: dopo la giornata</dt>
+<dd>
+Viene reso disponibile il <a href="https://www.youtube.com/watch?v=0ZznFGNVm-4">Time Lapse</a> della giornata, realizzato da <a href="http://lugbs.linux.it/pipermail/lug/2013-October/032471.html">Andrea Occhi.</a>
+Sono inoltre disponibili le slide degli interventi di:
+<a href="Alessandro_Ferrari_ComputerVision.pdf">Ferrari</a>,
+<a href="http://youtu.be/qf6iY1cKbis">Tiberti</a>,
+<a href="Pennati_Spazio.pdf">Pennati</a>,
+<a href="Pescimoro_LedCube.pdf"></a>,
+<a href="Abeni_Strumenti.pdf">Abeni</a>,
+<a href="Acchiappati_Reti.pdf">Acchiappati</a>
+</dd>
+
 <dt>Data e Luogo</dt>
 <dd>
 Nell'ambito della
