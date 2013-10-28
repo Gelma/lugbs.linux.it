@@ -11,9 +11,9 @@ Sono inoltre disponibili le slide degli interventi di:
 <a href="Alessandro_Ferrari_ComputerVision.pdf">Ferrari</a>,
 <a href="http://youtu.be/qf6iY1cKbis">Tiberti</a>,
 <a href="Pennati_Spazio.pdf">Pennati</a>,
-<a href="Pescimoro_LedCube.pdf"></a>,
-<a href="Abeni_Strumenti.pdf">Abeni</a>,
-<a href="Acchiappati_Reti.pdf">Acchiappati</a>
+<a href="Pescimoro_LedCube.pdf">Pescimoro</a>,
+<a href="Abeni_Strumenti.pdf">Abeni</a> e
+<a href="Acchiappati_Reti.pdf">Acchiappati</a>.
 </dd>
 
 <dt>Data e Luogo</dt>
