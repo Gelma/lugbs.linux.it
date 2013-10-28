@@ -1,10 +1,5 @@
 <?php   $titolo='LugBS &raquo; Attivit&agrave; &raquo; Linux Day &raquo; Diciassettesima edizione';
         include($_SERVER["DOCUMENT_ROOT"].'/includes/header.inc'); 
-
-function talk($ora,$email,$oratore,$titolo){
-    print "<dt class=\"programma\">$ora <span class=\"relatore\"><a href=\"mailto:$email\">$oratore</a></span></dt>
-           <dd class=\"programma\">$titolo</dd>";
-}
 ?>
 
 <H3 align="center">Diciassettesimo Linux Day: Innovazione. Di tutti. Per tutti.</H3>
