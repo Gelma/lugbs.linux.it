@@ -2,7 +2,7 @@
         include($_SERVER["DOCUMENT_ROOT"].'/includes/header.inc');
 ?>
 
-<H3 align="center">Diciottesimo Linux Day: in corso di organizzazione</H3>
+<H3 align="center">Diciottesimo Linux Day: le community intorno a Linux</H3>
 
 <dt>Data e Luogo</dt>
 <dd>
@@ -27,7 +27,7 @@ La giornata si articola in due momenti:
 <ul>
 <li>lo spazio mattutino, dalle 10 alle 12: sessione riservata ai talk. La scaletta si compone dei seguenti interventi:
    <ul>
-   <li>h.10:00 (<a href="mailto:andrea.gelmini@lugbs.linux.it">cialtrone Andrea Gelmini</a>): benvenuto e presentazione della giornata
+   <li>h.10:00 (<a href="mailto:andrea.gelmini@lugbs.linux.it">Andrea Gelmini</a>): benvenuto e presentazione della giornata
    <li>h.10:05 (<a href="mailto:ghidini@musilbrescia.it">dr.Fabio Ghidini</a>): Didattica al <a href="http://www.musilbrescia.it/minisiti/simil/web/musei-enti/brescia-provincia/sistema-musil/musil_rodengo_saiano/index.html">MUSIL</a>: exhibit con Arduino
    <li>h.10:20 (<a href="mailto:mtrentini@comune.brescia.it">dr.Marco Trentini, Responsabile Settore Informatica e Smart City del Comune di Brescia</a>): Brescia comune aperto: la strategia di migrazione verso sistemi aperti
    <li>h.10:35 (<a href="mailto:claudio.tregambe@lugbs.linux.it">dr.Claudio Tregambe</a>): storia della nascita di una stampante 3D fai-da-te
@@ -81,10 +81,9 @@ Saremo felici di conoscerti!
 <dt>Nei dintorni...</dt>
 <dd>
 Nella stessa giornata si svolgono <a href="http://www.linuxday.it/">Linux Day per tutta l'Italia</a>.
-<?php /* In particolare nella nostra provincia sono da segnalare gli eventi di
-<a href="http://www.linuxday.it/13/node/67">Gottolengo</a> e
-<a href="http://www.linuxday.it/13/node/49">Castegnato</a>.
-*/ ?>
+In particolare nella nostra provincia sono da segnalare gli eventi di
+<a href="https://sites.google.com/site/lugotto/linux-day-2014">Gottolengo</a> e
+<a href="http://www.kenparker.eu/LugCastegnato/viewtopic.php?id=763">Castegnato</a>.
 </dd>
 
 </dl>
