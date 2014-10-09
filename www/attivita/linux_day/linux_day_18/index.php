@@ -10,7 +10,7 @@ Nell'ambito della
 <a href="http://www.linuxday.it/">Giornata Nazionale di Linux e del Software Libero</a>,
 promossa da
 <a href="http://www.linux.it/">ILS</a>,
-il LugBS organizza il suo diciassettesimo Linux Day.<br>
+il LugBS organizza il suo diciottesimo Linux Day.<br>
 La manifestazione ha luogo <b>sabato 25 Ottobre 2014</b> presso il
 <a href="http://www.musilbrescia.it/minisiti/simil/web/musei-enti/brescia-provincia/sistema-musil/musil_rodengo_saiano/">Musil, Museo dell'industria e del lavoro</a>
 di Rodengo Saiano (per intenderci, basta parcheggiare all'<a href="http://goo.gl/maps/4VNga">Outlet di Franciacorta</a> e siete sul posto).<br />
@@ -18,27 +18,32 @@ di Rodengo Saiano (per intenderci, basta parcheggiare all'<a href="http://goo.gl
 </dd>
 
 <dd>
-L'incontro &egrave; completamente libero, gratuito e aperto a tutti.<?php /* &Egrave; disponibile il <a href="ProgrammaLinuxDay2013.pdf">programma della giornata</a> e il <a href="VolantinoLinuxDay2013.pdf"</a>volantino</a>. */?>
+L'incontro &egrave; completamente libero, gratuito e aperto a tutti. &Egrave; disponibile il <?php <a href="ProgrammaLinuxDay2013.pdf">programma della giornata</a> e*/?> il <a href="VolantinoLinuxDay2014.pdf"</a>volantino</a>.
 </dd>
 
 <dt>Programma</dt>
 <dd>
 La giornata si articola in due momenti:
 <ul>
-<li>lo spazio mattutino, dalle 10 alle 12: sessione riservata ai talk.<?php /* La scaletta si compone dei seguenti interventi:
+<li>lo spazio mattutino, dalle 10 alle 12: sessione riservata ai talk. La scaletta si compone dei seguenti interventi:
    <ul>
-   <li>h.10:00 (<a href="mailto:luisa.ravelli@lugbs.linux.it">dr.ssa in economia  Luisa Ravelli</a>): benvenuto e presentazione della giornata;
-   <li>h.10:10 (<a href="mailto:alessandro.ferrari@lugbs.linux.it">ing. Alessandro Ferrari</a>): <a href="https://it.wikipedia.org/wiki/Software_libero">strumenti liberi</a> per l'analisi delle immagini;
-   <li>h.10:30 (<a href="mailto:matteo.tiberti@lugbs.linux.it">dr. in biotecnologie Matteo Tiberti</a>): <a href="https://it.wikipedia.org/wiki/Software_libero">strumenti liberi</a> nella ricerca sulle proteine;
-   <li>h.10:40 (<a href="mailto:andrea.gelmini@lugbs.linux.it">cialtrone Andrea Gelmini</a>): <a href="https://it.wikipedia.org/wiki/Software_libero">strumenti liberi</a> nell'automazione industriale;
-   <li>h.10:50 (<a href="mailto:bruno.pennati@lugbs.linux.it">Bruno Pennati</a>): "Cantinari nello spazio", ovvero <a href="https://it.wikipedia.org/wiki/Software_libero">strumenti liberi</a> nell'avventura aerospaziale;
-   <li>h.11:10 pausa caff&egrave;
-   <li>h.11:30 (<a href="mailto:mattia.pescimoro@lugbs.linux.it">studente Mattia Pescimoro</a>): il cubo magico;
-   <li>h.11:50 (<a href="mailto:francesco.abeni@lugbs.linux.it">imprenditore Francesco Abeni</a>): <a href="https://it.wikipedia.org/wiki/Software_libero">strumenti liberi</a> nella gestione aziendale;
-   <li>h.12:10 (<a href="mailto:francesco.acchiappati@lugbs.linux.it">Francesco Acchiappati</a>): <a href="https://it.wikipedia.org/wiki/Software_libero">strumenti liberi</a> per la gestione di una rete scolastica.
+   <li>h.10:00 (<a href="mailto:andrea.gelmini@lugbs.linux.it">cialtrone Andrea Gelmini</a>): benvenuto e presentazione della giornata
+   <li>h.10:05 (<a href="mailto:ghidini@musilbrescia.it">dr.Fabio Ghidini</a>): Didattica al <a href="http://www.musilbrescia.it/minisiti/simil/web/musei-enti/brescia-provincia/sistema-musil/musil_rodengo_saiano/index.html">MUSIL</a>: exhibit con Arduino
+   <li>h.10:20 (<a href="mailto:mtrentini@comune.brescia.it">dr.Marco Trentini, Responsabile Settore Informatica e Smart City del Comune di Brescia</a>): Brescia comune aperto: la strategia di migrazione verso sistemi aperti
+   <li>h.10:35 (<a href="mailto:claudio.tregambe@lugbs.linux.it">dr.Claudio Tregambe</a>): storia della nascita di una stampante 3D fai-da-te
+   <li>h.10:55 pausa caff&egrave;
+   <li>h.11:10 (<a href="mailto:info.expoint@gmail.com">dr.Michele Faini</a>): Piacere mi chiamo <a href="http://www.studioexpoint.com/#tab-5">FabLab</a>: artigiani 2.0
+   <li>h.11:25 (<a href="mailto:luisa.ravelli@lugbs.linux.it">dr.ssa Luisa Ravelli</a>): <a href="http://www.porteapertesulweb.it/">Porte Aperte sul Web</a> e <a href="http://wiildos.it/">WiildOS</a>, fare rete nel mondo della scuola
+   <li>h.11:40 (<a href="mailto:mattia.pescimoro@lugbs.linux.it">Mattia Pescimoro, studente di ingegneria informatica</a>): <a href="http://www.muhack.org/">µhack</a>, laboratorio di idee
+   <li>h.12:00 Saluti
    </ul>
-<p>A causa del limitato numero di posti &egrave; cortesemente richiesta, per la partecipazione mattutina, una segnalazione in via elettronica (scrivendo una email a <a href="mailto:linuxday@lugbs.linux.it">linuxday@lugbs.linux.it</a>, o telefonica chiamando <a href="mailto:andrea.gelmini@lugbs.linux.it">Andrea Gelmini</a> al 328/7296628.
-*/ ?>
+
+<p>Per poter offrire uno spazio confortevole &egrave; cortesemente richiesta,
+per la partecipazione mattutina, una segnalazione in via elettronica
+(scrivendo una email a
+<a href="mailto:linuxday@lugbs.linux.it">linuxday@lugbs.linux.it</a>, o
+telefonica chiamando
+<a href="mailto:andrea.gelmini@lugbs.linux.it">Andrea Gelmini</a> al 328/7296628.
 
 <li>lo spazio pomeridiano, dalle 14 alle 18: stand monotematici ove chiedere informazioni e
 provare con mano i software presentati sulle postazioni liberamente utilizzabili.
