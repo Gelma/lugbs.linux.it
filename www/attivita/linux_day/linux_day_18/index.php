@@ -18,6 +18,17 @@ di Rodengo Saiano (per intenderci, basta parcheggiare all'<a href="http://goo.gl
 </dd>
 
 <dd>
+<iframe
+    width="50%"
+    height="300px"
+    frameBorder="0"
+    src="http://umap.openstreetmap.fr/en/map/untitled-map_18981?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&datalayersControl=true&onLoadPanel=undefined">
+</iframe>
+<p><a href="http://umap.openstreetmap.fr/en/map/untitled-map_18981">Mappa ingrandita</a></p>
+<p><a href="http://osrm.at/9Jz">Indicazioni stradali da Brescia</a></p>
+</dd>
+
+<dd>
 L'incontro &egrave; completamente libero, gratuito e aperto a tutti. &Egrave; disponibile il <?php /*<a href="ProgrammaLinuxDay2013.pdf">programma della giornata</a> e*/?> il <a href="VolantinoLinuxDay2014.pdf"</a>volantino</a>.
 </dd>
 
