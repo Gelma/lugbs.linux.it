@@ -14,11 +14,11 @@ il LugBS organizza il suo diciottesimo Linux Day.<br>
 La manifestazione ha luogo <b>sabato 25 Ottobre 2014</b> presso il
 <a href="http://www.musilbrescia.it/minisiti/simil/web/musei-enti/brescia-provincia/sistema-musil/musil_rodengo_saiano/">Musil, Museo dell'industria e del lavoro</a>
 di Rodengo Saiano (per intenderci, basta parcheggiare all'<a href="http://goo.gl/maps/4VNga">Outlet di Franciacorta</a> e siete sul posto).<br />
-<iframe width="420" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://www.openlinkmap.org/embed.php?id=182984336&type=way" style="border: 1px solid black"></iframe>
 </dd>
 
 <dd>
-L'incontro &egrave; completamente libero, gratuito e aperto a tutti. &Egrave; disponibile il <?php /*<a href="ProgrammaLinuxDay2013.pdf">programma della giornata</a> e*/?> il <a href="VolantinoLinuxDay2014.pdf"</a>volantino</a>.
+L'incontro &egrave; completamente libero, gratuito e aperto a tutti.<br>
+&Egrave; disponibile <?php /*<a href="ProgrammaLinuxDay2013.pdf">programma della giornata</a> e*/?> il <a href="VolantinoLinuxDay2014.pdf"</a>volantino</a>.
 </dd>
 
 <dt>Programma</dt>
@@ -27,15 +27,15 @@ La giornata si articola in due momenti:
 <ul>
 <li>lo spazio mattutino, dalle 10 alle 12: sessione riservata ai talk. La scaletta si compone dei seguenti interventi:
    <ul>
-   <li>h.10:00 (<a href="mailto:andrea.gelmini@lugbs.linux.it">Andrea Gelmini</a>): benvenuto e presentazione della giornata
-   <li>h.10:05 (<a href="mailto:ghidini@musilbrescia.it">dr.Fabio Ghidini</a>): Didattica al <a href="http://www.musilbrescia.it/minisiti/simil/web/musei-enti/brescia-provincia/sistema-musil/musil_rodengo_saiano/index.html">MUSIL</a>: exhibit con Arduino
-   <li>h.10:20 (<a href="mailto:mtrentini@comune.brescia.it">dr.Marco Trentini, Responsabile Settore Informatica e Smart City del Comune di Brescia</a>): Brescia comune aperto: la strategia di migrazione verso sistemi aperti
-   <li>h.10:35 (<a href="mailto:claudio.tregambe@lugbs.linux.it">dr.Claudio Tregambe</a>): storia della nascita di una stampante 3D fai-da-te
-   <li>h.10:55 pausa caff&egrave;
-   <li>h.11:10 (<a href="mailto:info.expoint@gmail.com">dr.Michele Faini</a>): Piacere mi chiamo <a href="http://www.studioexpoint.com/#tab-5">FabLab</a>: artigiani 2.0
-   <li>h.11:25 (<a href="mailto:luisa.ravelli@lugbs.linux.it">dr.ssa Luisa Ravelli</a>): <a href="http://www.porteapertesulweb.it/">Porte Aperte sul Web</a> e <a href="http://wiildos.it/">WiildOS</a>, fare rete nel mondo della scuola
-   <li>h.11:40 (<a href="mailto:mattia.pescimoro@lugbs.linux.it">Mattia Pescimoro, studente di ingegneria informatica</a>): <a href="http://www.muhack.org/">µhack</a>, laboratorio di idee
-   <li>h.12:00 Saluti
+   <li>h.10:00 (<a href="mailto:andrea.gelmini@lugbs.linux.it">Andrea Gelmini</a>)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Benvenuto e presentazione della giornata</b><hr>
+   <li>h.10:05 (<a href="mailto:ghidini@musilbrescia.it">dr. Fabio Ghidini</a>)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Didattica al <a href="http://www.musilbrescia.it/minisiti/simil/web/musei-enti/brescia-provincia/sistema-musil/musil_rodengo_saiano/index.html">MUSIL</a>: exhibit con Arduino</b><hr>
+   <li>h.10:20 (<a href="mailto:mtrentini@comune.brescia.it">dr. Marco Trentini</a>, Responsabile Settore Informatica e <a href="http://www.comune.brescia.it/servizi/arteculturaeturismo/BSSmartCity/Pagine/Brescia-Smart-City.aspx">Smart City</a> del Comune di Brescia)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Brescia comune aperto: la strategia di migrazione verso sistemi aperti</b><hr>
+   <li>h.10:35 (<a href="mailto:claudio.tregambe@lugbs.linux.it">dr. Claudio Tregambe</a>)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Genesi di una stampante 3D fai-da-te</b><hr>
+   <li>h.10:55<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Pausa caff&egrave;</b><hr>
+   <li>h.11:10 (<a href="mailto:info.expoint@gmail.com">dr. Michele Faini</a>, presidente di <a href="http://bresciafablab.wordpress.com/">FabLab Brescia</a>)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Piacere mi chiamo FabLab: artigiani 2.0</b><hr>
+   <li>h.11:25 (<a href="mailto:luisa.ravelli@lugbs.linux.it">dr.ssa Luisa Ravelli</a>)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b><a href="http://www.porteapertesulweb.it/">Porte Aperte sul Web</a> e <a href="http://wiildos.it/">WiildOS</a>, fare rete nel mondo della scuola</b><hr>
+   <li>h.11:40 (<a href="mailto:mattia.pescimoro@lugbs.linux.it">Mattia Pescimoro</a>, fondatore di <a href="http://www.muhack.org/">µhack</a>)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>µhack, laboratorio di idee</b><hr>
+   <li>h.12:00<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Saluti</b><hr>
    </ul>
 
 <p>Per poter offrire uno spazio confortevole &egrave; cortesemente richiesta,
@@ -64,7 +64,7 @@ Per qualsiasi richiesta di informazioni si pu&ograve; contattare l'organizzazion
 <dd>
 Per restare aggiornati sull'organizzazione dell'evento &egrave; sufficiente mandare una mail a
 <a href="mailto:fatemisapere@lugbs.linux.it">fatemisapere@lugbs.linux.it</a>, oppure seguirne
-la relativa <a href="https://www.facebook.com/groups/150529464715/">pagina Facebook</a>.
+la relativa <a href="https://www.facebook.com/events/1540162822864281/">pagina Facebook</a>.
 </dd>
 
 <dt>Per gli smanettoni in ascolto...</dt>
