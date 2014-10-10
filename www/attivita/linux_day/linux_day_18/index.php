@@ -64,7 +64,7 @@ Per qualsiasi richiesta di informazioni si pu&ograve; contattare l'organizzazion
 <dd>
 Per restare aggiornati sull'organizzazione dell'evento &egrave; sufficiente mandare una mail a
 <a href="mailto:fatemisapere@lugbs.linux.it">fatemisapere@lugbs.linux.it</a>, oppure seguirne
-la relativa <a href="https://www.facebook.com/groups/150529464715/">pagina Facebook</a>.
+la relativa <a href="https://www.facebook.com/events/1540162822864281/">pagina Facebook</a>.
 </dd>
 
 <dt>Per gli smanettoni in ascolto...</dt>
