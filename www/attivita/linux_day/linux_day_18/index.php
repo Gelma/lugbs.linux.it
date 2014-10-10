@@ -2,7 +2,7 @@
         include($_SERVER["DOCUMENT_ROOT"].'/includes/header.inc');
 ?>
 
-<H3 align="center">Diciottesimo Linux Day: le community intorno a Linux</H3>
+<H3 align="center">Diciottesimo Linux Day: Libert&agrave; digitali - le community intorno a Linux</H3>
 
 <dt>Data e Luogo</dt>
 <dd>
@@ -15,6 +15,9 @@ La manifestazione ha luogo <b>sabato 25 Ottobre 2014</b> presso il
 <a href="http://www.musilbrescia.it/minisiti/simil/web/musei-enti/brescia-provincia/sistema-musil/musil_rodengo_saiano/">Musil, Museo dell'industria e del lavoro</a>
 di Rodengo Saiano (per intenderci, basta parcheggiare all'<a href="http://goo.gl/maps/4VNga">Outlet di Franciacorta</a> e siete sul posto).<br />
 </dd>
+<dd>
+L'incontro &egrave; completamente libero, gratuito e aperto a tutti.<br>&Egrave; disponibile il <?php /*<a href="ProgrammaLinuxDay2013.pdf">programma della giornata</a> e*/?> il <a href="VolantinoLinuxDay2014.pdf"</a>volantino</a>.
+</dd>
 
 <dd>
 <iframe
@@ -24,12 +27,6 @@ di Rodengo Saiano (per intenderci, basta parcheggiare all'<a href="http://goo.gl
     src="http://umap.openstreetmap.fr/en/map/untitled-map_18981?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&datalayersControl=true&onLoadPanel=undefined">
 </iframe>
 <p><a href="http://umap.openstreetmap.fr/en/map/untitled-map_18981">Mappa ingrandita</a></p>
-<p><a href="http://osrm.at/9Jz">Indicazioni stradali da Brescia</a></p>
-</dd>
-
-<dd>
-L'incontro &egrave; completamente libero, gratuito e aperto a tutti.<br>
-&Egrave; disponibile <?php /*<a href="ProgrammaLinuxDay2013.pdf">programma della giornata</a> e*/?> il <a href="VolantinoLinuxDay2014.pdf"</a>volantino</a>.
 </dd>
 
 <dt>Programma</dt>
