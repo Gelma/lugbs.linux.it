@@ -16,7 +16,7 @@ La manifestazione ha luogo <b>sabato 25 Ottobre 2014</b> presso il
 di Rodengo Saiano (per intenderci, basta parcheggiare all'<a href="http://goo.gl/maps/4VNga">Outlet di Franciacorta</a> e siete sul posto).<br />
 </dd>
 <dd>
-L'incontro &egrave; completamente libero, gratuito e aperto a tutti.<br>&Egrave; disponibile il <?php /*<a href="ProgrammaLinuxDay2013.pdf">programma della giornata</a> e*/?> il <a href="VolantinoLinuxDay2014.pdf"</a>volantino</a>.
+L'incontro &egrave; completamente libero, gratuito e aperto a tutti.<br>&Egrave; disponibile il <a href="ProgrammaLinuxDay2014.pdf">programma della giornata</a> e il <a href="VolantinoLinuxDay2014.pdf"</a>volantino</a>.
 </dd>
 
 <dd>
