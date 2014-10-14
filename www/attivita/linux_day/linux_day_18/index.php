@@ -36,9 +36,9 @@ La giornata si articola in due momenti:
 <li>lo spazio mattutino, dalle 10 alle 12: sessione riservata ai talk. La scaletta si compone dei seguenti interventi:
    <ul>
    <li>h.10:00 (<a href="mailto:andrea.gelmini@lugbs.linux.it">Andrea Gelmini</a>)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Benvenuto e presentazione della giornata</b><hr>
-   <li>h.10:05 (<a href="mailto:ghidini@musilbrescia.it">dr. Fabio Ghidini</a>)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Didattica al <a href="http://www.musilbrescia.it/minisiti/simil/web/musei-enti/brescia-provincia/sistema-musil/musil_rodengo_saiano/index.html">MUSIL</a>: exhibit con Arduino</b><hr>
+   <li>h.10:05 (<a href="mailto:ghidini@musilbrescia.it">Fabio Ghidini</a>)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Didattica al <a href="http://www.musilbrescia.it/minisiti/simil/web/musei-enti/brescia-provincia/sistema-musil/musil_rodengo_saiano/index.html">MUSIL</a>: exhibit con Arduino</b><hr>
    <li>h.10:20 (<a href="mailto:mtrentini@comune.brescia.it">dr. Marco Trentini</a>, Responsabile Settore Informatica e <a href="http://www.comune.brescia.it/servizi/arteculturaeturismo/BSSmartCity/Pagine/Brescia-Smart-City.aspx">Smart City</a> del Comune di Brescia)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Brescia comune aperto: la strategia di migrazione verso sistemi aperti</b><hr>
-   <li>h.10:35 (<a href="mailto:claudio.tregambe@lugbs.linux.it">dr. Claudio Tregambe</a>)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Genesi di una stampante 3D fai-da-te</b><hr>
+   <li>h.10:35 (<a href="mailto:claudio.tregambe@lugbs.linux.it">rag. Claudio Tregambe</a>)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Genesi di una stampante 3D fai-da-te</b><hr>
    <li>h.10:55<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Pausa caff&egrave;</b><hr>
    <li>h.11:10 (<a href="mailto:info.expoint@gmail.com">dr. Michele Faini</a>, presidente di <a href="http://bresciafablab.wordpress.com/">FabLab Brescia</a>)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Piacere mi chiamo FabLab: artigiani 2.0</b><hr>
    <li>h.11:25 (<a href="mailto:luisa.ravelli@lugbs.linux.it">dr.ssa Luisa Ravelli</a>)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b><a href="http://www.porteapertesulweb.it/">Porte Aperte sul Web</a> e <a href="http://wiildos.it/">WiildOS</a>, fare rete nel mondo della scuola</b><hr>
