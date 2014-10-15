@@ -53,12 +53,22 @@ per la partecipazione mattutina, una segnalazione in via elettronica
 telefonica chiamando
 <a href="mailto:andrea.gelmini@lugbs.linux.it">Andrea Gelmini</a> al 328/7296628.
 
-<li>lo spazio pomeridiano, <b>dalle 14 alle 18</b>: stand monotematici ove chiedere informazioni e
-provare con mano i software presentati sulle postazioni liberamente utilizzabili.
-&Egrave; inoltre possibile portare il proprio PC per essere aiutati dai membri del LUG
-nell'installazione di Linux, o nella risoluzione di problemi incontrati.<br>
+<li>lo spazio pomeridiano, <b>dalle 14 alle 18</b>: stand monotematici ove
+chiedere informazioni e provare con mano le soluzioni hardware (come stampanti 3D,
+robot e droni), i software presentati (programmi didattici, soluzioni per
+le scuole, il multimediale, i giochi, i servizi, ecc.), il tutto sulle postazioni
+liberamente disponibili e utilizzabili.
+&Egrave; inoltre possibile portare il proprio PC per essere aiutati dai
+membri del LUG nell'installazione di Linux, o nella risoluzione di eventuali
+problemi riscontrati.<br>
 
-<p><li>lo spazio CoderDojo, <b>dalle 15 alle 18</b>. Per scoprire di cosa si tratta ti invitiamo a <a href="http://www.coderdojoitalia.org/">leggere qui</a>, mentre per l'iscrizione gratuita puoi usare l'<a href="https://www.eventbrite.com/e/registrazione-coderdojo-brescia-speciale-linux-day-13723620719">apposita pagina</a>. L'evento &egrave; reso possibile grazie allo sforzo congiunto tra LugBS, <a href="http://webdebs.org/">WEBdeBS</a> e il <a href="http://www.mattruffoni.it/">prof. Matteo Ruffoni</a>.
+<p><li>lo spazio CoderDojo, <b>dalle 15 alle 18</b>. Per scoprire di cosa si tratta
+ti invitiamo a <a href="http://www.coderdojoitalia.org/">leggere qui</a>, mentre
+per l'iscrizione gratuita puoi usare
+l'<a href="http://coderdojobs-linuxday2014.eventbrite.com">apposita pagina</a>.
+L'evento &egrave; reso possibile grazie allo sforzo congiunto tra
+<a href="http://webdebs.org/">WEBdeBS</a>, il <a href="http://www.mattruffoni.it/">prof. Matteo Ruffoni</a>,
+e il LugBS.
 </ul>
 
 </dd>
