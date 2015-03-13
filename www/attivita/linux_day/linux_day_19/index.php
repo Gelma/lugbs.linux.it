@@ -11,7 +11,7 @@ Nell'ambito della
 promossa da
 <a href="http://www.linux.it/">ILS</a>,
 il LugBS organizza il suo diciannovesimo Linux Day.<br>
-La manifestazione ha luogo <b>sabato 24 Ottobre 2014</b> in luogo da decidere<br />
+La manifestazione ha luogo <b>sabato 24 Ottobre 2015</b> in luogo da decidere<br />
 </dd>
 <dd>
 L'incontro &egrave; completamente libero, gratuito e aperto a tutti.
