@@ -49,8 +49,9 @@ La giornata si articola in tre momenti:
    <li>h.11:40 (<a href="mailto:daniele.barattieri@lugbs.linux.it">Daniele Barattieri</a>)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Protesi digitali e Software Libero.</b><hr>
    <li>h.11:55 (<a href="mailto:giovanni.turra@lugbs.linux.it">ing. Giovanni Turra</a>)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Moderni Yoda: imparare online.</b><hr>
    <li>h.12:10 (<a href="mailto:mattia.pescimoro@lugbs.linux.it">Mattia Pescimoro</a>)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b><a href="http://www.muhack.org/">µhack</a> presenta: <i>Hack 'n Smash</i>.</b><hr>
-   <li>h.12:20 (<a href="mailto:andrea.gelmini@lugbs.linux.it">Andrea Gelmini</a>)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>LibreOffice: siamo tutti sviluppatori!</b><hr>
-   <li>h.12:30<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Saluti</b><hr>
+   <li>h.12:20 (<a href="mailto:matteo.battaglio@lugbs.linux.it">ing. Matteo Battaglio</a>)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Strumenti liberi per teste chiuse!</b><hr>
+   <li>h.12:30 (<a href="mailto:andrea.gelmini@lugbs.linux.it">Andrea Gelmini</a>)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>LibreOffice: siamo tutti sviluppatori!</b><hr>
+   <li>h.12:40<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Saluti</b><hr>
    </ul>
 <p>Per poter offrire uno spazio confortevole &egrave; cortesemente richiesta,
 per la partecipazione mattutina, una segnalazione in via elettronica
