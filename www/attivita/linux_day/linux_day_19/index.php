@@ -18,6 +18,7 @@ di Rodengo Saiano (per intenderci, basta parcheggiare all'<a href="http://goo.gl
 <dd>
 L'incontro &egrave; completamente libero, gratuito e aperto a tutti.
 <?php /*<br>&Egrave; disponibile il <a href="ProgrammaLinuxDay2014.pdf">programma della giornata</a> e il <a href="VolantinoLinuxDay2014.pdf"</a>volantino</a>.*/ ?>
+&Egrave; disponibile il <a href="VolantinoLinuxDay2015.pdf"</a>volantino</a> della giornata.
 </dd>
 
 <dd>
@@ -35,27 +36,23 @@ L'incontro &egrave; completamente libero, gratuito e aperto a tutti.
 
 La giornata si articola in tre momenti:
 <ul>
-<li>lo spazio mattutino, dalle 10 alle 12: sessione riservata ai talk. La scaletta degli interventi non &egrave; ancora definitiva ma parleremo di:
-<ul>
-<li>scuole e coding
-<li>imaging e machine learning
-<li>collaborare a progetti open source
-<li>arduino per realizzare un proprio progetto
-</ul>
-<?php
-/*
+<li>lo spazio mattutino, dalle 10 alle 12.30, riservato ai talk.
    <ul>
    <li>h.10:00 (<a href="mailto:andrea.gelmini@lugbs.linux.it">Andrea Gelmini</a>)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Benvenuto e presentazione della giornata</b><hr>
-   <li>h.10:05 (<a href="mailto:ghidini@musilbrescia.it">Fabio Ghidini</a>)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Didattica al <a href="http://www.musilbrescia.it/minisiti/simil/web/musei-enti/brescia-provincia/sistema-musil/musil_rodengo_saiano/index.html">MUSIL</a>: exhibit con Arduino</b><hr>
-   <li>h.10:20 (<a href="mailto:mtrentini@comune.brescia.it">dr. Marco Trentini</a>, Responsabile Settore Informatica e <a href="http://www.comune.brescia.it/servizi/arteculturaeturismo/BSSmartCity/Pagine/Brescia-Smart-City.aspx">Smart City</a> del Comune di Brescia)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Brescia comune aperto: la strategia di migrazione verso sistemi aperti</b><hr>
-   <li>h.10:35 (<a href="mailto:claudio.tregambe@lugbs.linux.it">rag. Claudio Tregambe</a>)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Genesi di una stampante 3D fai-da-te</b><hr>
-   <li>h.10:55<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Pausa caff&egrave;</b><hr>
-   <li>h.11:10 (<a href="mailto:info.expoint@gmail.com">dr. Michele Faini</a>, presidente di <a href="http://bresciafablab.wordpress.com/">FabLab Brescia</a>)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Piacere mi chiamo FabLab: artigiani 2.0</b><hr>
-   <li>h.11:25 (<a href="mailto:luisa.ravelli@lugbs.linux.it">dr.ssa Luisa Ravelli</a>)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b><a href="http://www.porteapertesulweb.it/">Porte Aperte sul Web</a> e <a href="http://wiildos.it/">WiildOS</a>, fare rete nel mondo della scuola</b><hr>
-   <li>h.11:40 (<a href="mailto:mattia.pescimoro@lugbs.linux.it">Mattia Pescimoro</a>, fondatore di <a href="http://www.muhack.org/">µhack</a>)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>µhack, laboratorio di idee</b><hr>
-   <li>h.12:00<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Saluti</b><hr>
+   <li>h.10:05 (<a href="mailto:marco.manenti@lugbs.linux.it">dott. Marco Manenti</a>)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>La lingua delle cose: giochiamo a programmare. Esperienze di programmazione nell'infanzia.</b><hr>
+   <li>h.10:15 (<a href="mailto:giorgio.pasiniruffoni@lugbs.linux.it">ing. Giorgio Pasini Ruffoni</a>)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Bitcoin e gestionali liberi: un felice plugin.</b><hr>
+   <li>h.10:25 (<a href="mailto:alessandro.ferrari@lugbs.linux.it">ing. Alessandro Ferrari</a>)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Il computer come Van Gogh: la creativit&agrave; nella computer vision.</b><hr>
+   <li>h.10:40 (<a href="mailto:mattia.rizzolo@lugbs.linux.it">Mattia Rizzolo</a>)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>I nuovi Gutenberg: l'esperienza del gruppo di <a href="http://wiki.ubuntu-it.org/Fcm/">Full Circle Magazine Italia</a>.</b><hr>
+   <li>h.10:55 (<a href="mailto:alberto.bontempi@lugbs.linux.it">Alberto Bontempi</a>)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Stormageddon: storia di un amore tra i rifiuti digitali.</b><hr>
+   <li>h.11:10<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Pausa caff&egrave;</b><hr>
+   <li>h.11:25 (<a href="mailto:michele.faini@lugbs.linux.it">Michele Faini</a>)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Il FabLab Brescia e la stampante 3D di cioccolata.</b><hr>
+   <li>h.11:40 (<a href="mailto:daniele.barattieri@lugbs.linux.it">Daniele Barattieri</a>)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Protesi digitali e Software Libero.</b><hr>
+   <li>h.11:55 (<a href="mailto:giovanni.turra@lugbs.linux.it">ing. Giovanni Turra</a>)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Moderni Yoda: imparare online.</b><hr>
+   <li>h.12:10 (<a href="mailto:mattia.pescimoro@lugbs.linux.it">Mattia Pescimoro</a>)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b><a href="http://www.muhack.org/">µhack</a> presenta: <i>Hack 'n Smash</i>.</b><hr>
+   <li>h.12:20 (<a href="mailto:matteo.battaglio@lugbs.linux.it">ing. Matteo Battaglio</a>)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Strumenti liberi per teste chiuse!</b><hr>
+   <li>h.12:30 (<a href="mailto:andrea.gelmini@lugbs.linux.it">Andrea Gelmini</a>)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>LibreOffice: siamo tutti sviluppatori!</b><hr>
+   <li>h.12:40<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Saluti</b><hr>
    </ul>
- */ ?>
 <p>Per poter offrire uno spazio confortevole &egrave; cortesemente richiesta,
 per la partecipazione mattutina, una segnalazione in via elettronica
 (scrivendo una email a
