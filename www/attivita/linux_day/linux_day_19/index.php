@@ -18,7 +18,7 @@ di Rodengo Saiano (per intenderci, basta parcheggiare all'<a href="http://goo.gl
 <dd>
 L'incontro &egrave; completamente libero, gratuito e aperto a tutti.
 <?php /*<br>&Egrave; disponibile il <a href="ProgrammaLinuxDay2014.pdf">programma della giornata</a> e il <a href="VolantinoLinuxDay2014.pdf"</a>volantino</a>.*/ ?>
-&Egrave; disponibile il <a href="VolantinoLinuxDay2015.pdf"</a>volantino</a> della giornata.
+Sono disponibili il <a href="VolantinoLinuxDay2015.pdf">volantino della giornata</a> e il <a href="VolantinoLinuxDay2015talk.pdf">volantino della mattinata</a>.
 </dd>
 
 <dd>
@@ -39,7 +39,7 @@ La giornata si articola in tre momenti:
 <li>lo spazio mattutino, dalle 10 alle 12.30, riservato ai talk.
    <ul>
    <li>h.10:00 (<a href="mailto:andrea.gelmini@lugbs.linux.it">Andrea Gelmini</a>)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Benvenuto e presentazione della giornata</b><hr>
-   <li>h.10:05 (<a href="mailto:marco.manenti@lugbs.linux.it">dott. Marco Manenti</a>)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>La lingua delle cose: giochiamo a programmare. Esperienze di programmazione nell'infanzia.</b><hr>
+   <li>h.10:05 (<a href="mailto:marco.manenti@lugbs.linux.it">dott. Marco Manenti</a> e <a href="mailto:robotica@dreampuzzle.net">Silvia Cerioni</a>)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>La lingua delle cose: giochiamo a programmare. Esperienze di programmazione nell'infanzia.</b><hr>
    <li>h.10:15 (<a href="mailto:giorgio.pasiniruffoni@lugbs.linux.it">ing. Giorgio Pasini Ruffoni</a>)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Bitcoin e gestionali liberi: un felice plugin.</b><hr>
    <li>h.10:25 (<a href="mailto:alessandro.ferrari@lugbs.linux.it">ing. Alessandro Ferrari</a>)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Il computer come Van Gogh: la creativit&agrave; nella computer vision.</b><hr>
    <li>h.10:40 (<a href="mailto:mattia.rizzolo@lugbs.linux.it">Mattia Rizzolo</a>)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>I nuovi Gutenberg: l'esperienza del gruppo di <a href="http://wiki.ubuntu-it.org/Fcm/">Full Circle Magazine Italia</a>.</b><hr>
