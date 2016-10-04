@@ -16,8 +16,10 @@ discute delle iniziative e dei progetti futuri.
 
 <H3><a name="iscrizione"></a>Utilizzo della mailing list</H3>
 <p>Tutte le operazioni relative alla mailing list
-(subscribe/unsubscribe/accesso agli archivi) possono essere effettuate
+(iscrizione/rimozione/accesso agli archivi) possono essere effettuate
 dall'apposita <a href="/cgi-bin/mailman/listinfo/lug">interfaccia web</a>.
+Una volta iscritti, è possibile inviare messaggi alla lista semplicemente creando
+una nuova email ed inserendo <b>lug@lugbs.linux.it</b> come destinatario.
 
 <H3><a name="note"></a>Alcune note sull'utilizzo delle mailing list</H3>
 <ul>
