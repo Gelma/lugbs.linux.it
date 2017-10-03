@@ -2,7 +2,7 @@
         include($_SERVER["DOCUMENT_ROOT"].'/includes/header.inc');
 ?>
 
-<H3 align="center">Ventesimo Linux Day: I fatti nostri!</H3>
+<H3 align="center">Ventunesimo Linux Day: I fatti nostri!</H3>
 
 <dt>Data e Luogo</dt>
 <dd>
