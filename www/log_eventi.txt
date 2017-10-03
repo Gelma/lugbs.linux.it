@@ -1,4 +1,2 @@
-Sab. 22 Ottobre|Il LugBS aderisce al <a href="http://www.linuxday.it/">Linux Day Nazionale</a>. Tutti i dettagli nell'<a href="/attivita/linux_day/linux_day_20/">apposita sezione</a>.
-Sab. 8 Ottobre|Il LugBS, il <a href="http://www.lugman.net">LugMan</a> e il <a href="http://www.lugcr.it/">LugCR</a>, organizzano <a href="http://risotto.lugbs.linux.it/2016/09/13/risotto-junior-edition/">Risotto junior edition</a>. L'evento &egrave; aperto a tutti.
-Sab. 23 Aprile|Il LugBS, il <a href="http://www.lugman.net">LugMan</a> e il <a href="http://www.lugcr.it/">LugCR</a>, organizzano <a href="http://risotto.lugbs.linux.it/2016/04/06/risotto-qualcosa/">Risotto qualcosa</a>. L'evento &egrave; aperto a tutti.
-Ven. 1 Gennaio|L'archivio degli eventi per l'anno 2015 &egrave; disponibile nella sezione <a href="/novita/diario/2015/">Diario</a>.
+Sab. 28 Ottobre|Il LugBS aderisce al <a href="http://www.linuxday.it/">Linux Day Nazionale</a>. Tutti i dettagli nell'<a href="/attivita/linux_day/linux_day_21/">apposita sezione</a>.
+Dom. 1 Gennaio|L'archivio degli eventi per l'anno 2016 &egrave; disponibile nella sezione <a href="/novita/diario/2016/">Diario</a>.
