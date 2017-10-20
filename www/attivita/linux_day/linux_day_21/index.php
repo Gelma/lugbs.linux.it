@@ -17,7 +17,7 @@ di Rodengo Saiano (per intenderci, basta parcheggiare all'<a href="http://goo.gl
 </dd>
 <dd>
 L'incontro &egrave; completamente libero, gratuito e aperto a tutti.
-<!--Sono disponibili il <a href="VolantinoLinuxDay2015.pdf">volantino della giornata</a> e il <a href="VolantinoLinuxDay2015talk.pdf">volantino della mattinata</a>.-->
+&Egrave; disponibile il <a href="VolantinoLinuxDay2017.pdf">volantino della giornata</a>.
 </dd>
 
 <dd>
@@ -35,25 +35,20 @@ L'incontro &egrave; completamente libero, gratuito e aperto a tutti.
 
 La giornata si articola in tre momenti:
 <ul>
-<li>lo spazio mattutino, dalle 10 alle 12.30, riservato ai talk. In particolare, quest'anno, il tema riguarda
+<li>lo spazio mattutino, dalle 10 alle 12.00, riservato ai talk. In particolare, quest'anno, il tema riguarda
     la privacy e la gestione delle proprie informazioni. Ci focalizzeremo quindi sulle soluzioni libere per
     avere cura dei nostri dati.
-   <!--ul>
+   <ul>
    <li>h.10:00 (<a href="mailto:andrea.gelmini@lugbs.linux.it">Andrea Gelmini</a>)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Benvenuto e presentazione della giornata</b><hr>
-   <li>h.10:05 (<a href="mailto:marco.manenti@lugbs.linux.it">dott. Marco Manenti</a> e <a href="mailto:robotica@dreampuzzle.net">Silvia Cerioni</a>)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>La lingua delle cose: giochiamo a programmare. Esperienze di programmazione nell'infanzia.</b><hr>
-   <li>h.10:15 (<a href="mailto:giorgio.pasiniruffoni@lugbs.linux.it">ing. Giorgio Pasini Ruffoni</a>)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Bitcoin e gestionali liberi: un felice plugin.</b><hr>
-   <li>h.10:25 (<a href="mailto:alessandro.ferrari@lugbs.linux.it">ing. Alessandro Ferrari</a>)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Il computer come Van Gogh: la creativit&agrave; nella computer vision.</b><hr>
-   <li>h.10:40 (<a href="mailto:mattia.rizzolo@lugbs.linux.it">Mattia Rizzolo</a>)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>I nuovi Gutenberg: l'esperienza del gruppo di <a href="http://wiki.ubuntu-it.org/Fcm/">Full Circle Magazine Italia</a>.</b><hr>
-   <li>h.10:55 (<a href="mailto:alberto.bontempi@lugbs.linux.it">Alberto Bontempi</a>)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Stormageddon: storia di un amore tra i rifiuti digitali.</b><hr>
-   <li>h.11:10<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Pausa caff&egrave;</b><hr>
-   <li>h.11:25 (<a href="mailto:michele.faini@lugbs.linux.it">Michele Faini</a>)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Il FabLab Brescia e la stampante 3D di cioccolata.</b><hr>
-   <li>h.11:40 (<a href="mailto:daniele.barattieri@lugbs.linux.it">Daniele Barattieri</a>)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Protesi digitali e Software Libero.</b><hr>
-   <li>h.11:55 (<a href="mailto:giovanni.turra@lugbs.linux.it">ing. Giovanni Turra</a>)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Moderni Yoda: imparare online.</b><hr>
-   <li>h.12:10 (<a href="mailto:mattia.pescimoro@lugbs.linux.it">Mattia Pescimoro</a>)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b><a href="http://www.muhack.org/">µhack</a> presenta: <i>Hack 'n Smash</i>.</b><hr>
-   <li>h.12:20 (<a href="mailto:matteo.battaglio@lugbs.linux.it">ing. Matteo Battaglio</a>)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Strumenti liberi per teste chiuse!</b><hr>
-   <li>h.12:30 (<a href="mailto:andrea.gelmini@lugbs.linux.it">Andrea Gelmini</a>)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>LibreOffice: siamo tutti sviluppatori!</b><hr>
-   <li>h.12:40<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Saluti</b><hr>
-   </ul-->
+   <li>h.10:05 (<a href="mailto:andrea.gelmini@lugbs.linux.it">Andrea Gelmini</a>)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Cloud in casa.</b><hr>
+   <li>h.10:20 (<a href="mailto:bruno.pennati@lugbs.linux.it">Bruno Pennati</a>)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Solo Messaggi Sicuri, messaggistica libera e riservata.</b><hr>
+   <li>h.10:35 (<a href="mailto:bianca.ferrari@lugbs.linux.it">Bianca Ferrari</a>)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Social network e privacy: tutela, scelta, anonimato.</b><hr>
+   <li>h.10:55<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Pausa caff&egrave;</b><hr>
+   <li>h.11:05 (<a href="mailto:luca.cremonini@lugbs.linux.it">Luca Cremonini</a>)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>The Things Network.</b><hr>
+   <li>h.11:20 (<a href="mailto:alessandro.ferrari@lugbs.linux.it">Alessandro Ferrari</a>)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Intelligenza Artificiale, Robots e Open Source.</b><hr>
+   <li>h.11:40 (<a href="mailto:lug@lugbs.linux.it">--</a>)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Dati al sicuro con la cifratura.</b><hr>
+   <li>h.11:50<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Domande e saluti</b><hr>
+   </ul>
 <p>Per poter offrire uno spazio confortevole &egrave; cortesemente richiesta,
 per la partecipazione mattutina, una segnalazione in via elettronica
 (scrivendo una email a
@@ -61,21 +56,11 @@ per la partecipazione mattutina, una segnalazione in via elettronica
 telefonica chiamando
 <a href="mailto:andrea.gelmini@lugbs.linux.it">Andrea Gelmini</a> al 328/7296628.
 
-<li>lo spazio pomeridiano, <b>dalle 14 alle 18</b>: stand monotematici ove
-chiedere informazioni e provare con mano le soluzioni hardware (come stampanti 3D,
-robot e droni), i software presentati (programmi didattici, soluzioni per
-le scuole, il multimediale, i giochi, i servizi, ecc.), il tutto sulle postazioni
-liberamente disponibili e utilizzabili.
-&Egrave; inoltre possibile portare il proprio PC per essere aiutati dai
-membri del LUG nell'installazione di Linux, o nella risoluzione di eventuali
-problemi riscontrati.<br>
+<li>lo spazio pomeridiano, <b>dalle 14 alle 18</b>: stand tematici nei quali chiedere informazioni e provare soluzioni hardware e software libere (programmi didattici, soluzioni per servizi server, multimedia, arduino, raspberry, configurazione di servizi,...), il tutto sulle postazioni liberamente disponibili e utilizzabili.
+&Egrave; inoltre possibile portare il proprio PC per essere aiutati dai membri del LUG nell'installazione di Linux, di altro software libero, o nella risoluzione di eventuali problemi riscontrati.<br>
 
-<!--<p><li>lo spazio Hack 'n Smash, <b>dalle 15 alle 18</b>. Per scoprire di cosa si tratta
-ti invitiamo a <a href="http://www.muhack.org/eventi/2-hack-n-smash">leggere qui</a>, se sei interessato a partecipare
-prendi visione del regolamento <a href="Regolamento_HackNSmash.pdf">qui</a>. Per l'iscrizione gratuita, da effettuarsi entro il 17 ottobre, puoi usare il <a href="Iscrizione_HackNSmash.pdf">modulo di iscrizione</a>.
-Per tutte le informazioni aggiornate potete seguire l'<a href="https://www.facebook.com/events/376879079179943/">evento su Facebook</a>.
-L'evento &egrave; reso possibile grazie allo sforzo dei ragazzi del
-<a href="http://www.muhack.org/">µhack</a>.-->
+<p><li>Nel pomeriggio, <b>dalle 15 alle 17,30</b>, grazie alla collaborazione con i gruppi CoderDojoBS e WEBdeBS, si terrà un CoderDojo rivolto ai ragazzi dai 9 ai 13 anni. I CoderDojo sono incontri che permettono ai ragazzi di apprendere i concetti base della programmazione, per maggiori informazioni e per l'iscrizione gratuita visitare il <a href="https://www.eventbrite.it/e/biglietti-coderdojo-brescia-speciale-linux-day-2017-39078203960">sito</a>.
+
 </ul>
 
 </dd>
@@ -108,9 +93,8 @@ Saremo felici di conoscerti!
 <dt>Nei dintorni&#8230;</dt>
 <dd>
 Nella stessa giornata si svolgono <a href="http://www.linuxday.it/">Linux Day in tutta l'Italia</a>.
-<!--In particolare nella nostra provincia sono da segnalare gli eventi di
-<a href="http://lugotto.linux.it/categoria/66/Linux-Day-2015-Ist.-V.-Capirola-Leno-%28Brescia%29.html">Gottolengo</a> e
-<a href="http://www.kenparker.eu/LugCastegnato/viewtopic.php?id=786">Castegnato</a>.-->
+In particolare nella nostra provincia si segnala l'evento di
+<a href="http://lugotto.linux.it/categoria/68/Linux-Day-2017---Manerbio%3A-IIS-B.Pascal-e-Piccolo-Teatro-Comunale.html">Manerbio</a>.
 </dd>
 
 </dl>
