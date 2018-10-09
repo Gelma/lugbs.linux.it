@@ -35,6 +35,7 @@ L'incontro &egrave; completamente libero, gratuito e aperto a tutti.
 La giornata - quest'anno - si articola in un unico momento:
 <ul>
 <li>lo spazio pomeridiano, dalle 15 alle 18, riservato ai talk. Relatori e argomenti verranno resi noti via via.
+
 <? php
 /*
    <ul>
