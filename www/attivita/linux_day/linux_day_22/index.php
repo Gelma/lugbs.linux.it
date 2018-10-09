@@ -36,22 +36,6 @@ La giornata - quest'anno - si articola in un unico momento:
 <ul>
 <li>lo spazio pomeridiano, dalle 15 alle 18, riservato ai talk. Relatori e argomenti verranno resi noti via via.
 
-<? php
-/*
-   <ul>
-   <li>h.10:00 (<a href="mailto:andrea.gelmini@lugbs.linux.it">Andrea Gelmini</a>)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Benvenuto e presentazione della giornata</b><hr>
-   <li>h.10:05 (<a href="mailto:andrea.gelmini@lugbs.linux.it">Andrea Gelmini</a>)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Cloud in casa.</b><hr>
-   <li>h.10:20 (<a href="mailto:bruno.pennati@lugbs.linux.it">Bruno Pennati</a>)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Solo Messaggi Sicuri, messaggistica libera e riservata.</b><hr>
-   <li>h.10:35 (<a href="mailto:bianca.ferrari@lugbs.linux.it">Bianca Ferrari</a>)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Social network e privacy: tutela, scelta, anonimato.</b><hr>
-   <li>h.10:55<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Pausa caff&egrave;</b><hr>
-   <li>h.11:05 (<a href="mailto:luca.cremonini@lugbs.linux.it">Luca Cremonini</a>)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>The Things Network.</b><hr>
-   <li>h.11:20 (<a href="mailto:alessandro.ferrari@lugbs.linux.it">Alessandro Ferrari</a>)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Intelligenza Artificiale, Robots e Open Source.</b><hr>
-   <li>h.11:40 (<a href="mailto:lug@lugbs.linux.it">--</a>)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Dati al sicuro con la cifratura.</b><hr>
-   <li>h.11:50<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Domande e saluti</b><hr>
-   </ul>
-*/
-?>
-
 <p>Per poter offrire uno spazio confortevole &egrave; cortesemente richiesta,
 per la partecipazione mattutina, una segnalazione in via elettronica
 (scrivendo una email a
