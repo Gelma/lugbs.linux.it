@@ -11,7 +11,7 @@ Nell'ambito della
 promossa da
 <a href="http://www.linux.it/">ILS</a>,
 il LugBS organizza il suo ventiduesimo Linux Day.<br>
-La manifestazione ha luogo <b>sabato 27 Ottobre 2017</b> presso il
+La manifestazione ha luogo <b>sabato 27 Ottobre 2018</b> presso il
 <a href="http://www.musilbrescia.it/minisiti/simil/web/musei-enti/brescia-provincia/sistema-musil/musil_rodengo_saiano/">Musil, Museo dell'industria e del lavoro</a>
 di Rodengo Saiano (per intenderci, basta parcheggiare all'<a href="http://goo.gl/maps/4VNga">Outlet di Franciacorta</a> e siete sul posto).<br />
 </dd>
