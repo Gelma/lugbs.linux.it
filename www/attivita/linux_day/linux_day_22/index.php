@@ -1,8 +1,8 @@
-<?php   $titolo='LugBS &raquo; Attivit&agrave; &raquo; Linux Day &raquo; Ventunesima edizione';
+<?php   $titolo='LugBS &raquo; Attivit&agrave; &raquo; Linux Day &raquo; Ventiduesima edizione';
         include($_SERVER["DOCUMENT_ROOT"].'/includes/header.inc');
 ?>
 
-<H3 align="center">Ventunesimo Linux Day: I fatti nostri!</H3>
+<H3 align="center">Ventiduesimo Linux Day: Su le mani!</H3>
 
 <dt>Data e Luogo</dt>
 <dd>
@@ -10,14 +10,13 @@ Nell'ambito della
 <a href="http://www.linuxday.it/">Giornata Nazionale di Linux e del Software Libero</a>,
 promossa da
 <a href="http://www.linux.it/">ILS</a>,
-il LugBS organizza il suo ventunesimo Linux Day.<br>
-La manifestazione ha luogo <b>sabato 28 Ottobre 2017</b> presso il
+il LugBS organizza il suo ventiduesimo Linux Day.<br>
+La manifestazione ha luogo <b>sabato 27 Ottobre 2017</b> presso il
 <a href="http://www.musilbrescia.it/minisiti/simil/web/musei-enti/brescia-provincia/sistema-musil/musil_rodengo_saiano/">Musil, Museo dell'industria e del lavoro</a>
 di Rodengo Saiano (per intenderci, basta parcheggiare all'<a href="http://goo.gl/maps/4VNga">Outlet di Franciacorta</a> e siete sul posto).<br />
 </dd>
 <dd>
 L'incontro &egrave; completamente libero, gratuito e aperto a tutti.
-&Egrave; disponibile il <a href="VolantinoLinuxDay2017.pdf">volantino della giornata</a>.
 </dd>
 
 <dd>
@@ -33,11 +32,11 @@ L'incontro &egrave; completamente libero, gratuito e aperto a tutti.
 <dt>Programma</dt>
 <dd>
 
-La giornata si articola in tre momenti:
+La giornata - quest'anno - si articola in un unico momento:
 <ul>
-<li>lo spazio mattutino, dalle 10 alle 12.00, riservato ai talk. In particolare, quest'anno, il tema riguarda
-    la privacy e la gestione delle proprie informazioni. Ci focalizzeremo quindi sulle soluzioni libere per
-    avere cura dei nostri dati.
+<li>lo spazio pomeridiano, dalle 15 alle 18, riservato ai talk. Relatori e argomenti verranno resi noti via via.
+<? php
+/*
    <ul>
    <li>h.10:00 (<a href="mailto:andrea.gelmini@lugbs.linux.it">Andrea Gelmini</a>)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Benvenuto e presentazione della giornata</b><hr>
    <li>h.10:05 (<a href="mailto:andrea.gelmini@lugbs.linux.it">Andrea Gelmini</a>)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Cloud in casa.</b><hr>
@@ -49,17 +48,15 @@ La giornata si articola in tre momenti:
    <li>h.11:40 (<a href="mailto:lug@lugbs.linux.it">--</a>)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Dati al sicuro con la cifratura.</b><hr>
    <li>h.11:50<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Domande e saluti</b><hr>
    </ul>
+*/
+?>
+
 <p>Per poter offrire uno spazio confortevole &egrave; cortesemente richiesta,
 per la partecipazione mattutina, una segnalazione in via elettronica
 (scrivendo una email a
 <a href="mailto:linuxday@lugbs.linux.it">linuxday@lugbs.linux.it</a>, o
 telefonica chiamando
 <a href="mailto:andrea.gelmini@lugbs.linux.it">Andrea Gelmini</a> al 328/7296628.
-
-<li>lo spazio pomeridiano, <b>dalle 14 alle 18</b>: stand tematici nei quali chiedere informazioni e provare soluzioni hardware e software libere (programmi didattici, soluzioni per servizi server, multimedia, arduino, raspberry, configurazione di servizi,...), il tutto sulle postazioni liberamente disponibili e utilizzabili.
-&Egrave; inoltre possibile portare il proprio PC per essere aiutati dai membri del LUG nell'installazione di Linux, di altro software libero, o nella risoluzione di eventuali problemi riscontrati.<br>
-
-<p><li>Nel pomeriggio, <b>dalle 15 alle 17,30</b>, grazie alla collaborazione con i gruppi CoderDojoBS e WEBdeBS, si terrà un CoderDojo rivolto ai ragazzi dai 9 ai 13 anni. I CoderDojo sono incontri che permettono ai ragazzi di apprendere i concetti base della programmazione, per maggiori informazioni e per l'iscrizione gratuita visitare il <a href="https://www.eventbrite.it/e/biglietti-coderdojo-brescia-speciale-linux-day-2017-39078203960">sito</a>.
 
 </ul>
 
@@ -93,8 +90,8 @@ Saremo felici di conoscerti!
 <dt>Nei dintorni&#8230;</dt>
 <dd>
 Nella stessa giornata si svolgono <a href="http://www.linuxday.it/">Linux Day in tutta l'Italia</a>.
-In particolare nella nostra provincia si segnala l'evento di
-<a href="http://lugotto.linux.it/categoria/68/Linux-Day-2017---Manerbio%3A-IIS-B.Pascal-e-Piccolo-Teatro-Comunale.html">Manerbio</a>.
+In particolare nella nostra provincia si segnala l'evento del
+<a href="https://lugotto.it/2018/09/24/linux-day-verolavecchia-world-wild-web/">Lugotto</a>.
 </dd>
 
 </dl>

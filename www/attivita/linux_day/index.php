@@ -23,6 +23,7 @@ fino ad oggi &egrave; facilmente riassumibile con lo specchietto qui sotto:
 <tr>
  <td><b>data</b></td><td><b>tema</b></td>
 </tr>
+<tr> <td>27/10/2018</td><td><p><a href="linux_day_22/">Linux Day Nazionale: Su le mani!</a></td> </tr>
 <tr> <td>28/10/2017</td><td><p><a href="linux_day_21/">Linux Day Nazionale: I fatti nostri</a></td> </tr>
 <tr> <td>22/10/2016</td><td><p><a href="linux_day_20/">Linux Day Nazionale: Siamo tutti sviluppatori</a></td> </tr>
 <tr> <td>24/10/2015</td><td><p><a href="linux_day_19/">Linux Day Nazionale: Stile libero</a></td> </tr>
