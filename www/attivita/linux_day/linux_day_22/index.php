@@ -32,10 +32,19 @@ L'incontro &egrave; completamente libero, gratuito e aperto a tutti.
 <dt>Programma</dt>
 <dd>
 
-La giornata - quest'anno - si articola in un unico momento:
-<ul>
-<li>lo spazio pomeridiano, dalle 15 alle 18, riservato ai talk. Relatori e argomenti verranno resi noti via via.
-
+La giornata - quest'anno - si articola in un unico momento, lo spazio pomeridiano. Dalle <b>15:00 alle 18:00</b>, riservato ai talk:
+   <ul>
+   <li>h.15:00 (<a href="mailto:andrea.gelmini@lugbs.linux.it">Andrea Gelmini</a>)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Benvenuto e presentazione della giornata</b><hr>
+   <li>h.15:05 (<a href="mailto:fabio.ghidini@lugbs.linux.it">Fabio Ghidini</a>)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Augmented Seality SandBox al Musil di Cedegolo: un progetto open-source</b><hr>
+   <li>h.15:20 (<a href="mailto:luisa.ravelli@lugbs.linux.it">Luisa Ravelli</a>)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Il progetto Common Voice</b><hr>
+   <li>h.15:35 (<a href="mailto:fulvio.berardi@lugbs.linux.it">Fulvio Berardi</a>)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Imparare sul ueb</b><hr>
+   <li>h.15:50 (<a href="mailto:bruno.pennati@lugbs.linux.it">Bruno Pennati</a>)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Mastodon e i social network federati</b><hr>
+   <li>h.16:05 (<a href="mailto:matteo.ruffoni@lugbs.linux.it">Matteo Ruffoni</a>)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Wikipedia e Vikidia</b><hr>
+   <li>h.16:25 (<a href="mailto:andrea.gelmini@lugbs.linux.it">Andrea Gelmini</a>)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>L'ecosistema di LibreOffice</b><hr>
+   <li>h.16:50<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Domande e saluti</b>
+   <li>h.17:00<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Aperitivo e cazzeggio</b>
+   <li>h.18:00<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Chiusura della giornata</b>
+   </ul>
 <p>Per poter offrire uno spazio confortevole &egrave; cortesemente richiesta,
 per la partecipazione mattutina, una segnalazione in via elettronica
 (scrivendo una email a
@@ -43,7 +52,6 @@ per la partecipazione mattutina, una segnalazione in via elettronica
 telefonica chiamando
 <a href="mailto:andrea.gelmini@lugbs.linux.it">Andrea Gelmini</a> al 328/7296628.
 
-</ul>
 
 </dd>
 
