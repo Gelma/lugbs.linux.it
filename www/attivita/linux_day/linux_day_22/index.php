@@ -42,7 +42,7 @@ La giornata - quest'anno - si articola in un unico momento, lo spazio pomeridian
    <li>h.16:05 (<a href="mailto:matteo.ruffoni@lugbs.linux.it">Matteo Ruffoni</a>)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Wikipedia e Vikidia</b><hr>
    <li>h.16:25 (<a href="mailto:andrea.gelmini@lugbs.linux.it">Andrea Gelmini</a>)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>L'ecosistema di LibreOffice</b><hr>
    <li>h.16:50<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Domande e saluti</b>
-   <li>h.17:00<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Aperitivo e cazzeggio</b>
+   <li>h.17:00<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Aperitivo e socialit&agrave;</b>
    <li>h.18:00<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Chiusura della giornata</b>
    </ul>
 <p>Per poter offrire uno spazio confortevole &egrave; cortesemente richiesta,
