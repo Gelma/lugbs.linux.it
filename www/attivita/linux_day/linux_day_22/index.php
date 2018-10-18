@@ -46,11 +46,11 @@ La giornata - quest'anno - si articola in un unico momento, lo spazio pomeridian
    <li>h.18:00<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Chiusura della giornata</b>
    </ul>
 <p>Per poter offrire uno spazio confortevole &egrave; cortesemente richiesta,
-per la partecipazione mattutina, una segnalazione in via elettronica
-(scrivendo una email a
+per la partecipazione, una segnalazione in forma elettronica
+scrivendo una email a
 <a href="mailto:linuxday@lugbs.linux.it">linuxday@lugbs.linux.it</a>, o
 telefonica chiamando
-<a href="mailto:andrea.gelmini@lugbs.linux.it">Andrea Gelmini</a> al 328/7296628.
+<a href="mailto:andrea.gelmini@lugbs.linux.it">Andrea Gelmini</a> il numero 328/7296628.
 
 
 </dd>
