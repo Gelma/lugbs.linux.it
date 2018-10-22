@@ -9,6 +9,7 @@
 	<META HTTP-EQUIV="Content-Type" content="text/html; charset=utf-8">
 	<META HTTP-EQUIV="Content-Language" CONTENT="it-IT">
 	<META NAME="description" CONTENT="Linux User Group di Brescia - <?php echo "$titolo";?>">
+	<META NAME="viewport" CONTENT="width=device-width, initial-scale=1">
 	<LINK REL="stylesheet" href="/includes/lugbs.css" type="text/css">
 	<LINK REL="shortcut icon" href="/favicon.ico" type="image/x-icon">
 	<link rel="alternate" type="application/rss+xml" title="LugBS - RSS" href="http://lugbs.linux.it/rss2.0/">
@@ -21,6 +22,15 @@ document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.
 var pageTracker = _gat._getTracker("UA-3626063-1");
 pageTracker._initData();
 pageTracker._trackPageview();
+</script>
+<script type="text/javascript">
+function on_menu_click() {
+ if (document.getElementById("testissima").style.display != "") {
+  document.getElementById("testissima").style.display = "";
+  } else {
+  document.getElementById("testissima").style.display = "inline";
+  }
+}
 </script>
 <!-- <a href="http://lugbs.linux.it/plugins/bond.php">select</a> -->
 <BODY VLINK="blue" BGCOLOR="silver" TEXT="black" LINK="blue" ALINK="red">
