@@ -10,5 +10,5 @@ o nel formato nuovo per gli anni <a href="2001/">2001</a>,
 <a href="2008/">2008</a>, <a href="2009/">2009</a>, <a href="2010/">2010</a>,
 <a href="2011/">2011</a>, <a href="2012/">2012</a>, <a href="2013/">2013</a>,
 <a href="2014/">2014</a>, <a href="2015/">2015</a>, <a href="2016/">2016</a>
-<a href="2017/">2017</a>.
+<a href="2017/">2017</a> e <a href="2015/">2018</a>.
 <?php include($_SERVER["DOCUMENT_ROOT"].'/includes/footer.inc'); ?>
