@@ -75,7 +75,7 @@ problemi riscontrati.<br>
 <dt>Contatti</dt>
 <dd>
 Per qualsiasi richiesta di informazioni si pu&ograve; contattare l'organizzazione scrivendo all'indirizzo
-<a href="mailto:linuxday@lugbs.linux.it">linuxday@lugbs.linux.it</a>, oppure chiamando/scrivendo/Telegrammando o Whatsappando Andrea Gelmini
+<a href="mailto:linuxday@lugbs.linux.it">linuxday@lugbs.linux.it</a>, oppure chiamando/scrivendo/Telegrammando o Whatsappando
 <a href="mailto:andrea.gelmini@lugbs.linux.it">Andrea Gelmini</a> al numero 328/7296628.
 </dd>
 
