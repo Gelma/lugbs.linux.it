@@ -10,7 +10,7 @@ Nell'ambito della
 <a href="http://www.linuxday.it/">Giornata Nazionale di Linux e del Software Libero</a>,
 promossa da
 <a href="http://www.linux.it/">ILS</a>,
-il LugBS insieme al <a href="https://lugotto.it/">LugOtto</a>organizza il suo ventitreesimo Linux Day, celebrando con l'occasione anche il suo ventesimo anno di Linux Day.<br>
+il LugBS insieme al <a href="https://lugotto.it/">Lugotto</a>organizza il suo ventitreesimo Linux Day, celebrando con l'occasione anche il suo ventesimo anno di Linux Day.<br>
 La manifestazione ha luogo <b>sabato 26 Ottobre 2019</b> presso il
 <a href="http://www.musilbrescia.it/minisiti/simil/web/musei-enti/brescia-provincia/sistema-musil/musil_rodengo_saiano/">Musil, Museo dell'industria e del lavoro</a>
 di Rodengo Saiano (per intenderci, basta parcheggiare all'<a href="http://goo.gl/maps/4VNga">Outlet di Franciacorta</a> e siete sul posto).<br />
