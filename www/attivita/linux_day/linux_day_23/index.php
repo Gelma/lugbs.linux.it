@@ -10,7 +10,7 @@ Nell'ambito della
 <a href="http://www.linuxday.it/">Giornata Nazionale di Linux e del Software Libero</a>,
 promossa da
 <a href="http://www.linux.it/">ILS</a>,
-il LugBS insieme al <a href="https://lugotto.it/">LugOtto</a>organizza il suo ventitreesimo Linux Day, celebrando con l'occasione anche il suo ventesimo anno di Linux Day.<br>
+il LugBS insieme al <a href="https://lugotto.it/">Lugotto</a> organizza il suo ventitreesimo Linux Day, celebrando con l'occasione anche il suo ventesimo anno di Linux Day.<br>
 La manifestazione ha luogo <b>sabato 26 Ottobre 2019</b> presso il
 <a href="http://www.musilbrescia.it/minisiti/simil/web/musei-enti/brescia-provincia/sistema-musil/musil_rodengo_saiano/">Musil, Museo dell'industria e del lavoro</a>
 di Rodengo Saiano (per intenderci, basta parcheggiare all'<a href="http://goo.gl/maps/4VNga">Outlet di Franciacorta</a> e siete sul posto).<br />
@@ -33,25 +33,22 @@ L'incontro &egrave; completamente libero, gratuito e aperto a tutti.
 <dt>Programma</dt>
 <dd>
 
-La giornata si articola in tre momenti:
+La giornata si articola in due momenti:
 <ul>
-<li>lo spazio mattutino, dalle 10 alle 12.30, riservato ai talk, che verranno pubblicati in questi giorni.
-   <!--ul>
+<li>lo spazio mattutino, dalle 10 alle 12, riservato ai talk che introdurranno il tema dell'intelligenza artificiale da vari punti di vista.
+   <ul>
    <li>h.10:00 (<a href="mailto:andrea.gelmini@lugbs.linux.it">Andrea Gelmini</a>)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Benvenuto e presentazione della giornata</b><hr>
-   <li>h.10:05 (<a href="mailto:marco.manenti@lugbs.linux.it">dott. Marco Manenti</a> e <a href="mailto:robotica@dreampuzzle.net">Silvia Cerioni</a>)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>La lingua delle cose: giochiamo a programmare. Esperienze di programmazione nell'infanzia.</b><hr>
-   <li>h.10:15 (<a href="mailto:giorgio.pasiniruffoni@lugbs.linux.it">ing. Giorgio Pasini Ruffoni</a>)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Bitcoin e gestionali liberi: un felice plugin.</b><hr>
-   <li>h.10:25 (<a href="mailto:alessandro.ferrari@lugbs.linux.it">ing. Alessandro Ferrari</a>)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Il computer come Van Gogh: la creativit&agrave; nella computer vision.</b><hr>
-   <li>h.10:40 (<a href="mailto:mattia.rizzolo@lugbs.linux.it">Mattia Rizzolo</a>)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>I nuovi Gutenberg: l'esperienza del gruppo di <a href="http://wiki.ubuntu-it.org/Fcm/">Full Circle Magazine Italia</a>.</b><hr>
-   <li>h.10:55 (<a href="mailto:alberto.bontempi@lugbs.linux.it">Alberto Bontempi</a>)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Stormageddon: storia di un amore tra i rifiuti digitali.</b><hr>
+   <li>h.10:05 (<a href="mailto:giovanni.turra@lugbs.linux.it">Giovanni Turra</a>)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Back to the AI</b><hr>
+   <li>h.10:25 (<a href="mailto:vincenzo.oliviero@lugbs.linux.it">Vincenzo Oliviero</a>)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>No Hat Conference, io c'ero</b><hr>
+   <li>h.10:35 (<a href="mailto:emilio.magri@lugbs.linux.it">Emilio Magri</a>)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Prove pratiche di machine learning</b><hr>
+   <li>h.10:50 (<a href="mailto:silvia.cibola@lugbs.linux.it">Silvia Cibola</a>)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Il mio primo bot per Telegram</b><hr>
+   <li>h.11:00 (<a href="mailto:luisa.ravelli@lugbs.linux.it">Luisa Ravelli</a>)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Il progetto Common Voice</b><hr>
    <li>h.11:10<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Pausa caff&egrave;</b><hr>
-   <li>h.11:25 (<a href="mailto:michele.faini@lugbs.linux.it">Michele Faini</a>)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Il FabLab Brescia e la stampante 3D di cioccolata.</b><hr>
-   <li>h.11:40 (<a href="mailto:daniele.barattieri@lugbs.linux.it">Daniele Barattieri</a>)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Protesi digitali e Software Libero.</b><hr>
-   <li>h.11:55 (<a href="mailto:giovanni.turra@lugbs.linux.it">ing. Giovanni Turra</a>)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Moderni Yoda: imparare online.</b><hr>
-   <li>h.12:10 (<a href="mailto:mattia.pescimoro@lugbs.linux.it">Mattia Pescimoro</a>)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b><a href="http://www.muhack.org/">µhack</a> presenta: <i>Hack 'n Smash</i>.</b><hr>
-   <li>h.12:20 (<a href="mailto:matteo.battaglio@lugbs.linux.it">ing. Matteo Battaglio</a>)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Strumenti liberi per teste chiuse!</b><hr>
-   <li>h.12:30 (<a href="mailto:andrea.gelmini@lugbs.linux.it">Andrea Gelmini</a>)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>LibreOffice: siamo tutti sviluppatori!</b><hr>
-   <li>h.12:40<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Saluti</b><hr>
-   </ul-->
+   <li>h.11:25 (<a href="mailto:simone.bignetti@lugbs.linux.it">Simone Bignetti</a>)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Sandwich machine</b><hr>
+   <li>h.11:35 (<a href="mailto:enrico.donelli@lugbs.linux.it">Enrico Donelli</a>)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Riconoscimento delle targhe, sembra facile</b><hr>
+   <li>h.11:45 (lugBS</a>)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>20 anni di Linux Day a Brescia</b><hr>
+   <li>h.11:55<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Domande e saluti</b><hr>
+   </ul>
 <p>Per poter offrire uno spazio confortevole &egrave; cortesemente richiesta,
 per la partecipazione mattutina, una segnalazione in via elettronica
 (scrivendo una email a
