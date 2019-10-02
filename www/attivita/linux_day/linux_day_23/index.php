@@ -1,8 +1,8 @@
-<?php   $titolo='LugBS &raquo; Attivit&agrave; &raquo; Linux Day &raquo; Ventesima edizione';
+<?php   $titolo='LugBS &raquo; Attivit&agrave; &raquo; Linux Day &raquo; Ventitreesima edizione';
         include($_SERVER["DOCUMENT_ROOT"].'/includes/header.inc');
 ?>
 
-<H3 align="center">Ventitreesimo Linux Day: Ventanni di Linux Day bresciano!</H3>
+<H3 align="center">Ventitreesimo Linux Day: vent'anni di Linux Day bresciano!</H3>
 
 <dt>Data e Luogo</dt>
 <dd>
