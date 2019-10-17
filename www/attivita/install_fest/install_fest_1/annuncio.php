@@ -20,7 +20,7 @@ luogo!!!!! ***<br>
 <p>
 *********************************************************************<br>
 
-Ci troviamo Sabato 20 aprile ore 14 presso L'istituto Moretto<br>
+Ci troviamo Sabato 20 aprile 2002 ore 14 presso L'istituto Moretto<br>
 (Via Apollonio, 21 - Brescia)
 <br>
 

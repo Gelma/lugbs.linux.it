@@ -2,7 +2,7 @@
 <H3 align="center">Install Fest</H3>
 <p>
 Il Linux User Group di Brescia sta organizzando un'install fest che si terr&agrave;
-durante il mese di aprile.
+durante il mese di aprile 2002.
 </p>
 <p>
 Per chi non sapesse cosa &egrave; un install fest, &egrave; presto detto: si tratta di un

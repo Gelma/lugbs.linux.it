@@ -1,5 +1,5 @@
 <?php include("../../../includes/header.inc"); ?>
-<H3 align="center">Pinguini a Bovezzo?</H3>
+<H3 align="center">Pinguini a Bovezzo? (Nota Bene: evento avvenuto in passato) </H3>
 <ul>
  <li>se credi che senza Windows un computer non possa funzionare
  <li>se pensi sia giusto che l'informatica sia propriet&agrave; e
@@ -15,5 +15,5 @@
 (AMICI LINUX BOVEZZO)</b></p>
 <p>gli incontri si svolgono tutti i <u>mercoled&igrave; sera</u> alle
    <u>ore 20.30</u> nell'<u>aula B</u> del seminterrato della
-   <u>Scuola Materna</u> in <u>via Veneto</u>
+   <u>Scuola Materna</u> in <u>via Veneto</u> (Nota Bene: evento avvenuto in passato)
 <?php include("../../../includes/footer.inc"); ?>
