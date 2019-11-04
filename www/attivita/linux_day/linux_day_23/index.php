@@ -38,14 +38,14 @@ La giornata si articola in due momenti:
 <li>lo spazio mattutino, dalle 10 alle 12, riservato ai talk che introdurranno il tema dell'intelligenza artificiale da vari punti di vista.
    <ul>
    <li>h.10:00 (<a href="mailto:andrea.gelmini@lugbs.linux.it">Andrea Gelmini</a>)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Benvenuto e presentazione della giornata</b><hr>
-   <li>h.10:05 (<a href="mailto:giovanni.turra@lugbs.linux.it">Giovanni Turra</a>)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Back to the AI</b><hr>
-   <li>h.10:25 (<a href="mailto:vincenzo.oliviero@lugbs.linux.it">Vincenzo Oliviero</a>)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>No Hat Conference, io c'ero</b><hr>
-   <li>h.10:35 (<a href="mailto:emilio.magri@lugbs.linux.it">Emilio Magri</a>)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Prove pratiche di machine learning</b><hr>
-   <li>h.10:50 (<a href="mailto:silvia.cibola@lugbs.linux.it">Silvia Cibola</a>)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Il mio primo bot per Telegram</b><hr>
-   <li>h.11:00 (<a href="mailto:luisa.ravelli@lugbs.linux.it">Luisa Ravelli</a>)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Il progetto Common Voice</b><hr>
+   <li>h.10:05 (<a href="mailto:giovanni.turra@lugbs.linux.it">Giovanni Turra</a>)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Back to the AI</b> (<a href="https://drive.google.com/open?id=1lUf8iYrE7XMozpVwYzl-aK9odhyO4Yf7JZJtc4lpR-k">Presentazione</a>)<hr>
+   <li>h.10:25 (<a href="mailto:vincenzo.oliviero@lugbs.linux.it">Vincenzo Oliviero</a>)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>No Hat Conference, io c'ero</b> (<a href="atti/NoHat.pdf">Presentazione)</a><hr>
+   <li>h.10:35 (<a href="mailto:emilio.magri@lugbs.linux.it">Emilio Magri</a>)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Prove pratiche di machine learning</b> (<a href="atti/ProvePraticheMachineLearning.pdf">Presentazione</a> e <a href="atti/bookmarks_ML.html">riferimenti</a>)<hr>
+   <li>h.10:50 (<a href="mailto:silvia.cibola@lugbs.linux.it">Silvia Cibola</a>)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Il mio primo bot per Telegram</b> (<a href="atti/bot_telegram.pdf">Presentazione</a>)<hr>
+   <li>h.11:00 (<a href="mailto:luisa.ravelli@lugbs.linux.it">Luisa Ravelli</a>)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Il progetto Common Voice</b> (<a href="atti/CommonVoice.pdf">Presentazione</a>)<hr>
    <li>h.11:10<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Pausa caff&egrave;</b><hr>
-   <li>h.11:25 (<a href="mailto:simone.bignetti@lugbs.linux.it">Simone Bignetti</a>)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Sandwich machine</b><hr>
-   <li>h.11:35 (<a href="mailto:enrico.donelli@lugbs.linux.it">Enrico Donelli</a>)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Riconoscimento delle targhe, sembra facile</b><hr>
+   <li>h.11:25 (<a href="mailto:simone.bignetti@lugbs.linux.it">Simone Bignetti</a>)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Sandwich machine</b> (<a href="atti/Sandwich.pdf">Presentazione</a> e <a href="atti/piegatrice.mp4">video</a>)<hr>
+   <li>h.11:35 (<a href="mailto:enrico.donelli@lugbs.linux.it">Enrico Donelli</a>)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Riconoscimento delle targhe, sembra facile</b> (<a href="atti/targhe.pdf">Presentazione</a>)<hr>
    <li>h.11:45 (lugBS</a>)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>20 anni di Linux Day a Brescia</b><hr>
    <li>h.11:55<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Domande e saluti</b><hr>
    </ul>
