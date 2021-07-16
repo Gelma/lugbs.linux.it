@@ -121,12 +121,24 @@ dd.programma {
 	padding-left: 1em;
 }
 
-#mostratestissima { display: none; }
+#mostratestissima { display: none; } /* inutile: manca l'elemento :( */
+
+table.main-table { border-collapse: collapse; }
+td.main-table { padding: 25; }
+table.content-table { border-collapse: collapse; }
+td.content-table { padding: 4; }
 
 @media only screen and (max-width: 768px) {
 	h1 { font-size: medium; }
-	#testissima {
-		display: none;
-	}
-	#mostratestissima { display: inline; }
+	#testissima { display: none; } /* inutile: manca l'elemento :( */
+	#mostratestissima { display: inline; } /* inutile: manca l'elemento :( */
+
+	body { margin: 0; }
+
+	td.main-table { padding: 0; }
+
+	table.border-table { border-collapse: collapse; }
+
+	table.content-table { width: 100% }
+	td.content-table { padding: 0; }
 }
