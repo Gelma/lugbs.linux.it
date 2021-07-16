@@ -1,4 +1,4 @@
-<?
+<?php
 /*
 $Id: rss2writer.class.php,v 1.1 2006/07/24 21:14:12 cvsuser Exp $
 
