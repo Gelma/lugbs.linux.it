@@ -1,9 +1,9 @@
 <?php include("../../../includes/header.inc"); ?>
 <h3 align="center">Diario del lugBS - 1998</h3>
-<h4>Diario del primo anno di vita del LUG scritto dai soci che hanno fatto 
+<h4>Diario del primo anno di vita del LUG scritto dai soci che hanno fatto
 crescere il lugBS</h4>
 <div id="commento">
- Il tono del diario Ë volutamente ironico (anche se non ci sono le emoticon sorridenti, altrimenti 
+ Il tono del diario √® volutamente ironico (anche se non ci sono le emoticon sorridenti, altrimenti
  sarebbe pieno solo di quelle...)
 </div>
 <div id="brodo">
@@ -13,15 +13,15 @@ crescere il lugBS</h4>
  Tarda primavera '98
  </dt>
  <dd>
-Il '98 rimarr‡ nella storia dell'informatica come l'anno dell'enorme crescita di Linux nel mondo. Nella sperduta provincia di Brescia com'Ë la situazione?<br>
-Succede molte persone stanno gi‡ utilizzando Linux, ciascuna con una motivazione ben precisa.
-C'Ë chi Ë costretto a studiarlo all'Universit‡, magari per finire la tesi, ma che ne verr‡ illuminato (o folgorato), fino a diventare un "profeta" del verbo Linux.<br>
-C'Ë chi lo usa per scelta e chi invece Ë costretto (per motivi di lavoro o per altre necessit‡) ad utilizzare controvoglia altri sistemi operativi (Ë inutile dire quali...).<br>
-C'Ë chi ne ha sentito parlare e vorrebbe saperne di pi˘.
+Il '98 rimarr√† nella storia dell'informatica come l'anno dell'enorme crescita di Linux nel mondo. Nella sperduta provincia di Brescia com'√® la situazione?<br>
+Succede molte persone stanno gi√† utilizzando Linux, ciascuna con una motivazione ben precisa.
+C'√® chi √® costretto a studiarlo all'Universit√†, magari per finire la tesi, ma che ne verr√† illuminato (o folgorato), fino a diventare un "profeta" del verbo Linux.<br>
+C'√® chi lo usa per scelta e chi invece √® costretto (per motivi di lavoro o per altre necessit√†) ad utilizzare controvoglia altri sistemi operativi (√® inutile dire quali...).<br>
+C'√® chi ne ha sentito parlare e vorrebbe saperne di pi√π.
  <br><br>
- <i>Nota e riflessione serie: perchÈ non Ë nato un lugBS prima del '98?</i><br>
-Fondamentalmente fino a questa data la comunit‡ Linux Ë stata relegata in nicchie ben definite (universit‡, centri di ricerche, aziende innovative); la nascita di un LUG a Brescia avrebbe relegato il LUG stesso a uno di questi poli, magari con benefici immediati, ma senza il vero spirito che dovrebbe motivare i LUG (che Ë la crescita di Linux, ma soprattutto della comunit‡ che lo compone).<br>
-Solo con l'aggiunta dell'utente medio, dello smanettone che fino a ieri ha usato Windows, del cusioso Ë stato possibile realizzare un LUG che, prima di tutto, Ë un gruppo di amici (molti dei quali prima non si conoscevano assolutamente), di idee anche diverse, ma con la comune passione dell'informatica, ed in particolare di Linux.
+ <i>Nota e riflessione serie: perch√© non √® nato un lugBS prima del '98?</i><br>
+Fondamentalmente fino a questa data la comunit√† Linux √® stata relegata in nicchie ben definite (universit√†, centri di ricerche, aziende innovative); la nascita di un LUG a Brescia avrebbe relegato il LUG stesso a uno di questi poli, magari con benefici immediati, ma senza il vero spirito che dovrebbe motivare i LUG (che √® la crescita di Linux, ma soprattutto della comunit√† che lo compone).<br>
+Solo con l'aggiunta dell'utente medio, dello smanettone che fino a ieri ha usato Windows, del cusioso √® stato possibile realizzare un LUG che, prima di tutto, √® un gruppo di amici (molti dei quali prima non si conoscevano assolutamente), di idee anche diverse, ma con la comune passione dell'informatica, ed in particolare di Linux.
  </dd>
 </dl>
 </div>
@@ -31,7 +31,7 @@ Solo con l'aggiunta dell'utente medio, dello smanettone che fino a ieri ha usato
 <dl>
  <dt>24/06/98 - Nasce l'idea di realizzare un LUG a Brescia</dt>
 
- <dd>Un tesista dell'Universit‡ di Brescia (Luciano Ghezzi, alias Lucky) sforna l'idea di fondare un gruppo di utenti Linux a Brescia, e questo la dice lunga su quanto effettivamente avesse da fare...<br>
+ <dd>Un tesista dell'Universit√† di Brescia (Luciano Ghezzi, alias Lucky) sforna l'idea di fondare un gruppo di utenti Linux a Brescia, e questo la dice lunga su quanto effettivamente avesse da fare...<br>
 Decide di lanciare un appello sul newsgoup i.c.l. (it.comp.linux) con il nobile intento di raggruppare un po' di persone per una cena.<br>
 Al suo appello rispondono solo due persone: un camuno non ben definito (Andrea Gelmini, alias Bungle), interessato soprattutto alla cena ed un certo personaggio apertamente schierato contro i prodotti Microsoft (Michele Bonera, alias Morrison), che di Linux sapeva solo che esisteva (forse?!).
 <br>
@@ -44,7 +44,7 @@ Subject: Utenti Linux a Brescia... e non
 S'e' deciso...
 ci si trova a mangiare una pizza, offerta da Bill Porta, per scherzare
 sull'uscita di Finetra 98 a Brescia, posto da stabilire, giorno stabilito:
-venerdÏ 10 luglio.
+venerd√¨ 10 luglio.
 Ci c'e' c'e', chi non c'e', e' in vacanza... beato lui.
 Date un segno della presenza.
 </pre>
@@ -57,21 +57,21 @@ Date un segno della presenza.
  <dd>
 Dopo il fiume di persone che hanno risposto all'appello del Lucky sul newsgroup, scatta l'operazione amici e/o conoscenti con l'intento di aumentare a dismisura il numero di persone presenti alla cena.<br>
 
-Un emblematico individuo (Andrea Mauro), gi‡ da tempo tartassato dal Lucky per la risoluzione dei problemi che incontrava durante la tesi (e a cui rispondeva con un serafico RTFM, che, a beneficio di chi non dispone del Jargon Dictionary, rappresenta un'espressione vagamente colorita per invogliare l'utente a leggere la manualistica), arriva a reclutare amici, colleghi, conoscenti (a prescindere del loro reale schieramento a favore di Linux).<br>
-Si narra che un suo omonimo, assistente del corso di Sistemi Operativi, abbia approfittato della sua posizione di potere per costringere alcuni suoi studenti a partecipare alla cena, pena l'impossibilit‡ di superare l'esame in questione.
+Un emblematico individuo (Andrea Mauro), gi√† da tempo tartassato dal Lucky per la risoluzione dei problemi che incontrava durante la tesi (e a cui rispondeva con un serafico RTFM, che, a beneficio di chi non dispone del Jargon Dictionary, rappresenta un'espressione vagamente colorita per invogliare l'utente a leggere la manualistica), arriva a reclutare amici, colleghi, conoscenti (a prescindere del loro reale schieramento a favore di Linux).<br>
+Si narra che un suo omonimo, assistente del corso di Sistemi Operativi, abbia approfittato della sua posizione di potere per costringere alcuni suoi studenti a partecipare alla cena, pena l'impossibilit√† di superare l'esame in questione.
 <br>
-Alla fine la cena Ë stata un successo: cibo, vino, dolci e limoncello in quantit‡ industriali e, soprattutto, molto molto divertimento (Ë proprio vero che Linux Ë anche un fenomeno sociale).
+Alla fine la cena √® stata un successo: cibo, vino, dolci e limoncello in quantit√† industriali e, soprattutto, molto molto divertimento (√® proprio vero che Linux √® anche un fenomeno sociale).
 <br>
 Alla cena erano presenti ben 17 persone: Andrea Gelmini, Andrea Mauro, Carlo Mor, Cristiano Conti, Davide Buggio, Francesco Aperti, Francesco Tomasoni, Giorgio Di Giovambattista, Luciano Ghezzi, Marco Baiguera, Massimo "Mats", Maurizio Piccioli, Michele Bonera, Paolo Colombini, Paolo Pialorsi, Stefano Mazza, Stefano Peli.
 <br>
-Luogo del ritrovo: "LicinsÏ" (Collebeato), un'agriturismo nella zona rurale del paese... (il posto ideale per coltivare qualche attivit‡)
+Luogo del ritrovo: "Licins√¨" (Collebeato), un'agriturismo nella zona rurale del paese... (il posto ideale per coltivare qualche attivit√†)
 </dd>
 </dl>
 
 <dl>
  <dt>11/07/98 - Attivazione della prima "mailing list"</dt>
  <dd>
-Grazie al camuno (Bungle), viene aperta una mailing list, che diventa un potente strumento per scambiarsi informazioni su Linux, pareri, impressioni e amenit‡ non propriamente legate a Linux (tipo foto sconce di qualcuno di cui non si puÚ fare il nome, comunque un grazie a Davide Buggio per l'eccezionale opera di fotoritocco...).
+Grazie al camuno (Bungle), viene aperta una mailing list, che diventa un potente strumento per scambiarsi informazioni su Linux, pareri, impressioni e amenit√† non propriamente legate a Linux (tipo foto sconce di qualcuno di cui non si pu√≤ fare il nome, comunque un grazie a Davide Buggio per l'eccezionale opera di fotoritocco...).
 <br>
 Ecco l'e-mail che annunciava l'evento (si notino from, to e subject):
 <br>
@@ -108,8 +108,8 @@ ditegli che ve lo ho detto io) :))
 <dl><dt>22/07/98 - La "mailing list" lavora a pieno ritmo</dt>
 <dd>
 
-La potente mailing list realizzata da Bungle con procmail si dimostra un prodotto di immediato utilizzo anche per i neofiti. Scherzi a parte Ë stata comunque determinante per iniziare uno scambio di pareri e raccogliere un certo numero di adepti.<br>
-Di seguito Ë riportata una e-mail che mostra quanto era semplice iscriversi alla mailing-list:
+La potente mailing list realizzata da Bungle con procmail si dimostra un prodotto di immediato utilizzo anche per i neofiti. Scherzi a parte √® stata comunque determinante per iniziare uno scambio di pareri e raccogliere un certo numero di adepti.<br>
+Di seguito √® riportata una e-mail che mostra quanto era semplice iscriversi alla mailing-list:
 <br>
 <pre class="email">
 From: Paolo Borghesi
@@ -151,7 +151,7 @@ MR> fatemi sapere.... thx
 La pizzata e' andata alla grande (eravamo 17). E' saltato fuori che
 tutti hanno
 voglia di far crollare la ms (a parte il Pialorsi che ama NT).
-Nel frattempo Ë stata creata una pseudo mailing list* che si attiva
+Nel frattempo √® stata creata una pseudo mailing list* che si attiva
 manualmente scrivendo a bungle@intercam.it e mettendo nel subject lugBS
 morrison
 </pre>
@@ -164,10 +164,10 @@ morrison
 <dl>
 <dt>19/12/98 - Finalmente troviamo un "filantropo" che ci offre uno spazio Web</dt>
 <dd>
-Dopo alcuni mesi di relativa tranquillit‡ (si fa per dire, visto che molti di noi lavoravano intensamente), nella quale il Lucky si prodigava a evangelizzare il mondo su Linux, il livello del lugBS passa da pura goliardia a un minimo di decenza e credibilit‡ e si inizia a parlare di sito web, mailing list ufficiale e progetti da portare avanti.<br>
+Dopo alcuni mesi di relativa tranquillit√† (si fa per dire, visto che molti di noi lavoravano intensamente), nella quale il Lucky si prodigava a evangelizzare il mondo su Linux, il livello del lugBS passa da pura goliardia a un minimo di decenza e credibilit√† e si inizia a parlare di sito web, mailing list ufficiale e progetti da portare avanti.<br>
 
 Risulta decisiva la l'ingresso di Maurizio Paolini e Luca Giuzzi, che innescheranno il processo di crescita "attiva" del lugBS.
-Di seguito Ë riportata la prima mail ufficiale di Paolini (a proposito, ma com'Ë che prima ha detto che aveva poco tempo e poi si Ë fatto in quattro per la causa Linux?!)<br>
+Di seguito √® riportata la prima mail ufficiale di Paolini (a proposito, ma com'√® che prima ha detto che aveva poco tempo e poi si √® fatto in quattro per la causa Linux?!)<br>
 <pre class="email">
 From: Maurizio Paolini
 To: bungle@intercam.it
@@ -199,7 +199,7 @@ Maurizio Paolini
 21/12/98 - I Webmaster di tutto il mondo fanno a gara per gestire il sito del lugBS
 </dt>
 <dd>
-Passati alla fase seria, Ë giunto il momento di definire un minimo di ruoli "professionali", in particolare per il ruolo di webmaster Ë stato scelto all'unanimit‡ Matteo detto Atomik (del resto era l'unico candidato).
+Passati alla fase seria, √® giunto il momento di definire un minimo di ruoli "professionali", in particolare per il ruolo di webmaster √® stato scelto all'unanimit√† Matteo detto Atomik (del resto era l'unico candidato).
 <br>
 <pre class="email">
 From: ATOMIK
@@ -212,7 +212,7 @@ MP> autorizzazioni per avere uno spazio Web all'interno del dominio
 MP> "dmf.bs.unicatt.it" che potrebbe essere dedicato a home-page di lugBS,
 MP> se gia' non ne avete una, e se tra voi c'e' qualcuno che ha un po' di
 MP> tempo disponibile per metterla in piedi e gestirla.
-io avrei possibilita' di fare e gestire, finche' si tratta di 
+io avrei possibilita' di fare e gestire, finche' si tratta di
 qualche paginetta :)
 So che il lug di Bs non e' molto attivo, ma se c'e' la possibilita' di portare
 avanti qualche cosa, io sono qui.
@@ -226,8 +226,8 @@ ATOMIK - Matteo R.
 27/12/98 - Le prime pagine del lugBS
 </dt>
 <dd>
-Dopo anni e anni di progettazione grafica del sito (utilizzando le pi˘ innovative tecnicologie), Atomik presenta le prime pagine del lugBS.<br>
-Notare l'enorme semplicit‡ dell'indirizzo web del lugBS.
+Dopo anni e anni di progettazione grafica del sito (utilizzando le pi√π innovative tecnicologie), Atomik presenta le prime pagine del lugBS.<br>
+Notare l'enorme semplicit√† dell'indirizzo web del lugBS.
 <br>
 <pre class="email">
 From: ATOMIK
@@ -240,7 +240,7 @@ qui troverete le pagine del lugBS, adesso siete pronti x iniziare a fare
 qualche lavoretto anche voi, spero contribuirete anche voi :)
 chi vuole essere inserito nei nominativi della lista, basta che mandi qui il
 nome e la mail.
-ahhh... dimenticavo l'indirizzo :)) 
+ahhh... dimenticavo l'indirizzo :))
 eccolo: http://gauss.dmf.bs.unicatt.it/~lugbs
 byebye ... a risentirci settimana prox
 ATOMIK - Matteo R.
@@ -255,10 +255,10 @@ ATOMIK - Matteo R.
 27/12/98 - Nascono i primi progetti
 </dt>
 <dd>
-Il solito Lucky, in piena fase evangelizzatrice, lancia l'idea di realizzare 
-alcuni CD basati su Linux, per aumentare la diffusione di Linux e la 
-possibilit‡ di disporre di aggiornamenti, software e documentazione 
-(all'epoca erano veramente poche le riviste che pubblicavano articoli e 
+Il solito Lucky, in piena fase evangelizzatrice, lancia l'idea di realizzare
+alcuni CD basati su Linux, per aumentare la diffusione di Linux e la
+possibilit√† di disporre di aggiornamenti, software e documentazione
+(all'epoca erano veramente poche le riviste che pubblicavano articoli e
 CD per Linux e comunque molti software "pachidermici" erano introvabili su CD).
 <br>
 <pre class="email">
@@ -267,11 +267,11 @@ To: bungle@intercam.it
 Date: Sun, 27 Dec 1998 13:57:32 +0100
 Subject: home lugBS
 
-Un modo di sfruttare il fatto che siamo di BS Ë quello di raccogliere tutto
-il software x Linuz su di una macchina all'universit‡ e poi masterizzarlo
-su dei CDs e farli girare FISICAMENTE... questo Ë un grande vantaggio!!!!
-Una seconda cosa da fare Ë una sezione news! CioË una serie di info varie
-sul mondo di Linuz, aggiurnabile da tutti mandando una email formattata ad 
+Un modo di sfruttare il fatto che siamo di BS √® quello di raccogliere tutto
+il software x Linuz su di una macchina all'universit√† e poi masterizzarlo
+su dei CDs e farli girare FISICAMENTE... questo √® un grande vantaggio!!!!
+Una seconda cosa da fare √® una sezione news! Cio√® una serie di info varie
+sul mondo di Linuz, aggiurnabile da tutti mandando una email formattata ad
 un determinato account!
 </pre>
 </dd>

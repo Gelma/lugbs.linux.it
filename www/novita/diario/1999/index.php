@@ -5,7 +5,7 @@
 04/01/99 - Finalmente abbiamo una mailing-list "vera"
 </dt>
 <dd>
-Il numero di iscritti alla mailing-list originale era di 15 soci circa (cioË pi˘ o meno quelli che erano presenti alla prima cena).<br>
+Il numero di iscritti alla mailing-list originale era di 15 soci circa (cio√® pi√π o meno quelli che erano presenti alla prima cena).<br>
 Grazie al supporto di Paolini e Giuzzi, la mailing list passa da prodotto artigianale (dell'industria manifatturiera camuna) a prodotto ufficiale (basato su majordomo), con meccanismi di iscrizione e de-iscrizione utilizzabili da tutti (o quasi).
 <br>
 <pre class="email">
@@ -61,16 +61,16 @@ Ciao.
 <dd>
 Siccome non si vive di solo Linux, ma anche di pane e vino, ecco che il nostro Andrea Mauro si sbatte per l'organizzazione della cena del lugBS, anche per fare il punto della situazione (oh, ci siete ancora ?) e per mettere in cantiere qualcosa...
 <br>
-Interessante ricordare il diverbio acceso (dall'alcool) tra Pialorsi e Ghezzi: il primo sostenitore di NT (ecchecifacevalÏ direte voi, ma in fondo Ë la dimostrazione di come il lugBS non abbia pregiudizi) ed il secondo sempre pi˘ Linuxizzato (si vocifera che abbia Linux anche nella lavatrice di casa).
+Interessante ricordare il diverbio acceso (dall'alcool) tra Pialorsi e Ghezzi: il primo sostenitore di NT (ecchecifaceval√¨ direte voi, ma in fondo √® la dimostrazione di come il lugBS non abbia pregiudizi) ed il secondo sempre pi√π Linuxizzato (si vocifera che abbia Linux anche nella lavatrice di casa).
 <br>
 Questa volta le persone presenti sono 20: Alex Castellini, Andrea Mauro, Enzo Iodice, Francesco Aperti, Francesco Tomasoni, Giorgio Di Giovambattista, Jamil, Luciano Ghezzi, Marco Baiguera, Massimo "Mats", Matteo "Atomik", Maurizio Botticini, Maurizio Paolini, Michele Bonera, Paolo Colombini, Paolo Pialorsi, Paolo Quaranta, Stefano Bellotti, Stefano Mazza, Valter Cappa.
 <br>
-Luogo prescelto: Trattoria "Roncaglie" (Concesio), ridente rifugio alpino, molto semplice e facile da raggiungere (a proposito, la prossima volta chi guida la carovana Ë pregato di informarsi sul dove si deve effettivamente andare...)
+Luogo prescelto: Trattoria "Roncaglie" (Concesio), ridente rifugio alpino, molto semplice e facile da raggiungere (a proposito, la prossima volta chi guida la carovana √® pregato di informarsi sul dove si deve effettivamente andare...)
 </dd>
 </dl>
 <dl>
 <dt>
-27/01/99 - Finalmente Ë pronto il CD-001
+27/01/99 - Finalmente √® pronto il CD-001
 </dt>
 <dd>
 Grazie allo smanettone dei CD (Lucky) si arriva velocemente alla prima versione del CD-001 (contenente RH 5.2, update, KDE 1.0, SO 5.0 e alcune contrib selezionate). In seguito il CD-001 ha subito un processo di aggiornamento e modifica progressiva. Forse se il primo CD lo realizzava direttamente Paolini, non ci sarebbe stato questo problema...
@@ -94,8 +94,8 @@ faro' avere liste e CD
 28/01/99 - Il lugBS continua a crescere
 </dt>
 <dd>
-Nella sua "folle" crescita verso il successo, il lugBS puÚ fare affidamento (per le cene e le altre attivit‡ goliardiche) su nuove leve.<br>
-Ma soprattutto puÚ nuovamente contare su uno dei suoi piloni portanti (Bungle), tornato tra gli umani dopo un periodo di latitanza. Ecco di seguito la lettera che ha segnato il ritorno del figliol prodigo.
+Nella sua "folle" crescita verso il successo, il lugBS pu√≤ fare affidamento (per le cene e le altre attivit√† goliardiche) su nuove leve.<br>
+Ma soprattutto pu√≤ nuovamente contare su uno dei suoi piloni portanti (Bungle), tornato tra gli umani dopo un periodo di latitanza. Ecco di seguito la lettera che ha segnato il ritorno del figliol prodigo.
 <br>
 <pre class="email">
 From: andrea gelmini
@@ -134,9 +134,9 @@ andrea gelmini
 19/02/99 - Il progetto CD cresce...
 </dt>
 <dd>
-Dopo aver raggiunto finalmente una versione "stabile" del CD-001 la produzione Ë passata rapidamente ai CD-002 e CD-003 raccogliendo pareri, suggerimenti e segnalazioni da tutti gli interessati. Il buon Paolini ancora non si stava rendendo conto del guaio in cui si era cacciato...
+Dopo aver raggiunto finalmente una versione "stabile" del CD-001 la produzione √® passata rapidamente ai CD-002 e CD-003 raccogliendo pareri, suggerimenti e segnalazioni da tutti gli interessati. Il buon Paolini ancora non si stava rendendo conto del guaio in cui si era cacciato...
 <br>
-Il lugBS Ë diventato una realt‡ attiva e in forte crescita e, a tale proposito, Ë possibile godersi il commento del Lucky:
+Il lugBS √® diventato una realt√† attiva e in forte crescita e, a tale proposito, √® possibile godersi il commento del Lucky:
 <br>
 <pre class="email">
 From: Luciano Ghezzi
@@ -144,35 +144,35 @@ To: lug@unibs.it
 Date: Fri, 19 Feb 1999 15:38:53 +0100
 Subject: Noto con piacere...
 
-...che quello che Ë sempre stato un mio sogno che iniziai a cullare 
-nella lontana (mica tanto) estate del 1998 quando nel laboratorio 
-dell'universit‡ preparavo la mia tesi si sta avverando: LUG BS.
+...che quello che √® sempre stato un mio sogno che iniziai a cullare
+nella lontana (mica tanto) estate del 1998 quando nel laboratorio
+dell'universit√† preparavo la mia tesi si sta avverando: LUG BS.
 
 La storia del LUG BS!!!
-Quasi x scherzo postai su news:it.comp.linux una richiesta di 
-contattare persone che utilizzassero Linux nella provincia di BS... 
-ci fu una timida risposta, trai quali vorrei ricordare Michele Bonera e 
+Quasi x scherzo postai su news:it.comp.linux una richiesta di
+contattare persone che utilizzassero Linux nella provincia di BS...
+ci fu una timida risposta, trai quali vorrei ricordare Michele Bonera e
 il "camuno" Andrea Gelmini.
-Altri amici compagni di universit‡ li ho trascinato dentro di forza...
-tutto Ë lecito e poi alla fine dell'estate la prima cena.
+Altri amici compagni di universit√† li ho trascinato dentro di forza...
+tutto √® lecito e poi alla fine dell'estate la prima cena.
 
-L'idea di sfruttare la vicinanza di noi bresciani per poterci scambiare 
+L'idea di sfruttare la vicinanza di noi bresciani per poterci scambiare
 il software per Linux vedo che sta proseguendo bene...
 
-Scusate la mia latitanza di questo periodo dalla mailing list 
+Scusate la mia latitanza di questo periodo dalla mailing list
 del LUG ma sto realizzando dei server con windows NT...
- (tanto non ci credete...), con Linux ovviamente. Le aziende 
-iniziano a recepire la potenza di Linux e quindi sono facilitato 
-del mio compito di installatore di server Linux. Vedo con 
-piacere che pure le riviste di informatica iniziano ad accorgersi della 
-presenza del simpatico 
+ (tanto non ci credete...), con Linux ovviamente. Le aziende
+iniziano a recepire la potenza di Linux e quindi sono facilitato
+del mio compito di installatore di server Linux. Vedo con
+piacere che pure le riviste di informatica iniziano ad accorgersi della
+presenza del simpatico
 pinguino paffutello.
 :))))
 
-PS: il motivo non ufficiale della nascita di questa "striscia storica" 
-Ë di esonerare i nuovi adepti 
-dai drammatici 20 minuti di storia del lugBS raccontati, volenti o 
-nolenti, dal caro Lucky, che 
+PS: il motivo non ufficiale della nascita di questa "striscia storica"
+√® di esonerare i nuovi adepti
+dai drammatici 20 minuti di storia del lugBS raccontati, volenti o
+nolenti, dal caro Lucky, che
 stavano diventando una vera e propria leggenda metropolitana.
 </pre>
 </dd>
@@ -183,7 +183,7 @@ stavano diventando una vera e propria leggenda metropolitana.
 </dt>
 <dd>
 Grazie al versatile Luca Giuzzi, esiste finalmente una traccia indelebile di tutte le fesserie che vengono dette nella mailing-list del lugBS.<br>
-Fate particolarmente attenzione all'header riguardante il MUA di Luca... questa sÏ che Ë coerenza, a differenza di qualche socio del lugBS che usano MUA che si chiamano "punto di vista" pi˘ o meno espresso (pur celandosi dietro la solita scusa "Ma sul lavoro posso usare solo quello").
+Fate particolarmente attenzione all'header riguardante il MUA di Luca... questa s√¨ che √® coerenza, a differenza di qualche socio del lugBS che usano MUA che si chiamano "punto di vista" pi√π o meno espresso (pur celandosi dietro la solita scusa "Ma sul lavoro posso usare solo quello").
 <br>
 <pre class="email">
 From: Luca Giuzzi
@@ -195,23 +195,23 @@ Subject: Re: Archivio storico m-l
 Sottoscrivo appieno sull'idea dell'archivio storico e sulla sua implementazione
 via web (soprattutto adesso che la discussione sui CD, etc si sta animando).
 Tecnicamente la realizzazione di mailing lists dedicate a progetti specifici
-non presenta difficolt‡ (basta aggiungere 3 alias alla config di sendmail
+non presenta difficolt√† (basta aggiungere 3 alias alla config di sendmail
 e provvedere ad avere gli script che si occupino di processare il tutto);
-praticamente non so se sia gi‡ il caso di fare uno `split' della lista:
+praticamente non so se sia gi√† il caso di fare uno `split' della lista:
 in particolare in questo momento le proposte di progetto contribuiscono a
-definire l'identit‡ del LUG di Brescia e penso che la discussione debba
-restare il pi˘ aperta possibile. Ovviamente nessun problema nel creare
+definire l'identit√† del LUG di Brescia e penso che la discussione debba
+restare il pi√π aperta possibile. Ovviamente nessun problema nel creare
 (anche subito) una lug-annouce in cui si ritrovano soltanto gli
-announcements di pacchetti preparati e/o iniziative gi‡ concordate ma
-non esiste la possibilit‡ di fare dei post in modo diretto.
-In prospettiva avere le liste per i vari progetti Ë sicuramente una cosa
+announcements di pacchetti preparati e/o iniziative gi√† concordate ma
+non esiste la possibilit√† di fare dei post in modo diretto.
+In prospettiva avere le liste per i vari progetti √® sicuramente una cosa
 da farsi ma al momento -visto anche che tutte le risorse sono focalizzate
 sulla realizzazione del CD- non so se gli svantaggi (i.e. la perdita del
 senso di `tutti stanno partecipando alla discussione' e alla definizione degli
 obiettivi) compensino i vantaggi (minore traffico e, SOPRATTUTTO, topics
 ristretti a persone effettivamente interessate al tutto).
-Infine: riguardo la lug-announce Ë possibile procedere abbastanza rapidamente
-(i.e. entro domani o lunedÏ a seconda dello stato della rete e della mia
+Infine: riguardo la lug-announce √® possibile procedere abbastanza rapidamente
+(i.e. entro domani o luned√¨ a seconda dello stato della rete e della mia
 connessione ssh da qui!), ma forse sarebbe meglio parlarne anche sulla
 lista pubblica prima di procedere.
 Ciao,
@@ -224,7 +224,7 @@ LG
 07/03/99 - Aumentano i CD del lugBS
 </dt>
 <dd>
-Il materiale organizzato da Paolini straripa su un quarto CD, e sono sempre di pi˘ le persone che lo tormentano per i CD del lugBS.<br>
+Il materiale organizzato da Paolini straripa su un quarto CD, e sono sempre di pi√π le persone che lo tormentano per i CD del lugBS.<br>
 Ecco la testimonianza di una persona entusiasta:
 <br>
 <pre class="email">
@@ -234,34 +234,34 @@ Date: Sun, 7 Mar 1999 10:05:13 +0100
 Subject: CD-HOT
 
 Salve,
-subito un grazie a Maurizio Paolini che ieri mi ha preparato un 
-CD-HOT/Applications, ma sopratutto, 
+subito un grazie a Maurizio Paolini che ieri mi ha preparato un
+CD-HOT/Applications, ma sopratutto,
 mi ha sopportato quasi tutta la mattina.
 
 Ho gia' provato ad installare qulcosiana:
 GNOME: presente la 0.99.8 in versione RPM con ENLIGHTMENENT 0.15,
-installata senza problemi a colpi di 
-rpm pacchetto.rpm --nodeps --force, se stavo a seguire tutte le 
-dipendenze dei pacchetti diventavo scemo !!!! Contrariamente a 
-quanto pensavo abbisogna di un WM 
-"gnome compliant", ero e sono un felice utente Afterstep ma 
+installata senza problemi a colpi di
+rpm pacchetto.rpm --nodeps --force, se stavo a seguire tutte le
+dipendenze dei pacchetti diventavo scemo !!!! Contrariamente a
+quanto pensavo abbisogna di un WM
+"gnome compliant", ero e sono un felice utente Afterstep ma
 non ha gradito.
-DATABASE: ho installato MySQL e SYBASE, quest' ultimo e' free 
-per la piattaforma Linux !!!!!!!!!!!!!!! 
-Mentre costa decine di milioni per le altre , ho iniziato a leggere 
+DATABASE: ho installato MySQL e SYBASE, quest' ultimo e' free
+per la piattaforma Linux !!!!!!!!!!!!!!!
+Mentre costa decine di milioni per le altre , ho iniziato a leggere
 la doc., vediamo cosa salta fuori.
-IPLOGD: Ho fatto qualche esperimentuccio, cattura i pacchetti TCP 
-che e' un piacere, ho problemi con 
-quelli UDP e non capisco il perche', malgrado abbia settato una 
+IPLOGD: Ho fatto qualche esperimentuccio, cattura i pacchetti TCP
+che e' un piacere, ho problemi con
+quelli UDP e non capisco il perche', malgrado abbia settato una
 "rule" adatta (....credo !!!!!).
-UPDATES: Fantastiche le 2 directory contenenti Updates in formato 
-RPM, ho potuto aggirornare diversi pacchetti (fra cui bash, gcc, 
+UPDATES: Fantastiche le 2 directory contenenti Updates in formato
+RPM, ho potuto aggirornare diversi pacchetti (fra cui bash, gcc,
 libc++,...) velocemente.
 
-Non ho ancora installato tutto (d' altro canto sono 639 MB !!!!!), 
+Non ho ancora installato tutto (d' altro canto sono 639 MB !!!!!),
 avrete mie notizie.
 Saluti, Maurizio.
-P.S. Creare un "Paolini fans club" all' interno del LUG-BS ????? 
+P.S. Creare un "Paolini fans club" all' interno del LUG-BS ?????
 Be', se lo merita...
 </pre>
 </dd>
@@ -278,22 +278,22 @@ To: <lug@unibs.it>
 Date: Mon, 8 Mar 1999 12:08:32 +0100
 Subject: Linux Days?
 
-Sull'onda di quello che succede nelle altre citt‡ citt‡ d'Italia, penso che
+Sull'onda di quello che succede nelle altre citt√† citt√† d'Italia, penso che
 sarebbe bello organizzare alcune giornate di alfabetizzazione su Linux a
 partecipazioni gratuita (ad organizzarle bene, si potrebbero 1 "Linux Day"
 ogni 2/3 mesi per esempio).
-Il problema pi˘ grosso (aspetto organizzativo a parte :-) Ë quello di
+Il problema pi√π grosso (aspetto organizzativo a parte :-) √® quello di
 trovare un locale attrezzato per le presentazioni.
 Paolini a suo tempo, mi aveva suggerito che una di queste giornate potevano
 rientrare all'interno del corso di matematica (?) della Cattolica.
 Un'altra di queste giornate potrebbe rientrare all'interno di qualche corso
-della Facolt‡ di Ingegneria.
+della Facolt√† di Ingegneria.
 Rimarrebbero scoperti 2/4 giorni in cui si dovrebbe trovare qualche anima
 pia che ci ospiti.
-Pensate che l'idea possa essere valida e quindi l'aggiungiamo alle attivit‡
+Pensate che l'idea possa essere valida e quindi l'aggiungiamo alle attivit√†
 del LUG?
-C'Ë qualcuno che ha dei suggerimenti e, soprattutto, nel caso che la
-proposta sia approvata, c'Ë qualcuno che vorrebbe collaborare con
+C'√® qualcuno che ha dei suggerimenti e, soprattutto, nel caso che la
+proposta sia approvata, c'√® qualcuno che vorrebbe collaborare con
 l'organizzazione di tali "eventi"?
 Ciao
 Andrea
@@ -305,9 +305,9 @@ Andrea
 16/03/99 - Vengono elaborati nuovi progetti
 </dt>
 <dd>
-Oltre al progetto "Linux Day", altri progetti altrettanto interessanti sono stati proposti, in particolare da Enzo Iodice (Gilles) e Morrison che proponevano in modalit‡ pi˘ o meno simili la possibilit‡ di portare Linux sulle macchine distribuite nei negozi di informatica.<br>
+Oltre al progetto "Linux Day", altri progetti altrettanto interessanti sono stati proposti, in particolare da Enzo Iodice (Gilles) e Morrison che proponevano in modalit√† pi√π o meno simili la possibilit√† di portare Linux sulle macchine distribuite nei negozi di informatica.<br>
 Le proposte sono finite nel limbo delle idee da vagliare.<br>
-In risposta ad un po' di proposte di progetti ecco una mail di Bungle (a proposito: ma non Ë che che si scrive da solo le mail che chiedono dove fosse finito???):
+In risposta ad un po' di proposte di progetti ecco una mail di Bungle (a proposito: ma non √® che che si scrive da solo le mail che chiedono dove fosse finito???):
 <br>
 <pre class="email">
 From: andrea gelmini
@@ -315,142 +315,142 @@ To: lug@unibs.it
 Date: Mon, 15 Mar 1999 23:54:10 +0100
 Subject: anche i porcospini hanno un'anima
 
-ehm... che siccome che le mucche ce le ho gia` messe a 
-nanna, che alla tele non ci sono cartoni 
-animati decenti, che alcuni mi hanno scritto 
-chiedendomi che fine avessi fatto (oh, almeno qualcuno 
+ehm... che siccome che le mucche ce le ho gia` messe a
+nanna, che alla tele non ci sono cartoni
+animati decenti, che alcuni mi hanno scritto
+chiedendomi che fine avessi fatto (oh, almeno qualcuno
 mi ama!) colgo l'occasione per buttar giu` quattro risposte.
-ora, essendo io un montanaro piuttosto rozzo, non molto 
-avezzo a riempire d'ovatta i propri messaggi, 
-pregherei fin d'ora di evitare di leggere saccenza und 
-strafottenza und tutte-quelle-paranoie- 
-che-taluni-si-fanno in questa mail. (le divergenze si 
-risolvono in altra sede, da uomini, con gli 
+ora, essendo io un montanaro piuttosto rozzo, non molto
+avezzo a riempire d'ovatta i propri messaggi,
+pregherei fin d'ora di evitare di leggere saccenza und
+strafottenza und tutte-quelle-paranoie-
+che-taluni-si-fanno in questa mail. (le divergenze si
+risolvono in altra sede, da uomini, con gli
 opportuni coltelli).
-scusate se raccolgo messaggi a casaccio per rispondere, 
-ma la mia testa e` in aria almeno quanto la 
-mia camera da letto, e non mi e` dato di riuscire a fare 
-un discorso compiuto (soprattutto dopo il 
-trauma dovuto alla scoperta dell'inesistenza di babbo 
-natale, di santa lucia e del sesso virtuale in 
+scusate se raccolgo messaggi a casaccio per rispondere,
+ma la mia testa e` in aria almeno quanto la
+mia camera da letto, e non mi e` dato di riuscire a fare
+un discorso compiuto (soprattutto dopo il
+trauma dovuto alla scoperta dell'inesistenza di babbo
+natale, di santa lucia e del sesso virtuale in
 internet).
 
 enzo_iodice dice:
-> Che ne dite di convincere negozianti di PC (quelli 
+> Che ne dite di convincere negozianti di PC (quelli
 > che dispongono di vetrine) a mettere in vetrina anche macchine
 > Linux... (mi sembra giusto).
-> Ho gi‡ chiesto a un negoziante in via Milano (conosco il proprietario).
+> Ho gi√† chiesto a un negoziante in via Milano (conosco il proprietario).
 
-potrebbe risultare interessante, ma potrebbe anche rivelarsi 
-controproducente. ora, parlo non conoscendo ne` te ne` 
-il negoziante, ma non vorrei mai che qualche curioso, entrando 
-in negozio per avere delle delucidazioni, si sentisse rispondere 
-qualcosa del tipo: "non so nulla 
-di linux, ma una banda di esaltati capeggiata da un losco 
-figuro, mi ha stressato finche` non gli ho 
+potrebbe risultare interessante, ma potrebbe anche rivelarsi
+controproducente. ora, parlo non conoscendo ne` te ne`
+il negoziante, ma non vorrei mai che qualche curioso, entrando
+in negozio per avere delle delucidazioni, si sentisse rispondere
+qualcosa del tipo: "non so nulla
+di linux, ma una banda di esaltati capeggiata da un losco
+figuro, mi ha stressato finche` non gli ho
 dato un po' di spazio".
 
 andrea mauro mauro:
-> Per la data, pensavo al venerdÏ 4 giugno (al pi˘ l'11), 
-> considerato che la giornata potrebbe concludersi con una 
+> Per la data, pensavo al venerd√¨ 4 giugno (al pi√π l'11),
+> considerato che la giornata potrebbe concludersi con una
 > cena tra amici...
-direi di non andare oltre perche` si rischierebbe di cozzare 
-con lo hack meeting 99. cosi`, pero`, rischiamo di tagliare fuori 
-i giovincelli che vanno a scuola dall'incontro. bho, fate voi, 
-io non riesco ad organizzarmi neppure per andare in giro (avete 
-presente quei tizi che passano le ore in viaggio ad elencare le 
+direi di non andare oltre perche` si rischierebbe di cozzare
+con lo hack meeting 99. cosi`, pero`, rischiamo di tagliare fuori
+i giovincelli che vanno a scuola dall'incontro. bho, fate voi,
+io non riesco ad organizzarmi neppure per andare in giro (avete
+presente quei tizi che passano le ore in viaggio ad elencare le
 cose che si sono dimenticati di portarsi con appresso?)
-comunque vedrei di buon occhio il sabato. invero non so se ci 
-siano dei problemi logistici con la 
-facolta` (tipo che il sabato il rettore voglia correre con i 
-pattini per l'aula magna, sicche` si 
+comunque vedrei di buon occhio il sabato. invero non so se ci
+siano dei problemi logistici con la
+facolta` (tipo che il sabato il rettore voglia correre con i
+pattini per l'aula magna, sicche` si
 debba stare alla larga).
 
-> che potrebbe metterci a disposizione l'aula consigliare o 
-> l'aula magna (se il numero dei partecipanti dovesse superare 
+> che potrebbe metterci a disposizione l'aula consigliare o
+> l'aula magna (se il numero dei partecipanti dovesse superare
 > le nostre aspettative).
-se si da` in tempi brevi risonanza alla cosa si puo` anche 
-tentare di raccogliere un piccolo elenco 
+se si da` in tempi brevi risonanza alla cosa si puo` anche
+tentare di raccogliere un piccolo elenco
 di potenziali partecipanti.
 
-> anche se abbiamo pi˘ di 2,5 mesi, se vogliamo tentare 
+> anche se abbiamo pi√π di 2,5 mesi, se vogliamo tentare
 > questa esperienza, ci conviene darci dentro...
 uhm... due mesi e mezzo possono essere troppi o troppo pochi.
-se si vuole organizzare una cosa ben fatta, con tutti 
-i sacri crismi, non si puo` neppure pensare di 
-farla entro questo tempo. al di la` del tempo necessario 
-a noi per preparare il tutto, ci vuole il 
-tempo per diffondere la voce e cosi` via, tutte cose che 
+se si vuole organizzare una cosa ben fatta, con tutti
+i sacri crismi, non si puo` neppure pensare di
+farla entro questo tempo. al di la` del tempo necessario
+a noi per preparare il tutto, ci vuole il
+tempo per diffondere la voce e cosi` via, tutte cose che
 sapete meglio di me.
-se si vuole organizzare una cosa "carina", mi sembra che 
-in due mesi si rischi di disperdere troppe 
-energie. mi garberebbe di piu` l'organizzazione di mini 
-conferenze/avvenimenti/incontri di vario tipo 
-distribuiti lungo un periodo di tempo. quelli di decoder, 
-ad esempio, stanno organizzando, 
-dall'inizio di quest'anno fino all'hack meeting, tante 
-piccole manifestazioni, che si tengono a 
-milano, a scadenza piu` o meno mensile, di vario tipo 
-tutte incentrate sull'open source e linux. e 
-una volta un install party, e una volta una tavola 
-rotonda, e una volta lo scambio di software, e 
-una volta un pgp party alla gente comincia a ronzargli 
-in testa il nome "linux" (accattivante, bello 
+se si vuole organizzare una cosa "carina", mi sembra che
+in due mesi si rischi di disperdere troppe
+energie. mi garberebbe di piu` l'organizzazione di mini
+conferenze/avvenimenti/incontri di vario tipo
+distribuiti lungo un periodo di tempo. quelli di decoder,
+ad esempio, stanno organizzando,
+dall'inizio di quest'anno fino all'hack meeting, tante
+piccole manifestazioni, che si tengono a
+milano, a scadenza piu` o meno mensile, di vario tipo
+tutte incentrate sull'open source e linux. e
+una volta un install party, e una volta una tavola
+rotonda, e una volta lo scambio di software, e
+una volta un pgp party alla gente comincia a ronzargli
+in testa il nome "linux" (accattivante, bello
 da pronunciare, ma che non e` un'automobile).
 
-> Una volta che riusciamo a definire durata e "taglio", 
-> si potr‡ iniziare a pensare ai contenuti.
-ehm... io farei il contrario. vediamo che contenuti 
-possiamo dare, indi decidiamo il taglio. non 
-vorrei si corresse il rischio di perdere il contributo 
+> Una volta che riusciamo a definire durata e "taglio",
+> si potr√† iniziare a pensare ai contenuti.
+ehm... io farei il contrario. vediamo che contenuti
+possiamo dare, indi decidiamo il taglio. non
+vorrei si corresse il rischio di perdere il contributo
 di tanta gente in gamba.
 
 michele bonera bonera:
 
-uso il messaggio di michele come pretesto per allargare 
+uso il messaggio di michele come pretesto per allargare
 un attimo il discorso.
-ok, tavola rotonda, ok "perche` linux", confrontare linux 
+ok, tavola rotonda, ok "perche` linux", confrontare linux
 con il resto del mondo... uhm...
-e` un casino, non sono piu` capace di mettere insieme un 
-discorso che fili (sara` il fumo, l'alcool? 
+e` un casino, non sono piu` capace di mettere insieme un
+discorso che fili (sara` il fumo, l'alcool?
 magari fosse il sesso!)
-domanda: vogliamo darci da fare per qualcosa (linux), o 
+domanda: vogliamo darci da fare per qualcosa (linux), o
 contro qualcosa (microsoft)?
-la cose che temo sempre di piu', in tutte le realta` 
-linux che ho conosciuto fin d'ora, e` quel 
-sentimento di integralismo religioso-informatico che 
-sembra muovere parecchie persone. e` che e` lo 
-stesso modo di porsi dei teppisti allo stadio verso il 
-calcio. sara` che sono perspicace come un 
-sasso, ma alle volte il clima e` diventato talmente pesante 
-che sono fuggito. (questo e` uno dei 
-motivi principali per cui ho chiuso il mio interesse nei 
+la cose che temo sempre di piu', in tutte le realta`
+linux che ho conosciuto fin d'ora, e` quel
+sentimento di integralismo religioso-informatico che
+sembra muovere parecchie persone. e` che e` lo
+stesso modo di porsi dei teppisti allo stadio verso il
+calcio. sara` che sono perspicace come un
+sasso, ma alle volte il clima e` diventato talmente pesante
+che sono fuggito. (questo e` uno dei
+motivi principali per cui ho chiuso il mio interesse nei
 confronti del pluto).
 tornando ad un possibile confronto durante la manifestazione.
-vi e` mai capitato di assistere ad una di quelle vendite 
-in casa di materassi e coperte dove, gli 
-intraprendenti venditori, basano tutta la validita` del loro 
-prodotto spiegandovi come avete dormito 
+vi e` mai capitato di assistere ad una di quelle vendite
+in casa di materassi e coperte dove, gli
+intraprendenti venditori, basano tutta la validita` del loro
+prodotto spiegandovi come avete dormito
 male/da stupidi/ da fessi/scomdi/da incoscienti nel vostro
- vecchio materasso? insomma, dimmi le 
-eccezionali caratteristiche del tuo materasso, valutero` poi 
-io se effettivamente sono migliori del 
-mio, e da li` prendero` una decisione. insomma, la solita 
-frase "se ne parli anche male, purche` se 
-ne parli" va a tutto vantaggio della microsoft, perche` 
-comunque la gente continuera` a sentirla 
-nominare anche ad un incontro dedicato a linux, e pensera` che: 
-a) noi ci si senta in competizione con essa 
-   (quindi timorosi di risultarne inferiori), 
+ vecchio materasso? insomma, dimmi le
+eccezionali caratteristiche del tuo materasso, valutero` poi
+io se effettivamente sono migliori del
+mio, e da li` prendero` una decisione. insomma, la solita
+frase "se ne parli anche male, purche` se
+ne parli" va a tutto vantaggio della microsoft, perche`
+comunque la gente continuera` a sentirla
+nominare anche ad un incontro dedicato a linux, e pensera` che:
+a) noi ci si senta in competizione con essa
+   (quindi timorosi di risultarne inferiori),
 
-b) che il nome microsoft, volenti o nolenti, e` inscindibile 
-da qualsiasi realta` informatica. ora noi sappiamo che la 
-realta` non e` cosi`, ma, avendo un eccessivo accanimento 
-contro microsoft, risulteremmo agli occhi della gente 
-come degli ultra` sfegatati senza senno (e tutti sappiamo quanto 
+b) che il nome microsoft, volenti o nolenti, e` inscindibile
+da qualsiasi realta` informatica. ora noi sappiamo che la
+realta` non e` cosi`, ma, avendo un eccessivo accanimento
+contro microsoft, risulteremmo agli occhi della gente
+come degli ultra` sfegatati senza senno (e tutti sappiamo quanto
 poco la gente si fidi degli ultra`).
-in conclusione, credo si debba aiutare la gente a ragionare, 
-evitando di additarla brutta, sporca e 
+in conclusione, credo si debba aiutare la gente a ragionare,
+evitando di additarla brutta, sporca e
 cattiva per cio` che sta usando ora.
 
 cito sempre da michele:
@@ -463,88 +463,88 @@ che cosa dovrebbe fare questo server?
 > PIASTRA MADRE Dual Pentium II della ASUS
 > PROCESSORE: Due Pentium II con due ventole di raff. cad....
 > MEMORIA: 256 MB SDRAM Ecc (Error checking & correction) (le migliori ?)
-ehm... un server mission critical con questo hardware mi 
+ehm... un server mission critical con questo hardware mi
 sembra una contraddizione.
-mission critical non significa hardware fantasborrico 
-che costa un fracco di soldi. (oddio, significa 
-anche questo, ma ad un livello totalmente diverso di 
-quello di cui stiamo parlando) (oddio, oddio, 
-non che 'sta roba sia proprio l'incarnazione del massimo 
-sviluppo tecnologico attuale). direi di 
-valutare bene cosa deve fare il server, e da li` 
+mission critical non significa hardware fantasborrico
+che costa un fracco di soldi. (oddio, significa
+anche questo, ma ad un livello totalmente diverso di
+quello di cui stiamo parlando) (oddio, oddio,
+non che 'sta roba sia proprio l'incarnazione del massimo
+sviluppo tecnologico attuale). direi di
+valutare bene cosa deve fare il server, e da li`
 decidere sul da farsi.
-durante l'hack meeting a firenze c'erano 38 gradi, 
-e la sala di connessione era ricavata sotto un 
-tendone (er forno crematorio). ora, li` mission 
-critical significava avere una macchina che non si 
-resettasse ogni ora per il surriscaldamento dei 
-micro (leggi pentium superveloci super intel inside). 
-dei simpatici toskanacci risolsero la cosa mettendo 
+durante l'hack meeting a firenze c'erano 38 gradi,
+e la sala di connessione era ricavata sotto un
+tendone (er forno crematorio). ora, li` mission
+critical significava avere una macchina che non si
+resettasse ogni ora per il surriscaldamento dei
+micro (leggi pentium superveloci super intel inside).
+dei simpatici toskanacci risolsero la cosa mettendo
 in rete il grullone, simpatico 386 senza tastiera
-e senza monitor, al quale si accedeva in rete e che 
-non ha ciccato un minuto di funzionamento. con 
-15.000.000 ci puoi comprare un bel server alpha (c'e` 
-un rivenditore anche a bergamo). un bel server 
+e senza monitor, al quale si accedeva in rete e che
+non ha ciccato un minuto di funzionamento. con
+15.000.000 ci puoi comprare un bel server alpha (c'e`
+un rivenditore anche a bergamo). un bel server
 alpha significa un server che soddisfi le tue esigenze.
-ora non so le tue esigenze, ma non penso che 
-tu abbia bisogno di tanta potenza di calcolo (nel qual 
-caso accarezzeri l'idea di un bel agglomerato 
+ora non so le tue esigenze, ma non penso che
+tu abbia bisogno di tanta potenza di calcolo (nel qual
+caso accarezzeri l'idea di un bel agglomerato
 di computer di seconda mano).
 
-> RAID: mi piacerebbe avere una mylex, ma so che non Ë 
-> ancora uff. supportata... suggerimenti ? Esperienze ? 
-> Il livello di RAID che mi interessa Ë il 5.
-sotto linux il raid e` gestito in maniera piu` efficente 
-e versatile via software. tieni comunque 
-presente che la questione e` molto delicata, per gli 
-intrinseci limiti dell'architettura su cui 
+> RAID: mi piacerebbe avere una mylex, ma so che non √®
+> ancora uff. supportata... suggerimenti ? Esperienze ?
+> Il livello di RAID che mi interessa √® il 5.
+sotto linux il raid e` gestito in maniera piu` efficente
+e versatile via software. tieni comunque
+presente che la questione e` molto delicata, per gli
+intrinseci limiti dell'architettura su cui
 vorresti lavorare.
-il mio controller scsi non ha mai presentato problemi 
-provando a simulare i vari failure dei device, 
-ma alcuni controller, ad esempio gli adaptec, spesso 
-presentano il problema di bloccarsi nel momento 
-in cui uno dei dischi viene a mancare, e questo rende 
+il mio controller scsi non ha mai presentato problemi
+provando a simulare i vari failure dei device,
+ma alcuni controller, ad esempio gli adaptec, spesso
+presentano il problema di bloccarsi nel momento
+in cui uno dei dischi viene a mancare, e questo rende
 vano il discorso raid.
-notasi che il mio controller e` un banalissimo ncr, 
-che non permette neppure il boot, e che dio solo 
+notasi che il mio controller e` un banalissimo ncr,
+che non permette neppure il boot, e che dio solo
 sa da dove e` saltato fuori.
-se comunque ti interessa la cosa, posso mandarti l'archivio 
-della m/l relativi ai raid sotto linux, 
+se comunque ti interessa la cosa, posso mandarti l'archivio
+della m/l relativi ai raid sotto linux,
 puoi trovarci delle info interessanti.
 
->HD: 6 Dischi IBM SCSI da 9 GB 7200/10.000 giri 
+>HD: 6 Dischi IBM SCSI da 9 GB 7200/10.000 giri
 > (devo verificare la dispo) Totale 45 GB senza
 >  HotSpare e 36 GB con HS
-lo hotspare lo decidi tu. se hai problemi di spazio, tieni 
-comunque presente che il raid 5 puo` 
-continuare a funzionare temporaneamento anche con n-1 dischi, 
-ricostruendo automaticamente quello 
+lo hotspare lo decidi tu. se hai problemi di spazio, tieni
+comunque presente che il raid 5 puo`
+continuare a funzionare temporaneamento anche con n-1 dischi,
+ricostruendo automaticamente quello
 mancante nel momento in cui viene ripristinato.
 
->SRETE: Due 3COM Fast Etherlink (o c'Ë qualcosa di pi˘ adatto)
+>SRETE: Due 3COM Fast Etherlink (o c'√® qualcosa di pi√π adatto)
 piu` adatto a che? cosa ci devi fare?
 
 >TAPE BACKUP.... ???? (datemi qualche idea)
-credo che la scelta sia obbligatoriamente un dat, ma tieni 
-presente che le cifre salgono parecchio 
+credo che la scelta sia obbligatoriamente un dat, ma tieni
+presente che le cifre salgono parecchio
 (oddio, e` anche vero che il costo per mb e` molto basso)
 
 riguardo ai cd:
-visto che ora le distribuzioni le danno anche con i 
-fustini del dixan, sarebbe carino raccogliere 
-tutta quella documentazione in rete che non trova 
-spazio da nessuna parte, e che non viene mai 
+visto che ora le distribuzioni le danno anche con i
+fustini del dixan, sarebbe carino raccogliere
+tutta quella documentazione in rete che non trova
+spazio da nessuna parte, e che non viene mai
 distribuita sui cd.
-ultimamente mi son dovuto scaricare del materiale 
-riguardo a python e a tcl/tk, ed e` stata 
-veramente un'impresa. ok, un affogato al caffe` al 
-bar sotto casa mia costa come 6 ore di internet, e 
-dura solo cinque minuti, pero` non posso trascorrere 
+ultimamente mi son dovuto scaricare del materiale
+riguardo a python e a tcl/tk, ed e` stata
+veramente un'impresa. ok, un affogato al caffe` al
+bar sotto casa mia costa come 6 ore di internet, e
+dura solo cinque minuti, pero` non posso trascorrere
 le giornate in rete.
 
-avrei altro da dire ma mi sono rotto di scrivere 
+avrei altro da dire ma mi sono rotto di scrivere
 (mi immagino voi di leggere).
-scusate la lungaggine[1], ma mi garba un casino 
+scusate la lungaggine[1], ma mi garba un casino
 scrivere cazzate.
 
 saluti vari,
@@ -558,15 +558,15 @@ andrea gelmini
 21/03/99 - Nasce il progetto RadioLinux
 </dt>
 <dd>
-Anche se il progetto Ë stato "lanciato" a marzo, la data effettiva sar‡ il 10 aprile (misteri delle poste elettroniche italiane...)<br>
+Anche se il progetto √® stato "lanciato" a marzo, la data effettiva sar√† il 10 aprile (misteri delle poste elettroniche italiane...)<br>
 <pre class="email">
 From: Maurizio Cimaschi
 Date: Sun, 21 Mar 1999 20:04:55 +0100
 Subject: Proposta -- Il packet radio.
 
 Salve a tutti,
-visto la buona accoglienza che ha avuto la mia idea posto le due righe che ho scritto a proposito 
-dell' utilizzo di Linux in ambito radioamatoriale; devo ancora aggiunge un paio di sezioni 
+visto la buona accoglienza che ha avuto la mia idea posto le due righe che ho scritto a proposito
+dell' utilizzo di Linux in ambito radioamatoriale; devo ancora aggiunge un paio di sezioni
 riguardanti un' po' di LINK e la scena packet a BS, ma per ora ve lo posto ugualmente.
 Le critiche (specialmente quelle costruttive !!!!!!) sono incoraggiate ed apprezzate !!!!!
 Saluti, Maurizio.
@@ -578,11 +578,11 @@ Saluti, Maurizio.
 21/03/99 - Aumentano gli scambi di proposte e critiche
 </dt>
 <dd>
-La mailing list Ë in fermento, la proposta del "Linux Day" ha scatenato le fantasie dei soci del 
-lugBS. Un ignaro socio (Erix, coinvolto suo malgrado dal perfido Morrison) si lancia in proposte e 
-critiche, ma viene subito ammonito da un infuriato Bungle che per sua stessa ammissione ha gli 
-ormoni impazziti un po' per la primavera ed un po' per motivi legati alle donne (per la cronaca Erix 
-non se le pi˘ sentita di postare sulla mailing-list per parecchi mesi).
+La mailing list √® in fermento, la proposta del "Linux Day" ha scatenato le fantasie dei soci del
+lugBS. Un ignaro socio (Erix, coinvolto suo malgrado dal perfido Morrison) si lancia in proposte e
+critiche, ma viene subito ammonito da un infuriato Bungle che per sua stessa ammissione ha gli
+ormoni impazziti un po' per la primavera ed un po' per motivi legati alle donne (per la cronaca Erix
+non se le pi√π sentita di postare sulla mailing-list per parecchi mesi).
 <br>
 <pre class="email">
 From: Enrico Colombini
@@ -685,7 +685,7 @@ saluti,
 andrea (che oggi si e` svegliato con la luna storta)
 </pre>
 
-Il nostro Andrea si Ë aggiudicato, dopo questa e-mail, una confezione da 12 litri di soluzione al 5% 
+Il nostro Andrea si √® aggiudicato, dopo questa e-mail, una confezione da 12 litri di soluzione al 5%
 di bromuro...
 </dd>
 </dl>
@@ -694,9 +694,9 @@ di bromuro...
 26/03/99 - Il lugBS dispone di un proprio PC
 </dt>
 <dd>
-Finalmente smettiamo di sfruttare la Sparc di Paolini e disponiamo di un PC tutto per il lugBS (e 
-gi‡ qua si scatena la disputa sul nome da dargli, terminata con la scelta quasi unanime di lugbs - 
-ma v‡?!)
+Finalmente smettiamo di sfruttare la Sparc di Paolini e disponiamo di un PC tutto per il lugBS (e
+gi√† qua si scatena la disputa sul nome da dargli, terminata con la scelta quasi unanime di lugbs -
+ma v√†?!)
 <br>
 <pre class="email">
 From: Maurizio Paolini
@@ -710,16 +710,16 @@ La situazione attuale CD gia masterizzati per domani e' la seguente:
 2 CD003 (contrib RH B)
 2 CDdbase (oracle, ...)
 3 CDhot (tutto il resto)
-Qualcosa di quello che manca si potra' fare anche domani. Sarebbe pero' comodo poter contare su 
+Qualcosa di quello che manca si potra' fare anche domani. Sarebbe pero' comodo poter contare su
 qualcuno che in varie sedi puo' fare delle copie.
 
-Un'altra cosa importante, ma che non ho avuto il tempo di annunciare: ho ricevuto dalla BIPOP 
-(grazie a Enzo) un PC da tenere presso il Dipartimento, che fungerebbe da server per il gruppo 
+Un'altra cosa importante, ma che non ho avuto il tempo di annunciare: ho ricevuto dalla BIPOP
+(grazie a Enzo) un PC da tenere presso il Dipartimento, che fungerebbe da server per il gruppo
 "lug-bs".
-Purtroppo al momento non sono riuscito a far andare la scheda di rete (chissa' se c'e' qualcuno che 
-mi puo' dare una mano domani, quello che si riesce a fare senza avere la chiave per aprire la 
+Purtroppo al momento non sono riuscito a far andare la scheda di rete (chissa' se c'e' qualcuno che
+mi puo' dare una mano domani, quello che si riesce a fare senza avere la chiave per aprire la
 macchine :-( ...).
-Comunque la macchina si chiamera' "lug.dmf.bs.unicatt.it", ed e' destinata a contenere il database 
+Comunque la macchina si chiamera' "lug.dmf.bs.unicatt.it", ed e' destinata a contenere il database
 dei CD (almeno in parte).
 </pre>
 </dd>
@@ -729,14 +729,14 @@ dei CD (almeno in parte).
 27/03/99 - CD Day alla Cattolica
 </dt>
 <dd>
-Il numero di CD del lugBS Ë gi‡ arrivato a quota 5:<br>
+Il numero di CD del lugBS √® gi√† arrivato a quota 5:<br>
 CD-001 - RedHat 5.2, update, KDE 1.1, Gnome 1.0, Appunti Linux e StarOffice 5.01<br>
 CD-002 - RedHat Contrib A<br>
 CD-003 - RedHat Contrib B<br>
 CD-004 - Oracle, Sybase e altri database<br>
 CD-005 - Tutto quello che non ci stava negli altri CD<br>
 
-Nel frattempo il numero di iscritti alla mailing-list Ë esploso a 50 soci, ma si vocifera che potrebbero diventare almeno 51 in pochi giorni (grazie a Enzo Iodice)...<br>
+Nel frattempo il numero di iscritti alla mailing-list √® esploso a 50 soci, ma si vocifera che potrebbero diventare almeno 51 in pochi giorni (grazie a Enzo Iodice)...<br>
 </dd>
 </dl>
 <dl>
@@ -748,9 +748,9 @@ Per decidere qualcosa riguardo all'incontro previsto per giugno, il buon Andy th
 
 I soci presenti erano 13: Andrea Gelmini, Andrea Mauro, Andrea Moschella, Enzo Iodice, Francesco Tomasoni, Giorgio Di Giovambattista, Jamil, Luciano Ghezzi, Marco Ghidinelli, Matteo "Atomik", Maurizio Cimaschi, Michele Bonera, Stefano Belotti.<br>
 
-Ne Ë venuta fuori una buona traccia che verr‡ discussa ed analizzata mentre aspettiamo la prossima pizzata, che si far‡ probabilmente e tempo permettendo nel campo di quel disgraziato del Morrison...<br>
+Ne √® venuta fuori una buona traccia che verr√† discussa ed analizzata mentre aspettiamo la prossima pizzata, che si far√† probabilmente e tempo permettendo nel campo di quel disgraziato del Morrison...<br>
 
-A proposito, alla prossima riunione e/o cena, sar‡ importante realizzare delle foto di ciascuno di noi da consegnare a Bungle, per evitare che continui a chiamare tutti con lo stesso nome ("ei, tu...")<br>
+A proposito, alla prossima riunione e/o cena, sar√† importante realizzare delle foto di ciascuno di noi da consegnare a Bungle, per evitare che continui a chiamare tutti con lo stesso nome ("ei, tu...")<br>
 </dd>
 </dl>
 </div>
@@ -761,15 +761,15 @@ A proposito, alla prossima riunione e/o cena, sar‡ importante realizzare delle f
 </dl>
 <dl><dt>01/04/99 - Nasce la "striscia storica del lugBS"</dt><dd>
 
-Partita come semplice resoconto degli eventi che hanno caratterizzato la crescita del lugBS, la "striscia storica" si Ë da subito trasformata in una parodia degli stessi (chi sar‡ stato il folle che ha avuto questa bizzarra idea?!).<br>
+Partita come semplice resoconto degli eventi che hanno caratterizzato la crescita del lugBS, la "striscia storica" si √® da subito trasformata in una parodia degli stessi (chi sar√† stato il folle che ha avuto questa bizzarra idea?!).<br>
 Nel giro di due giorni diventa una vera e propria telenoleva sulla vita del lugBS (e sulla vita nel lugBS).
 
 </dd>
 </dl>
 <dl><dt>03/04/99 - Il lugBS dispone ora di un "mirror" sulla rete Interbusiness</dt><dd>
 
-Un po' per megalomania, un po' per semplice necessit‡, il lugBS si prodiga per disporre di mirror web al di fuori della rete universitaria, per permetterei anche ai "poveri" lavoratori di beneficiare del sito web.<br>
-Ecco la mail del Lucky che annuncia l'evento (a proposito, grazie a Tiziano per la disponibilit‡ di ospitare il mirror del lugBS):<br>
+Un po' per megalomania, un po' per semplice necessit√†, il lugBS si prodiga per disporre di mirror web al di fuori della rete universitaria, per permetterei anche ai "poveri" lavoratori di beneficiare del sito web.<br>
+Ecco la mail del Lucky che annuncia l'evento (a proposito, grazie a Tiziano per la disponibilit√† di ospitare il mirror del lugBS):<br>
 <pre class="email">
 From: " Luciano Ghezzi"
 Date: Sat, 03 Apr 1999 12:32:56 +0200
@@ -778,36 +778,36 @@ Subject: Mirror su interbusiness!
 Ho trovato il modo di avere un mirror del ns sito sulla dorsale interbusiness...
 ...in cambio ho promesso di installare protempore mailserver a codesta persona.
 Vabbbbe'
-Sto approfondendo un discorso di smart dns che riconosce il client e a seconda dell'ip di 
-questo giri il link alle pagine di interbusiness o della cattolica. Attendendo questo sviluppo, 
-bisognerebbe preparare una home page sullo stile di www.qmail.org o www.tucos.com che presenta 
+Sto approfondendo un discorso di smart dns che riconosce il client e a seconda dell'ip di
+questo giri il link alle pagine di interbusiness o della cattolica. Attendendo questo sviluppo,
+bisognerebbe preparare una home page sullo stile di www.qmail.org o www.tucos.com che presenta
 i vari mirror e consenta di saltare al mirror "vicino", meglio al mirror adatto.
-MP non lo deve considerare un'offesa personale, ma da numerica il ns sito Ë un pianto!
+MP non lo deve considerare un'offesa personale, ma da numerica il ns sito √® un pianto!
 </pre>
 </dd>
 </dl>
 <dl><dt>07/04/99 - Le richieste dei CD del lugBS aumentano a dismisura</dt><dd>
 
 A quanto pare l'iniziativa del CD ha avvicinato molte persone al lugBS (alcune al di fuori della provincia di Brescia, strano a dirsi...).<br>
-Le richieste aumentano sempre pi˘ e il povero Paolini non puÚ soddisfarle tutte da solo. Fortunatamente intervengono altri soci del lugBS:<br>
+Le richieste aumentano sempre pi√π e il povero Paolini non pu√≤ soddisfarle tutte da solo. Fortunatamente intervengono altri soci del lugBS:<br>
 <pre class="email">
 From: "andrea gelmini"
 Date: Wed, 7 Apr 1999 01:15:42 +0200
 Subject: Re: l'amore per la terra da` solo buoni frutti (was: cd debian)
 
-mi sono accordato con riccardo per il primo scambio di cd lugghesi 
+mi sono accordato con riccardo per il primo scambio di cd lugghesi
 debbianesi delle verdi valli incontaminate.
-se all'evento volesse unirsi qualcun altro dei biskeri kamuni, basta 
-che si presenti, in tenuta da pinguino (ma non tale da confondesi con 
-i camerieri del locale), nei luoghi e nei modi piu` sotto indicati. per 
-ulteriori copie della debhian, debhian con l'acca, si prega di farne 
-richiesta almeno entro mezzogiorno di giovedi` 8 (e se non mi saro` 
+se all'evento volesse unirsi qualcun altro dei biskeri kamuni, basta
+che si presenti, in tenuta da pinguino (ma non tale da confondesi con
+i camerieri del locale), nei luoghi e nei modi piu` sotto indicati. per
+ulteriori copie della debhian, debhian con l'acca, si prega di farne
+richiesta almeno entro mezzogiorno di giovedi` 8 (e se non mi saro`
 svegliato con la luna storta prometto di prepararle).
 il vostro signore,
 odino
 
-A proposito, alcune stime danno per superata la soglia dei 100 CD 
-prodotti (sui 5 CD del lugBS + 2 Debian gentilmente "sponsorizzati" 
+A proposito, alcune stime danno per superata la soglia dei 100 CD
+prodotti (sui 5 CD del lugBS + 2 Debian gentilmente "sponsorizzati"
 da Giorgio).
 </pre>
 </dd>
@@ -815,19 +815,19 @@ da Giorgio).
 <dl><dt>12/04/99 - Il lugBS dispone di un proprio IRC server</dt><dd>
 
 Grazie alla fantasiosa idea di Giuzzi, le due macchine del lugBS si sono attrezzate con server IRC (a proposito, a quando il mirror tra i due server?!).
-Questa Ë la mail che annuncia l'evento:<br>
+Questa √® la mail che annuncia l'evento:<br>
 <pre class="email">
 from: "Luca Giuzzi"
 Date: Mon, 12 Apr 1999 12:08:45 +0100
 Subject: ircd
 
 Salve a tutti,
-ho attivato iersera un demone irc su lugBS, per cui \`e possibile utilizzarlo 
-anche come server per questo servizio (al momento non \`e connesso a nessuna 
+ho attivato iersera un demone irc su lugBS, per cui \`e possibile utilizzarlo
+anche come server per questo servizio (al momento non \`e connesso a nessuna
 rete IRC e costituisce semplicemente un nodo a se stante...
-idealmente dovrebbe servire per `discussioni in tempo reale' 
-sul lug e, nel caso, si potrebbe configurare in modo da comunicare 
-col server mirror su interbusiness o, se disponibili, con servers 
+idealmente dovrebbe servire per `discussioni in tempo reale'
+sul lug e, nel caso, si potrebbe configurare in modo da comunicare
+col server mirror su interbusiness o, se disponibili, con servers
 di altri lug).
 Ciao,
 lg
@@ -843,8 +843,8 @@ Subject: Edicolinux....
 Date: Mon, 12 Apr 1999 18:56:14 +0200
 
 Ho appena finito di mettere le pagine di Edicolinux sul server.
-Sicuramente c'Ë dentro qualche strafalcione, mi scuso ma non sono molto pratico di html...
-Ad ogni modo, l'indirizzo Ë: lugbs.archimedianet.it/edicolinux
+Sicuramente c'√® dentro qualche strafalcione, mi scuso ma non sono molto pratico di html...
+Ad ogni modo, l'indirizzo √®: lugbs.archimedianet.it/edicolinux
 Attendo critiche, commenti e, magari, approvazioni :))))
 prima che, eventualmente, diventino ufficiali...
 </pre>
@@ -858,20 +858,20 @@ Un gruppetto di coraggiosi soci del lugBS (Andrea Gelmini, Giorgio Di Giovanbatt
 </dl>
 <dl><dt>18/04/99 - Vengono definiti i "responsabili dei progetti"</dt><dd>
 
-Con lo scopo di definire dei "punti di riferimento", all'interno del lugBS sono stati definiti alcuni "(ir)responsabili" per ogni progetto (comprendendo tra i progetti anche le attivit‡ di gestione e organizzazione interne al LUG stesso).<br>
-L'elenco dei responsabili Ë disponibile alla pagina chi.
+Con lo scopo di definire dei "punti di riferimento", all'interno del lugBS sono stati definiti alcuni "(ir)responsabili" per ogni progetto (comprendendo tra i progetti anche le attivit√† di gestione e organizzazione interne al LUG stesso).<br>
+L'elenco dei responsabili √® disponibile alla pagina chi.
 
 </dd>
 </dl>
 <dl><dt>21/04/99 - Il lugBS continua a crescere fino a quota 65</dt><dd>
 
-La crescita del lugBS Ë inarrestabile: il numero di iscritti alla m-l "lug" tocca quota 65. Ovviamente non tutti gli iscritti partecipano in modo attivo ai progetti del lugBS, ma si spera in un futuro migliore.
+La crescita del lugBS √® inarrestabile: il numero di iscritti alla m-l "lug" tocca quota 65. Ovviamente non tutti gli iscritti partecipano in modo attivo ai progetti del lugBS, ma si spera in un futuro migliore.
 
 </dd>
 </dl>
 <dl><dt>06/05/99 - Seminario sul tema "Linux, software libero e altro"</dt><dd>
 
-Alle ore 15:00 si Ë svolto un seminario, presso l'Universit‡ Cattolica di Brescia, nell'ambito del corso di Sistemi Informativi del prof. Gianni Sacchi, con il tema "Linux, software libero e altro". Lo speaker Ë stato Alessandro Russo, ricercatore CNR presso l'Istituto di Analisi Numerica di Pavia e appassionato Linux.<br>
+Alle ore 15:00 si √® svolto un seminario, presso l'Universit√† Cattolica di Brescia, nell'ambito del corso di Sistemi Informativi del prof. Gianni Sacchi, con il tema "Linux, software libero e altro". Lo speaker √® stato Alessandro Russo, ricercatore CNR presso l'Istituto di Analisi Numerica di Pavia e appassionato Linux.<br>
 Tra gli spettatori, in rappresentanza del lugBS, vi erano Andrea Mauro, l'onnipresente Giorgio Di Giovanbattista, Maurizio Paolini (che faceva gli onori di casa) e Stefano Bellotti.
 
 </dd>
@@ -884,11 +884,11 @@ Continua il trend positivo del numero di iscritti alla m-l "lug", arrivato orama
 </dl>
 <dl><dt>19/05/99 - Pizzata per discutere dei progetti del lugBS</dt><dd>
 
-Quella che doveva essere una pizzata all'aperto (nel campo del Morrison) si Ë trasformata, per necessit‡ climatiche, in una vera e propria mini-cena (e molti si sono aggregati, visto che il posto era al coperto e le sedie erano garantite).<br>
+Quella che doveva essere una pizzata all'aperto (nel campo del Morrison) si √® trasformata, per necessit√† climatiche, in una vera e propria mini-cena (e molti si sono aggregati, visto che il posto era al coperto e le sedie erano garantite).<br>
 
 Le persone presenti (soci e "simpatizzanti") erano 18: Andrea Mauro, Carlo Bertoldi, Enzo Iodice, Francesco Aperti, Francesco Proteo, Giorgio Di Giovanbattista, Iuri Ghidinelli, Jamil A.A., Luciano Ghezzi, Manfred Caruso, Marco Ghidinelli, Matteo "Atomik", Maurizio Cimaschi, Maurizio Paolini, Michele Bonera, Stefano Bellotti, Stefano Peli, Tiziano Crescimbeni.
 <br>
-L'ordine del giorno era l'organizzazione del primo Linux Day, ma tra una fetta di pizza, un bicchiere di birra, una porzione di panna cotta, si Ë parlato un po' di tutto (e di niente).
+L'ordine del giorno era l'organizzazione del primo Linux Day, ma tra una fetta di pizza, un bicchiere di birra, una porzione di panna cotta, si √® parlato un po' di tutto (e di niente).
 
 </dd>
 </dl>
@@ -909,7 +909,7 @@ CD-HOT - Tutto quello che non ci stava negli altri CD<br>
 <dl><dt>02/06/99 - Finalmente il lugBS ha il suo dominio</dt><dd>
 
 Dopo mesi di trepida attesa, anche il lugBS dispone finalmente di un proprio dominio (leggermente piu facile da ricordare di dmf.qual.che.cosa).<br>
-Il server web ufficiale diventa ora www.lugbs.linux.it, mentre l'indirizzo della mailing list Ë lug@lugbs.linux.it.<br>
+Il server web ufficiale diventa ora www.lugbs.linux.it, mentre l'indirizzo della mailing list √® lug@lugbs.linux.it.<br>
 
 Tutto questo mentre la mailing-list diventa un fermento di thread o qualche "flame", ma le "scaramucce" tra Gelmini e tutte le persone che si chiamano Colombini rappresentavano solo la calma che precedeva la prossima tempesta...
 
@@ -918,7 +918,7 @@ Tutto questo mentre la mailing-list diventa un fermento di thread o qualche "fla
 <dl><dt>08/06/99 - Pre-incontro prima del LD</dt><dd>
 
 Dopo il week-end "caldo" prima del Linux Day e dopo i mille rinvii a causa di maltempo (burrasche di tipo meteorologico), finalmente si "sfrutta" il campo del Morrison per farsi una sana bevuta (minorenni esclusi, ovviamente), nel pieno rispetto della bevanda ufficiale di Linux (la birra!).
-In realt‡ lo scopo della serata (che rappresenta il terzo incontro "non ludico" del lugBS) era di definire gli ultimi preparativi prima del fatidico Linux Day.<br>
+In realt√† lo scopo della serata (che rappresenta il terzo incontro "non ludico" del lugBS) era di definire gli ultimi preparativi prima del fatidico Linux Day.<br>
 
 Le persone del Comitato Organizzatore del LD presenti erano 11: Andrea Mauro, Carlo Bertoldi, Enzo Iodice, Francesco Tomasoni, Giorgio Di Giovanbattista, Jamil A.A., Luciano Ghezzi, Marco Ghidinelli, Matteo "Atomik", Michele Bonera, Paolo Colombini.
 
@@ -926,8 +926,8 @@ Le persone del Comitato Organizzatore del LD presenti erano 11: Andrea Mauro, Ca
 </dl>
 <dl><dt>11/06/99 - Il primo fatico Linux Day</dt><dd>
 
-Contro ogni aspettativa il primo LD si rivela un vero e proprio successo sia in termini di partecipazione (pi˘ di 150 persone presenti), sia in termini di apprezzamento da parte dei presenti (il feedback ottenuto dai questionari Ë molto incoraggiante per continuare su questa strada).<br>
-Un grazie di cuore a tutte le persone che hanno partecipato al LD e a tutte le persone del lugBS (e non) che hanno creduto in questa folle idea e che hanno contribuito a tramutarla in realt‡.<br>
+Contro ogni aspettativa il primo LD si rivela un vero e proprio successo sia in termini di partecipazione (pi√π di 150 persone presenti), sia in termini di apprezzamento da parte dei presenti (il feedback ottenuto dai questionari √® molto incoraggiante per continuare su questa strada).<br>
+Un grazie di cuore a tutte le persone che hanno partecipato al LD e a tutte le persone del lugBS (e non) che hanno creduto in questa folle idea e che hanno contribuito a tramutarla in realt√†.<br>
 
 Speriamo di rivederci tutti al prossimo LD!
 
@@ -935,18 +935,18 @@ Speriamo di rivederci tutti al prossimo LD!
 </dl>
 <dl><dt>11/06/99 - La terza cena ufficiale del lugBS</dt><dd>
 
-Anche qua la partecipazione Ë stata molto numerosa e c'Ë stato modo di passare una piacevole serata in compagnia. A distanza di poco meno di un anno dalla prima cena "ufficiale" Ë sorprendete vedere quanti passi in avanti siano stati compiuti (ovviamente anche con qualche passo falso...).
+Anche qua la partecipazione √® stata molto numerosa e c'√® stato modo di passare una piacevole serata in compagnia. A distanza di poco meno di un anno dalla prima cena "ufficiale" √® sorprendete vedere quanti passi in avanti siano stati compiuti (ovviamente anche con qualche passo falso...).
 <br>
-Persone presenti (35), chi manca nell'elenco Ë pregato di segnarlarlo: Alex Castellini, Andrea Gelmini, Andrea Mauro, Andrea Moschella, Carlo Bertoldi, Carlo Mor, Davide Buggio, Enrico Colombini, Enzo Iodice, Fausto Franceschini, Federico Feroldi, Francesco Tomasoni, Gigi Bonomelli, Giorgio Di Giovanbattista, GiulioMaria Fontana, Jamil A.A., Luciano Ghezzi, Luciano Squaratti, Marco Baiguera, Marco Ghidinelli, Massimo Squassina, Matteo Ratto, Maurizio Botticini, Michele Bonera, Paolo Bedoschi, Paolo Pialorsi, Stefano Bellotti, Stefano Carrara, Stefano Mazza, Valter Cappa, Davide Zanelli.
+Persone presenti (35), chi manca nell'elenco √® pregato di segnarlarlo: Alex Castellini, Andrea Gelmini, Andrea Mauro, Andrea Moschella, Carlo Bertoldi, Carlo Mor, Davide Buggio, Enrico Colombini, Enzo Iodice, Fausto Franceschini, Federico Feroldi, Francesco Tomasoni, Gigi Bonomelli, Giorgio Di Giovanbattista, GiulioMaria Fontana, Jamil A.A., Luciano Ghezzi, Luciano Squaratti, Marco Baiguera, Marco Ghidinelli, Massimo Squassina, Matteo Ratto, Maurizio Botticini, Michele Bonera, Paolo Bedoschi, Paolo Pialorsi, Stefano Bellotti, Stefano Carrara, Stefano Mazza, Valter Cappa, Davide Zanelli.
 <br>
-Luogo: "LicinsÏ" (Collebeato), un'agriturismo nella zona rurale del paese.
+Luogo: "Licins√¨" (Collebeato), un'agriturismo nella zona rurale del paese.
 
 </dd>
 </dl>
 <dl><dt>12/06/99 - Nasce la mailing list degli attivisti</dt><dd>
 
-Per ridurre il traffico sulla mailing list lug (i "soci" del lugBS), Ë stata definita una mailing list apposita (lug-attivisti) per discutere dei progetti del lugBS.<br>
-Ovviamente questa mailing list non Ë solo per gli "eletti", ma chiunque abbia tempo, voglia (e soldi per pagare la tangente), puÚ richiedere la sua iscrizione.<br>
+Per ridurre il traffico sulla mailing list lug (i "soci" del lugBS), √® stata definita una mailing list apposita (lug-attivisti) per discutere dei progetti del lugBS.<br>
+Ovviamente questa mailing list non √® solo per gli "eletti", ma chiunque abbia tempo, voglia (e soldi per pagare la tangente), pu√≤ richiedere la sua iscrizione.<br>
 
 I primi 15 attivisti sono: Andrea Gelmini, Andrea Mauro, Carlo Bertoldi, Enrico Colombini, Enzo Iodice, Francesco Tomasoni, Giorgio Di Giovambattista, Jamil Abdalla Awad, Luca Giuzzi, Luciano Ghezzi, Marco Ghidinelli, Matteo Ratto, Maurizio Paolini, Michele Bonera, Paolo Colombini.
 
@@ -954,26 +954,26 @@ I primi 15 attivisti sono: Andrea Gelmini, Andrea Mauro, Carlo Bertoldi, Enrico 
 </dl>
 <dl><dt>16/06/99 - Il lugBS "esplode" oltre quota 100</dt><dd>
 
-Sulla spinta del Linux Day, il numero di persone iscritte alla mailing list lug (i "soci" del lugBS) aumenta fino a superare quota 100 (oltre ogni pi˘ rosea aspettativa).
+Sulla spinta del Linux Day, il numero di persone iscritte alla mailing list lug (i "soci" del lugBS) aumenta fino a superare quota 100 (oltre ogni pi√π rosea aspettativa).
 
 </dd>
 </dl>
-<dl><dt>23/06/99 - Incontro per discutere sulle attivit‡ per la prossima stagione</dt><dd>
+<dl><dt>23/06/99 - Incontro per discutere sulle attivit√† per la prossima stagione</dt><dd>
 
-Prima che tutti scappino a godersi le meritate ferie (tranne i pochi sgobboni...), gli attivisti del lugBS si sono incontrati nuovamente nel campo del Morrison per discutere dei progetti per la prossima stagione (ovviamente l'autunno, visto che per l'estate ciascuno aveva gi‡ i suoi progetti...).<br>
+Prima che tutti scappino a godersi le meritate ferie (tranne i pochi sgobboni...), gli attivisti del lugBS si sono incontrati nuovamente nel campo del Morrison per discutere dei progetti per la prossima stagione (ovviamente l'autunno, visto che per l'estate ciascuno aveva gi√† i suoi progetti...).<br>
 
-Gli attivisti del lugBS presenti erano 12: Andrea Gelmini, Andrea Mauro, Emanuele del Bono, Francesco Tomasoni, Giorgio Di Giovanbattista, Luca Giuzzi (sÏ proprio lui in persona!), Luciano Ghezzi, Marco Ghidinelli, Matteo "Atomik", Maurizio Paolini, Michele Bonera, Paolo Bedoschi.<br>
+Gli attivisti del lugBS presenti erano 12: Andrea Gelmini, Andrea Mauro, Emanuele del Bono, Francesco Tomasoni, Giorgio Di Giovanbattista, Luca Giuzzi (s√¨ proprio lui in persona!), Luciano Ghezzi, Marco Ghidinelli, Matteo "Atomik", Maurizio Paolini, Michele Bonera, Paolo Bedoschi.<br>
 (... con l'appoggio morale di Enzo Iodice, Jamil A.A. e Paolo Colombini che all'ultimo momento non sono riusciti a partecipare all'incontro.)<br>
 
-Si Ë discusso principalmente del prossimo Linux Day (data, luogo, argomenti, composizione del Comitato Organizzatore, ...), del progetto CD (che incomincia ad assumere dimensioni notevoli), della strutturazione delle mailing-list (viste le molte persone iscritte e i casi di messaggi O.T.), ..., di pizza, di birra, di donne... (ops, questo non Ë strettamente attinente al lugBS...).<br>
+Si √® discusso principalmente del prossimo Linux Day (data, luogo, argomenti, composizione del Comitato Organizzatore, ...), del progetto CD (che incomincia ad assumere dimensioni notevoli), della strutturazione delle mailing-list (viste le molte persone iscritte e i casi di messaggi O.T.), ..., di pizza, di birra, di donne... (ops, questo non √® strettamente attinente al lugBS...).<br>
 
-Nell'occasione il gruppo degli attivisti del lugBS Ë cresciuto con l'aggiunta di Emanuele Del Bono e Paolo Bedoschi.
+Nell'occasione il gruppo degli attivisti del lugBS √® cresciuto con l'aggiunta di Emanuele Del Bono e Paolo Bedoschi.
 
 </dd>
 </dl>
 <dl><dt>24/06/99 - Nasce la mailing lista lug-annunci</dt><dd>
 
-Per favorire le (non poche) persone stanche di scaricarsi le centinaia di mail alla settimana (di cui alcune completamente off-topic, tipo inviti a vedere collezioni di farfalle o tentativi di vendere WinModem a basso prezzo) scambiate sulla mailing list lug, Ë stata definita una mailing list a traffico limitato (lug-annunci).<br>
+Per favorire le (non poche) persone stanche di scaricarsi le centinaia di mail alla settimana (di cui alcune completamente off-topic, tipo inviti a vedere collezioni di farfalle o tentativi di vendere WinModem a basso prezzo) scambiate sulla mailing list lug, √® stata definita una mailing list a traffico limitato (lug-annunci).<br>
 
 </dd>
 </dl>
@@ -983,7 +983,7 @@ Nonostande le imminenti ferie, i soliti sgobboni, si sono allegramente riuniti (
 
 Gli attivisti e i "simpatizzanti" del lugBS presenti erano 15: Andrea Gelmini (con salamine appresso), Andrea Mauro, Emanuele del Bono (con l'amico NoBonus), Enzo Iodice (con Patrizia e Serena), Francesco Tomasoni (sempre in ritardo), Giorgio Di Giovanbattista, Jamil A.A., Luciano Ghezzi, Marco Ghidinelli, Matteo "Atomik", Michele Bonera, Paolo Bedoschi.<br>
 
-Tra birra, vino, salamine e antipasti, si Ë discusso dell'oranizzazione e del programma del L2D. Un grazie alla paziente moglie di Enzo che si Ë "scatenata" ai fornelli, mentre i maschi discutevano di questioni importanti.<br>
+Tra birra, vino, salamine e antipasti, si √® discusso dell'oranizzazione e del programma del L2D. Un grazie alla paziente moglie di Enzo che si √® "scatenata" ai fornelli, mentre i maschi discutevano di questioni importanti.<br>
 
 </dd>
 </dl>
@@ -995,14 +995,14 @@ Il gruppo degli attivisti del lugBS arriva a quota 19, con l'ingaggio di Paolo C
 </dl>
 <dl><dt>21/07/99 - Pronto il filmanto del primo LD</dt><dd>
 
-Dopo i mesi necessari alla post-produzione Ë finalmente pronto il documentario filmanto del primo Linux Day (sia in formato VHS tradizionale, sia in formato elettronico MPEG).<br>
+Dopo i mesi necessari alla post-produzione √® finalmente pronto il documentario filmanto del primo Linux Day (sia in formato VHS tradizionale, sia in formato elettronico MPEG).<br>
 <pre class="email">
 From: "Enzo Iodice"
 To: "'lug-ATTIVISTI'" <lug-attivisti@lugbs.linux.it>
 Date: Wed, 21 Jul 1999 16:40:14 +0200
 Subject: VHS e cdrom LinuxDay
 
-Il cdrom e il VHS del Linux Day sono pronti, chi li vuole Ë pregato di
+Il cdrom e il VHS del Linux Day sono pronti, chi li vuole √® pregato di
 farmelo sapere :)))
 fatemi avere una VHS sul quale volete il video (durata 10 minuti) e un cdrom
 sul quale avere l'mpg (90 mega)
@@ -1020,7 +1020,7 @@ Dopo un po' di messaggi off-topic (e dopo l'aumento del numero di mailing list d
 </dl>
 <dl><dt>01/08/99 - Finalmente i due IRC server sono sincronizzati</dt><dd>
 
-Dopo qualche mese di prove e testing, il mitico Giuzzi Ë riuscito a sincronizzare l'IRC server sulla rete Universitaria con quello sulla rete Interbusiness.<br>
+Dopo qualche mese di prove e testing, il mitico Giuzzi √® riuscito a sincronizzare l'IRC server sulla rete Universitaria con quello sulla rete Interbusiness.<br>
 <pre class="email">
 From: Luca Giuzzi
 Date: Sun, 1 Aug 1999 17:29:30 +0200
@@ -1034,15 +1034,15 @@ Ciao, lg
 </pre>
 </dd>
 </dl>
-<dl><dt>06/08/99 - Si Ë conclusa la votazione per il logo del L2D</dt><dd>
+<dl><dt>06/08/99 - Si √® conclusa la votazione per il logo del L2D</dt><dd>
 
-Nonostande le ferie, si Ë svolto un concorso per la realizzazione e la selezione del logo per il Linux 2 Day. In palio ricchissimi premi:<br>
+Nonostande le ferie, si √® svolto un concorso per la realizzazione e la selezione del logo per il Linux 2 Day. In palio ricchissimi premi:<br>
 
-1∞ premio un soggiorno di una settimana presso la casa di Andrea Gelmini, nel periodo di tosatura delle pecore, oppure nel periodo di spremitura dell'uva<br>
-2∞ premio l'invito alla prossima riunione del lugBS con incarichi di "responsabile al barbecue
-3∞ premio un utilissimo WinModem<br>
+1¬∞ premio un soggiorno di una settimana presso la casa di Andrea Gelmini, nel periodo di tosatura delle pecore, oppure nel periodo di spremitura dell'uva<br>
+2¬∞ premio l'invito alla prossima riunione del lugBS con incarichi di "responsabile al barbecue
+3¬∞ premio un utilissimo WinModem<br>
 
-La consegna dei loghi Ë durata dal 26 al 30 luglio. Il risultato della votazione Ë disponibile alla pagina del Linux2Day Contest.<br>
+La consegna dei loghi √® durata dal 26 al 30 luglio. Il risultato della votazione √® disponibile alla pagina del Linux2Day Contest.<br>
 
 </dd>
 </dl>
