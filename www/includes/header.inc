@@ -23,7 +23,8 @@ var pageTracker = _gat._getTracker("UA-3626063-1");
 pageTracker._initData();
 pageTracker._trackPageview();
 </script>
-<script type="text/javascript">
+<!-- script inutile: manca l'elemento :( -->
+<!--script type="text/javascript">
 function on_menu_click() {
  if (document.getElementById("testissima").style.display != "") {
   document.getElementById("testissima").style.display = "";
@@ -31,23 +32,23 @@ function on_menu_click() {
   document.getElementById("testissima").style.display = "inline";
   }
 }
-</script>
+</script-->
 <!-- <a href="http://lugbs.linux.it/plugins/bond.php">select</a> -->
 <BODY VLINK="blue" BGCOLOR="silver" TEXT="black" LINK="blue" ALINK="red">
-<table width="100%" cellpadding="25">
+<table width="100%" class="main-table">
  <tr>
-  <td>
-   <table bgcolor="black" width="100%" cellspacing="3" cellpadding="0">
+  <td class="main-table">
+   <table bgcolor="black" width="100%" cellspacing="3" cellpadding="0" class="border-table">
     <tr bgcolor="white">
-     <td width="100%">
-      <table cellspacing="0" cellpadding="4" width="90%" align="center">
+     <td width="100%" class="border-table">
+      <table cellspacing="0" width="90%" align="center" class="content-table">
        <tr>
-        <td align="right">
+        <td align="right" style="padding: 4">
          <h1>linux user group <span style="font-style: italic; color: red;">brescia</span></h1>
         </td>
        </tr>
        <tr>
-        <td>
+        <td class="content-table">
          <table cellpadding="0" cellspacing="2" width="100%" bgcolor="black">
           <tr bgcolor="black">
            <td bgcolor="#eeeeff">
